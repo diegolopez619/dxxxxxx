@@ -1,0 +1,1252 @@
+[
+  {
+    "disciplina": "FÍSICA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "Una carga eléctrica de prueba se coloca en una región del espacio donde existe un campo eléctrico. Desde el punto de vista físico, el campo eléctrico se define como:",
+        "opciones": [
+          "La energía potencial por unidad de carga.",
+          "La fuerza eléctrica que actúa sobre una carga de prueba positiva dividida entre el valor de dicha carga.",
+          "La cantidad de carga por unidad de superficie.",
+          "La diferencia de potencial entre dos puntos."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La definición operativa de campo eléctrico es la fuerza eléctrica por unidad de carga positiva de prueba."
+      },
+      {
+        "numero": 12,
+        "enunciado": "Un conductor rectilíneo es recorrido por una corriente eléctrica constante. ¿Qué fenómeno físico se genera alrededor del conductor?",
+        "opciones": [
+          "Un campo eléctrico radial.",
+          "Un campo magnético circular alrededor del conductor.",
+          "Una onda electromagnética longitudinal.",
+          "Una diferencia de potencial constante."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Una corriente eléctrica genera un campo magnético circular concéntrico al conductor (regla de la mano derecha)."
+      },
+      {
+        "numero": 13,
+        "enunciado": "Una onda mecánica se propaga a través de un medio material. ¿Qué propiedad caracteriza a este tipo de ondas?",
+        "opciones": [
+          "Pueden propagarse en el vacío.",
+          "Necesitan un medio material para propagarse.",
+          "Son siempre transversales.",
+          "Transportan materia de manera permanente."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Las ondas mecánicas requieren un medio material (sólido, líquido o gas) para propagarse, a diferencia de las electromagnéticas."
+      },
+      {
+        "numero": 14,
+        "enunciado": "En el plano cartesiano, una recta pasa por los puntos (0, 2) y (2, 6). ¿Cuál es la pendiente de la recta?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La pendiente m se calcula como m = (y2 - y1) / (x2 - x1) = (6 - 2) / (2 - 0) = 4 / 2 = 2."
+      },
+      {
+        "numero": 15,
+        "enunciado": "La ley de Ohm establece relación entre:",
+        "opciones": [
+          "Voltaje, corriente y resistencia.",
+          "Potencia, energía y tiempo.",
+          "Fuerza, masa y aceleración.",
+          "Carga, campo y distancia."
+        ],
+        "respuesta_correcta": "A",
+        "respuesta_explicada": "V = I * R relaciona voltaje (V), corriente (I) y resistencia (R)."
+      },
+      {
+        "numero": 16,
+        "enunciado": "Un objeto se mueve con velocidad constante en línea recta. ¿Cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "Su aceleración es positiva.",
+          "Su aceleración es nula.",
+          "Su rapidez disminuye con el tiempo.",
+          "Su dirección cambia continuamente."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Velocidad constante (magnitud y dirección) implica aceleración cero."
+      },
+      {
+        "numero": 17,
+        "enunciado": "El sonido es una onda:",
+        "opciones": [
+          "Electromagnética y transversal.",
+          "Mecánica y longitudinal.",
+          "Mecánica y transversal.",
+          "Electromagnética y longitudinal."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El sonido es una onda mecánica (necesita medio) y longitudinal (las partículas vibran en la dirección de propagación)."
+      },
+      {
+        "numero": 18,
+        "enunciado": "¿Cómo se clasifica el sonido según el tipo de vibración de las partículas del medio?",
+        "opciones": [
+          "Onda transversal.",
+          "Onda longitudinal.",
+          "Onda estacionaria.",
+          "Onda superficial."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "En el sonido, las partículas oscilan paralelas a la dirección de propagación, siendo una onda longitudinal."
+      },
+      {
+        "numero": 19,
+        "enunciado": "En Física, el calor se define como:",
+        "opciones": [
+          "La temperatura de un cuerpo.",
+          "La energía que se transfiere entre dos cuerpos debido a una diferencia de temperatura.",
+          "La cantidad de energía interna de un sistema.",
+          "Una propiedad intrínseca de la materia."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El calor es energía en tránsito debido a una diferencia de temperatura."
+      },
+      {
+        "numero": 20,
+        "enunciado": "La finalidad principal de un modelo físico es:",
+        "opciones": [
+          "Reproducir la realidad de manera exacta.",
+          "Representar de forma simplificada un fenómeno para comprender, explicar y predecir su comportamiento.",
+          "Sustituir completamente la experimentación.",
+          "Describir solo aspectos secundarios de un sistema."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Un modelo es una representación simplificada útil para entender y predecir, no una copia exacta."
+      }
+    ]
+  },
+  {
+    "disciplina": "MATEMÁTICA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "En una expresión algebraica, el término constante representa:",
+        "opciones": [
+          "Una cantidad que depende de la variable.",
+          "Una cantidad fija que no depende de la variable.",
+          "El coeficiente principal.",
+          "El resultado de la ecuación."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El término constante es un valor numérico fijo, independiente de la variable."
+      },
+      {
+        "numero": 12,
+        "enunciado": "Un ejemplo correcto de proporcionalidad inversa es:",
+        "opciones": [
+          "El número de trabajadores y el tiempo para realizar una tarea.",
+          "La cantidad de cuadernos y su precio total.",
+          "La edad y la estatura de una persona.",
+          "La velocidad y la distancia recorrida."
+        ],
+        "respuesta_correcta": "A",
+        "respuesta_explicada": "A más trabajadores, menos tiempo (producto constante)."
+      },
+      {
+        "numero": 13,
+        "enunciado": "Si una gráfica muestra una recta horizontal, esto indica que:",
+        "opciones": [
+          "La variable independiente aumenta rápidamente.",
+          "La variable dependiente mantiene un valor constante.",
+          "La pendiente es positiva.",
+          "No hay relación entre las variables."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Recta horizontal: pendiente cero, la variable dependiente no cambia."
+      },
+      {
+        "numero": 14,
+        "enunciado": "Una pendiente negativa en una recta significa que:",
+        "opciones": [
+          "Ambas variables aumentan.",
+          "A medida que una variable aumenta, la otra disminuye.",
+          "No hay cambio entre las variables.",
+          "La relación es directamente proporcional."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Pendiente negativa indica una relación inversa entre las variables."
+      },
+      {
+        "numero": 15,
+        "enunciado": "El valor absoluto de –7 es:",
+        "opciones": [
+          "–7",
+          "0",
+          "7",
+          "14"
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "El valor absoluto es la distancia al cero, siempre no negativa: |–7| = 7."
+      },
+      {
+        "numero": 16,
+        "enunciado": "Si una recta tiene pendiente negativa, esto significa que:",
+        "opciones": [
+          "Las variables son independientes.",
+          "Existe una relación inversa entre ellas.",
+          "La gráfica es una parábola.",
+          "La pendiente es indefinida."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Pendiente negativa: al aumentar x, y disminuye (relación inversa)."
+      },
+      {
+        "numero": 17,
+        "enunciado": "La suma de los ángulos internos de cualquier triángulo es:",
+        "opciones": [
+          "90°",
+          "180°",
+          "360°",
+          "Depende del tipo de triángulo."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Teorema fundamental de la geometría euclidiana: suma = 180°."
+      },
+      {
+        "numero": 18,
+        "enunciado": "Resolver la ecuación 5x – 10 = 0 da como resultado:",
+        "opciones": [
+          "x = 0",
+          "x = 2",
+          "x = 5",
+          "x = 10"
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "5x = 10 → x = 10 / 5 = 2."
+      },
+      {
+        "numero": 19,
+        "enunciado": "La matemática es esencial para la ciencia porque:",
+        "opciones": [
+          "Sustituye la experimentación.",
+          "Proporciona modelos y estructuras para representar fenómenos y realizar predicciones.",
+          "Es un conjunto de reglas memorísticas.",
+          "Solo sirve para cálculos numéricos."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La matemática es el lenguaje y herramienta de modelación de la ciencia."
+      },
+      {
+        "numero": 20,
+        "enunciado": "El infinito en matemática se define como:",
+        "opciones": [
+          "Un número muy grande.",
+          "Un concepto que describe procesos o conjuntos sin límite final.",
+          "El resultado de una división entre cero.",
+          "Una cantidad finita pero indeterminada."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El infinito es un concepto de ilimitación, no un número."
+      }
+    ]
+  },
+  {
+    "disciplina": "QUÍMICA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "Un cambio físico se caracteriza porque:",
+        "opciones": [
+          "Se forman nuevas sustancias.",
+          "No altera la composición química de la sustancia.",
+          "Implica la ruptura de enlaces químicos.",
+          "Libera energía en forma de calor."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "En un cambio físico, la sustancia mantiene su identidad química, solo cambia su forma o estado."
+      },
+      {
+        "numero": 12,
+        "enunciado": "La ley de conservación de la masa establece que:",
+        "opciones": [
+          "La masa de los productos es menor que la de los reactivos.",
+          "La masa total se conserva en una reacción química.",
+          "Los átomos se crean durante la reacción.",
+          "La energía se transforma en masa."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Lavoisier: \"La materia no se crea ni se destruye, solo se transforma\"."
+      },
+      {
+        "numero": 13,
+        "enunciado": "El pH es una magnitud que permite determinar:",
+        "opciones": [
+          "La concentración de iones en solución.",
+          "El grado de acidez o basicidad de una solución.",
+          "La conductividad eléctrica de un electrolito.",
+          "La temperatura de neutralización."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "pH = -log[H+], mide la acidez (pH<7) o basicidad (pH>7)."
+      },
+      {
+        "numero": 14,
+        "enunciado": "Los compuestos orgánicos se caracterizan principalmente por la presencia de enlaces entre:",
+        "opciones": [
+          "Oxígeno e hidrógeno.",
+          "Carbono e hidrógeno.",
+          "Nitrógeno y oxígeno.",
+          "Metales y no metales."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La química orgánica estudia compuestos basados en cadenas de carbono, usualmente con hidrógeno."
+      },
+      {
+        "numero": 15,
+        "enunciado": "Los hidrocarburos están formados exclusivamente por:",
+        "opciones": [
+          "Carbono, hidrógeno y oxígeno.",
+          "Carbono e hidrógeno.",
+          "Carbono, nitrógeno y oxígeno.",
+          "Hidrógeno y oxígeno."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Hidrocarburos: compuestos de solo carbono (C) e hidrógeno (H)."
+      },
+      {
+        "numero": 16,
+        "enunciado": "El estado sólido se caracteriza por:",
+        "opciones": [
+          "Forma y volumen variables.",
+          "Forma variable y volumen fijo.",
+          "Forma y volumen fijos.",
+          "Alta compresibilidad."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "Los sólidos tienen forma y volumen definidos debido a sus partículas muy unidas."
+      },
+      {
+        "numero": 17,
+        "enunciado": "Los modelos moleculares en Química se utilizan para:",
+        "opciones": [
+          "Representar exactamente la realidad atómica.",
+          "Representar de manera simplificada la disposición de átomos y enlaces.",
+          "Calcular propiedades termodinámicas.",
+          "Medir la masa molecular."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Son representaciones físicas o gráficas que ayudan a visualizar estructuras moleculares."
+      },
+      {
+        "numero": 18,
+        "enunciado": "La fórmula química del ácido sulfúrico es:",
+        "opciones": [
+          "H₂SO₄",
+          "HCl",
+          "HNO₃",
+          "H₂CO₃"
+        ],
+        "respuesta_correcta": "A",
+        "respuesta_explicada": "Ácido sulfúrico: H₂SO₄, uno de los ácidos minerales más importantes."
+      },
+      {
+        "numero": 19,
+        "enunciado": "La fórmula química del cloruro de sodio es:",
+        "opciones": [
+          "NaCl",
+          "KCl",
+          "CaCl₂",
+          "MgCl₂"
+        ],
+        "respuesta_correcta": "A",
+        "respuesta_explicada": "Cloruro de sodio: NaCl, la sal de mesa común."
+      },
+      {
+        "numero": 20,
+        "enunciado": "La fórmula química del dióxido de carbono es:",
+        "opciones": [
+          "CO",
+          "CO₂",
+          "C₂O",
+          "CH₄"
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Dióxido de carbono: CO₂, gas esencial en la respiración y efecto invernadero."
+      }
+    ]
+  },
+  {
+    "disciplina": "GEOGRAFÍA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "Las coordenadas geográficas básicas son:",
+        "opciones": [
+          "Latitud y altitud.",
+          "Latitud y longitud.",
+          "Longitud y profundidad.",
+          "Altitud y huso horario."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Latitud (Norte-Sur) y longitud (Este-Oeste) definen la posición absoluta en la Tierra."
+      },
+      {
+        "numero": 12,
+        "enunciado": "La formación que se produce en la desembocadura de un río se denomina:",
+        "opciones": [
+          "Cañón.",
+          "Delta.",
+          "Meandro.",
+          "Glaciar."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Un delta es un depósito de sedimentos en la desembocadura de un río en un cuerpo de agua tranquilo."
+      },
+      {
+        "numero": 13,
+        "enunciado": "La migración interna se define como:",
+        "opciones": [
+          "Desplazamiento entre países.",
+          "Desplazamiento dentro de las fronteras de un mismo país.",
+          "Movimiento estacional por trabajo agrícola.",
+          "Éxodo por conflictos bélicos."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Migración interna: movimiento dentro del mismo país (ej. campo-ciudad)."
+      },
+      {
+        "numero": 14,
+        "enunciado": "Un recurso energético estratégico es:",
+        "opciones": [
+          "El agua potable.",
+          "El gas natural.",
+          "El suelo fértil.",
+          "La biodiversidad."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El gas natural es un recurso energético no renovable clave en la economía y geopolítica mundial."
+      },
+      {
+        "numero": 15,
+        "enunciado": "El espacio geográfico se define como:",
+        "opciones": [
+          "Solo el soporte físico del territorio.",
+          "Una construcción social producto de la interacción entre naturaleza y actividad humana.",
+          "Un área delimitada por fronteras políticas.",
+          "Un conjunto de elementos naturales sin intervención humana."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El espacio geográfico es dinámico y resultado de la relación sociedad-naturaleza a lo largo del tiempo."
+      },
+      {
+        "numero": 16,
+        "enunciado": "Una de las principales funciones de los ríos es:",
+        "opciones": [
+          "Producir energía eólica.",
+          "Ser barreras naturales infranqueables.",
+          "Proporcionar agua dulce y vías de comunicación.",
+          "Generar desiertos por erosión."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "Los ríos son fuente vital de agua, transporte, energía (hidroeléctrica) y fertilizan tierras."
+      },
+      {
+        "numero": 17,
+        "enunciado": "La desertificación consiste en:",
+        "opciones": [
+          "La formación de nuevos desiertos por causas naturales.",
+          "La pérdida de capacidad productiva del suelo en zonas áridas por factores climáticos y humanos.",
+          "El avance de glaciares sobre tierras fértiles.",
+          "La inundación permanente de terrenos agrícolas."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La desertificación es la degradación de tierras en zonas secas, principalmente por malas prácticas humanas y clima."
+      },
+      {
+        "numero": 18,
+        "enunciado": "El relieve influye en la organización del espacio geográfico porque:",
+        "opciones": [
+          "Determina el tipo de gobierno de un país.",
+          "Condiciona el clima, la accesibilidad y el uso del suelo.",
+          "Define la composición étnica de la población.",
+          "Establece los tratados internacionales."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El relieve afecta el clima, los asentamientos, las rutas de transporte y las actividades económicas."
+      },
+      {
+        "numero": 19,
+        "enunciado": "El criterio principal para establecer las zonas climáticas de la Tierra a escala global es:",
+        "opciones": [
+          "La longitud.",
+          "La altitud.",
+          "La latitud.",
+          "La proximidad al mar."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "La latitud es el factor principal que determina la distribución de la radiación solar y, por tanto, los grandes climas."
+      },
+      {
+        "numero": 20,
+        "enunciado": "El movimiento de rotación de la Tierra provoca directamente:",
+        "opciones": [
+          "Las estaciones del año.",
+          "La alternancia del día y la noche.",
+          "Las mareas oceánicas.",
+          "Los cambios en la órbita terrestre."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La rotación sobre su eje (24 horas) causa la sucesión de días y noches."
+      }
+    ]
+  },
+  {
+    "disciplina": "PSICOLOGÍA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "El proceso cognitivo que permite seleccionar estímulos relevantes se denomina:",
+        "opciones": [
+          "Percepción.",
+          "Memoria.",
+          "Atención.",
+          "Aprendizaje."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "La atención es el filtro que selecciona y dirige los recursos cognitivos hacia estímulos específicos."
+      },
+      {
+        "numero": 12,
+        "enunciado": "El tipo de memoria que almacena conocimientos de manera duradera es:",
+        "opciones": [
+          "Memoria sensorial.",
+          "Memoria a corto plazo.",
+          "Memoria de trabajo.",
+          "Memoria a largo plazo."
+        ],
+        "respuesta_correcta": "D",
+        "respuesta_explicada": "La memoria a largo plazo (MLP) almacena información de forma permanente o semipermanente."
+      },
+      {
+        "numero": 13,
+        "enunciado": "Según Piaget, la etapa del desarrollo cognitivo caracterizada por el pensamiento abstracto es:",
+        "opciones": [
+          "Sensoriomotora.",
+          "Preoperacional.",
+          "Operaciones concretas.",
+          "Operaciones formales."
+        ],
+        "respuesta_correcta": "D",
+        "respuesta_explicada": "La etapa de las operaciones formales (desde aprox. 12 años) incluye pensamiento abstracto, hipotético-deductivo."
+      },
+      {
+        "numero": 14,
+        "enunciado": "Cuando una conducta se fortalece por una consecuencia positiva, se aplica el principio de:",
+        "opciones": [
+          "Castigo.",
+          "Reforzamiento.",
+          "Extinción.",
+          "Generalización."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El reforzamiento (positivo o negativo) aumenta la probabilidad de que una conducta se repita."
+      },
+      {
+        "numero": 15,
+        "enunciado": "El aprendizaje en el que se relaciona nueva información con conocimientos previos se denomina:",
+        "opciones": [
+          "Mecánico.",
+          "Significativo.",
+          "Por observación.",
+          "Asociativo."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Ausubel: el aprendizaje significativo integra nueva información a la estructura cognitiva existente."
+      },
+      {
+        "numero": 16,
+        "enunciado": "Según Freud, la parte de la conducta influida por contenidos no conscientes se vincula con:",
+        "opciones": [
+          "El consciente.",
+          "El inconsciente.",
+          "El preconsciente.",
+          "El superyó."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El inconsciente alberga deseos, recuerdos y conflictos reprimidos que influyen en la conducta."
+      },
+      {
+        "numero": 17,
+        "enunciado": "La personalidad se caracteriza por ser:",
+        "opciones": [
+          "Completamente heredada.",
+          "Exclusivamente ambiental.",
+          "Un conjunto estable de características influidas por factores biológicos, psicológicos y sociales.",
+          "Cambiante de un día para otro."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "La personalidad es un patrón relativamente estable, resultado de la interacción entre herencia y ambiente."
+      },
+      {
+        "numero": 18,
+        "enunciado": "Una función principal de las emociones es:",
+        "opciones": [
+          "Bloquear el pensamiento racional.",
+          "Evaluar situaciones y orientar la conducta de manera adaptativa.",
+          "Sustituir la memoria a largo plazo.",
+          "Anular la motivación intrínseca."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Las emociones son respuestas adaptativas que preparan al organismo para actuar frente a estímulos relevantes."
+      },
+      {
+        "numero": 19,
+        "enunciado": "En la adolescencia, el proceso de búsqueda de identidad se relaciona principalmente con:",
+        "opciones": [
+          "El autoconcepto.",
+          "La memoria episódica.",
+          "El reforzamiento negativo.",
+          "La percepción selectiva."
+        ],
+        "respuesta_correcta": "A",
+        "respuesta_explicada": "Erikson: la adolescencia es la etapa de \"Identidad vs. Confusión de roles\", donde se forma la identidad y autoconcepto."
+      },
+      {
+        "numero": 20,
+        "enunciado": "Desde la psicología del aprendizaje, el error se concibe como:",
+        "opciones": [
+          "Un fracaso definitivo.",
+          "Una señal de incapacidad.",
+          "Una fuente de información para el proceso educativo.",
+          "Algo que debe evitarse a toda costa."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "El error es una oportunidad de aprendizaje, permite ajustar estrategias y comprender mejor el proceso."
+      }
+    ]
+  },
+  {
+    "disciplina": "FILOSOFÍA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "Según Kant, el conocimiento se origina cuando:",
+        "opciones": [
+          "Solo la razón proporciona verdades innatas.",
+          "Los datos de la experiencia son organizados por estructuras a priori de la razón.",
+          "Los sentidos engañan y no son confiables.",
+          "La fe y la revelación son la base del saber."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Kant propone una síntesis: el conocimiento surge de la experiencia (materia) organizada por las categorías a priori de la razón (forma)."
+      },
+      {
+        "numero": 12,
+        "enunciado": "La pregunta “¿qué es lo bueno?” pertenece al campo de:",
+        "opciones": [
+          "La ontología.",
+          "La epistemología.",
+          "La ética filosófica.",
+          "La estética."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "La ética filosófica reflexiona sobre los fundamentos de la moral, los valores y conceptos como \"el bien\"."
+      },
+      {
+        "numero": 13,
+        "enunciado": "El existencialismo enfatiza principalmente:",
+        "opciones": [
+          "La esencia predeterminada del ser humano.",
+          "La libertad, la responsabilidad y la capacidad de elección humana.",
+          "La verdad absoluta y universal.",
+          "El conocimiento puramente empírico."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El existencialismo (Sartre, etc.) proclama que la existencia precede a la esencia, destacando la libertad y responsabilidad individual."
+      },
+      {
+        "numero": 14,
+        "enunciado": "La estética filosófica estudia principalmente:",
+        "opciones": [
+          "La moral y los valores.",
+          "La belleza, el arte y la experiencia estética.",
+          "El ser y la existencia.",
+          "El conocimiento científico."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La estética es la rama de la filosofía que reflexiona sobre la belleza, el arte y la percepción de lo bello."
+      },
+      {
+        "numero": 15,
+        "enunciado": "La afirmación “el ser humano es un ser racional” expresa una concepción de:",
+        "opciones": [
+          "La epistemología.",
+          "La antropología filosófica.",
+          "La lógica formal.",
+          "La filosofía política."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La antropología filosófica estudia la naturaleza y esencia del ser humano."
+      },
+      {
+        "numero": 16,
+        "enunciado": "Un problema adquiere carácter filosófico cuando:",
+        "opciones": [
+          "Se resuelve mediante experimentos.",
+          "Cuestiona supuestos fundamentales de creencias y conocimientos.",
+          "Es de índole técnico o práctico.",
+          "Tiene una respuesta única y definitiva."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La filosofía se caracteriza por su actitud crítica y radical, cuestionando los fundamentos mismos del saber y la existencia."
+      },
+      {
+        "numero": 17,
+        "enunciado": "La filosofía se diferencia del mito en que:",
+        "opciones": [
+          "Usa narraciones simbólicas.",
+          "Se apoya en la razón y la argumentación racional.",
+          "Carece de sistematicidad.",
+          "Es propia de culturas antiguas."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El mito explica mediante relatos y dioses; la filosofía surge con la explicación racional y argumentada (logos)."
+      },
+      {
+        "numero": 18,
+        "enunciado": "El relativismo filosófico sostiene que la verdad o los valores dependen de:",
+        "opciones": [
+          "Leyes universales e inmutables.",
+          "La revelación divina.",
+          "El contexto cultural, histórico o individual.",
+          "La lógica formal."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "El relativismo niega verdades absolutas, afirmando que dependen del punto de vista, cultura o época."
+      },
+      {
+        "numero": 19,
+        "enunciado": "La filosofía moderna se caracteriza por:",
+        "opciones": [
+          "La aceptación acrítica de la tradición.",
+          "El uso autónomo de la razón como fundamento del conocimiento.",
+          "La primacía de la teología sobre la filosofía.",
+          "El rechazo total de la ciencia."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La filosofía moderna (Descartes, Kant, etc.) coloca a la razón subjetiva como el centro y juez del conocimiento."
+      },
+      {
+        "numero": 20,
+        "enunciado": "El problema del libre albedrío busca esclarecer:",
+        "opciones": [
+          "La naturaleza de la materia.",
+          "Si el ser humano es libre para elegir sus acciones o está determinado.",
+          "El origen del universo.",
+          "La validez del conocimiento científico."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Es el debate entre la libertad de elección y el determinismo (fatalismo, determinismo biológico, etc.)."
+      }
+    ]
+  },
+  {
+    "disciplina": "HISTORIA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "El impacto estructural más significativo de la Guerra del Pacífico fue:",
+        "opciones": [
+          "La modernización de la industria boliviana.",
+          "La transformación territorial y geopolítica del país.",
+          "La eliminación de la oligarquía minera.",
+          "La instauración de un sistema democrático."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Bolivia perdió su litoral, un cambio geopolítico traumático que marcó su desarrollo posterior."
+      },
+      {
+        "numero": 12,
+        "enunciado": "Los conflictos internos durante la etapa republicana reflejan principalmente:",
+        "opciones": [
+          "La rápida consolidación del Estado nacional.",
+          "La dificultad para construir un proyecto nacional integrador.",
+          "La ausencia de disputas regionales.",
+          "El consenso absoluto en el modelo de Estado."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Las luchas entre caudillos, regiones y grupos de poder dificultaron la unificación y estabilidad nacional."
+      },
+      {
+        "numero": 13,
+        "enunciado": "La expansión europea en la época moderna se explica principalmente por:",
+        "opciones": [
+          "Intereses humanitarios y culturales.",
+          "Intereses económicos y políticos de control de rutas y recursos.",
+          "La búsqueda de nuevos territorios para sobrepoblación.",
+          "El avance científico desinteresado."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Fue impulsada por la búsqueda de metales preciosos, especias y el control comercial (mercantilismo)."
+      },
+      {
+        "numero": 14,
+        "enunciado": "Una característica clave de la economía moderna temprana fue:",
+        "opciones": [
+          "El autoconsumo generalizado.",
+          "El crecimiento del comercio internacional y la acumulación de capital.",
+          "La ausencia de sistemas financieros.",
+          "La igualdad económica entre regiones."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Surge el capitalismo comercial, la banca, y se acumula capital que financiará la Revolución Industrial."
+      },
+      {
+        "numero": 15,
+        "enunciado": "El Estado moderno se caracterizó principalmente por:",
+        "opciones": [
+          "La descentralización del poder.",
+          "La centralización del poder político.",
+          "La inexistencia de burocracia.",
+          "La fragmentación feudal del territorio."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El Estado moderno (absolutismo) centraliza el poder, monopoliza la fuerza y crea una burocracia administrativa."
+      },
+      {
+        "numero": 16,
+        "enunciado": "Un hecho que simboliza el inicio de la Edad Contemporánea es:",
+        "opciones": [
+          "La Revolución Industrial.",
+          "La Revolución Francesa.",
+          "El Descubrimiento de América.",
+          "La caída del Imperio romano."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La Revolución Francesa (1789) marca el fin del Antiguo Régimen y el inicio de la era contemporánea con ideas de libertad, igualdad y nación."
+      },
+      {
+        "numero": 17,
+        "enunciado": "Una consecuencia social central de la Revolución Industrial fue:",
+        "opciones": [
+          "El fin de la clase obrera.",
+          "El surgimiento de la clase obrera industrial.",
+          "La desaparición de las ciudades.",
+          "La igualdad social automática."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La industrialización creó una nueva clase social: el proletariado urbano, que vivía en condiciones precarias."
+      },
+      {
+        "numero": 18,
+        "enunciado": "Las batallas independentistas en Bolivia fueron importantes porque:",
+        "opciones": [
+          "Fueron solo enfrentamientos militares sin proyecto político.",
+          "Representaron la expresión armada de un proyecto político emancipador.",
+          "Consolidaron inmediatamente la igualdad social.",
+          "Evitaron toda influencia externa."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Fueron parte de una guerra por la independencia, con un objetivo político claro: la creación de una república soberana."
+      },
+      {
+        "numero": 19,
+        "enunciado": "El retorno a la democracia en 1982 significó principalmente:",
+        "opciones": [
+          "La solución inmediata de la crisis económica.",
+          "La recuperación del orden constitucional y la institucionalidad democrática.",
+          "La eliminación de todos los conflictos sociales.",
+          "El establecimiento de un gobierno autoritario."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Tras años de dictaduras militares, se restableció el gobierno civil y el sistema democrático, a pesar de los grandes desafíos económicos."
+      },
+      {
+        "numero": 20,
+        "enunciado": "La Reforma Educativa de 1994 tuvo como eje central:",
+        "opciones": [
+          "La homogenización cultural y lingüística.",
+          "El reconocimiento de la diversidad cultural y lingüística.",
+          "La eliminación de la educación bilingüe.",
+          "La centralización curricular en la capital."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La reforma introdujo la Educación Intercultural Bilingüe (EIB), reconociendo la pluralidad cultural y lingüística de Bolivia."
+      }
+    ]
+  },
+  {
+    "disciplina": "BIOLOGÍA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "La función principal de los productores en un ecosistema es:",
+        "opciones": [
+          "Consumir otros organismos.",
+          "Transformar energía lumínica o química en materia orgánica.",
+          "Descomponer materia orgánica.",
+          "Regular el clima."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Productores (plantas, algas, algunas bacterias) fijan energía solar o química mediante fotosíntesis o quimiosíntesis, iniciando las cadenas tróficas."
+      },
+      {
+        "numero": 12,
+        "enunciado": "La función principal del sistema respiratorio humano es:",
+        "opciones": [
+          "Transportar nutrientes.",
+          "Intercambiar gases (oxígeno y dióxido de carbono).",
+          "Eliminar desechos sólidos.",
+          "Producir hormonas."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Su función es el intercambio gaseoso: ingresar O₂ y eliminar CO₂."
+      },
+      {
+        "numero": 13,
+        "enunciado": "La sangre cumple una función esencial porque:",
+        "opciones": [
+          "Produce células nerviosas.",
+          "Transporta oxígeno, nutrientes, hormonas y recoge desechos.",
+          "Almacena energía en forma de grasa.",
+          "Controla directamente la reproducción."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La sangre es el principal medio de transporte interno del cuerpo."
+      },
+      {
+        "numero": 14,
+        "enunciado": "Las bacterias pertenecen al reino:",
+        "opciones": [
+          "Protista.",
+          "Fungi.",
+          "Monera.",
+          "Plantae."
+        ],
+        "respuesta_correcta": "C",
+        "respuesta_explicada": "El reino Monera incluye organismos procariotas: bacterias y arqueas."
+      },
+      {
+        "numero": 15,
+        "enunciado": "La regulación constante del medio interno del organismo se denomina:",
+        "opciones": [
+          "Metabolismo.",
+          "Homeostasis.",
+          "Evolución.",
+          "Adaptación."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Homeostasis: proceso por el cual los organismos mantienen constantes sus condiciones internas (temperatura, pH, etc.)."
+      },
+      {
+        "numero": 16,
+        "enunciado": "La fecundación se define como:",
+        "opciones": [
+          "La división celular mitótica.",
+          "La unión de gametos para formar un cigoto.",
+          "La formación de espermatozoides.",
+          "El desarrollo embrionario."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Fecundación: fusión de un gameto masculino y uno femenino para formar el cigoto, que da inicio a un nuevo individuo."
+      },
+      {
+        "numero": 17,
+        "enunciado": "La biodiversidad se refiere principalmente a:",
+        "opciones": [
+          "Solo el número de especies en un área.",
+          "La variedad de seres vivos a nivel genético, de especies y ecosistemas.",
+          "La cantidad de recursos naturales explotables.",
+          "La uniformidad de los ecosistemas."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La biodiversidad abarca tres niveles: diversidad genética, de especies y de ecosistemas."
+      },
+      {
+        "numero": 18,
+        "enunciado": "Las mutaciones son importantes porque:",
+        "opciones": [
+          "Siempre son perjudiciales.",
+          "Generan variabilidad genética para la evolución.",
+          "Eliminan características heredables.",
+          "Mantienen invariables las especies."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Las mutaciones son cambios en el ADN que, al ser la fuente primaria de nueva variación genética, son la materia prima de la evolución."
+      },
+      {
+        "numero": 19,
+        "enunciado": "Una cadena alimentaria representa:",
+        "opciones": [
+          "La competencia entre depredadores.",
+          "El flujo de energía a través de relaciones de alimentación.",
+          "La distribución geográfica de las especies.",
+          "El ciclo del agua en un ecosistema."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Muestra la transferencia de energía y materia al pasar de un organismo consumidor a otro (ej: planta → herbívoro → carnívoro)."
+      },
+      {
+        "numero": 20,
+        "enunciado": "El concepto biológico de especie se define principalmente por:",
+        "opciones": [
+          "La similitud física entre individuos.",
+          "La capacidad de reproducirse entre sí y producir descendencia fértil.",
+          "La coexistencia en un mismo hábitat.",
+          "El tamaño poblacional."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Especies biológicas son grupos de poblaciones que pueden cruzarse y producir descendencia fértil, estando aisladas reproductivamente de otros grupos."
+      }
+    ]
+  },
+  {
+    "disciplina": "TÉCNICA TECNOLÓGICA",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "La memoria RAM se caracteriza por:",
+        "opciones": [
+          "Almacenar datos de manera permanente.",
+          "Almacenar temporalmente datos y programas en uso.",
+          "Ser un dispositivo de entrada.",
+          "Tener capacidad ilimitada."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "RAM (Random Access Memory): memoria volátil de rápido acceso donde el procesador trabaja con los datos activos."
+      },
+      {
+        "numero": 12,
+        "enunciado": "Un dispositivo de almacenamiento externo permite:",
+        "opciones": [
+          "Procesar información rápidamente.",
+          "Guardar, respaldar y trasladar información.",
+          "Ejecutar el sistema operativo.",
+          "Conectar a internet sin cables."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Ejemplos: discos duros externos, memorias USB, tarjetas SD. Permiten almacenamiento portátil y respaldo."
+      },
+      {
+        "numero": 13,
+        "enunciado": "El uso responsable de las TIC implica:",
+        "opciones": [
+          "Solo utilizar redes sociales.",
+          "Aplicar criterios de seguridad, ética y respeto.",
+          "Descargar software sin licencia.",
+          "Ignorar la privacidad de otros."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Incluye proteger datos personales, respetar la propiedad intelectual, evitar el ciberacoso y ser crítico con la información."
+      },
+      {
+        "numero": 14,
+        "enunciado": "La nube informática se utiliza principalmente para:",
+        "opciones": [
+          "Almacenar datos y usar servicios a través de internet.",
+          "Reemplazar completamente los discos duros locales.",
+          "Fabricar componentes de hardware.",
+          "Programar lenguajes de bajo nivel."
+        ],
+        "respuesta_correcta": "A",
+        "respuesta_explicada": "La computación en la nube ofrece almacenamiento, software y procesamiento como servicios a través de Internet."
+      },
+      {
+        "numero": 15,
+        "enunciado": "Un navegador web es un programa que permite:",
+        "opciones": [
+          "Editar documentos de texto.",
+          "Interpretar y mostrar contenidos de internet.",
+          "Crear bases de datos relacionales.",
+          "Diseñar páginas web estáticas."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Ejemplos: Chrome, Firefox, Safari. Interpretan código HTML, CSS, JS para mostrar páginas web."
+      },
+      {
+        "numero": 16,
+        "enunciado": "La dirección URL se utiliza para:",
+        "opciones": [
+          "Identificar un usuario en una red social.",
+          "Localizar un recurso específico en la web.",
+          "Encriptar mensajes de correo electrónico.",
+          "Medir la velocidad de internet."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "URL (Uniform Resource Locator): es la dirección única que identifica una página web o recurso en Internet."
+      },
+      {
+        "numero": 17,
+        "enunciado": "Un virus informático se caracteriza por:",
+        "opciones": [
+          "Mejorar el rendimiento del sistema.",
+          "Ser un programa malicioso que altera el funcionamiento del sistema.",
+          "Ser un componente esencial del sistema operativo.",
+          "Facilitar la navegación web."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Es un software dañino que se replica a sí mismo e infecta archivos, pudiendo robar datos, dañar el sistema o mostrar anuncios no deseados."
+      },
+      {
+        "numero": 18,
+        "enunciado": "El antivirus cumple la función de:",
+        "opciones": [
+          "Acelerar el procesamiento de datos.",
+          "Identificar, bloquear y eliminar amenazas informáticas.",
+          "Crear copias automáticas de archivos.",
+          "Gestionar la memoria RAM."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Software diseñado para detectar, neutralizar y eliminar virus y otros tipos de malware."
+      },
+      {
+        "numero": 19,
+        "enunciado": "El correo electrónico se utiliza principalmente para:",
+        "opciones": [
+          "Enviar y recibir mensajes y archivos de forma digital.",
+          "Jugar en línea.",
+          "Programar aplicaciones móviles.",
+          "Diseñar interfaces gráficas."
+        ],
+        "respuesta_correcta": "A",
+        "respuesta_explicada": "Es uno de los servicios más antiguos y esenciales de Internet para comunicación asincrónica."
+      },
+      {
+        "numero": 20,
+        "enunciado": "Una contraseña segura se caracteriza por:",
+        "opciones": [
+          "Ser fácil de recordar, como “123456”.",
+          "Usar combinaciones variadas de caracteres.",
+          "Incluir solo letras minúsculas.",
+          "Ser el nombre del usuario."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Debe ser larga, con combinación de mayúsculas, minúsculas, números y símbolos, y no ser información personal fácil de adivinar."
+      }
+    ]
+  },
+  {
+    "disciplina": "LENGUAJE",
+    "preguntas": [
+      {
+        "numero": 11,
+        "enunciado": "La característica fundamental del realismo literario es:",
+        "opciones": [
+          "La idealización de personajes y escenarios.",
+          "La representación fiel y objetiva de la realidad cotidiana.",
+          "El uso exclusivo de metáforas complejas.",
+          "La ausencia de descripciones detalladas."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El realismo (siglo XIX) busca reflejar la sociedad de su tiempo con objetividad, detalle y personajes comunes."
+      },
+      {
+        "numero": 12,
+        "enunciado": "Una oración cuyo verbo no requiere complemento directo se denomina:",
+        "opciones": [
+          "Transitiva.",
+          "Intransitiva.",
+          "Pasiva.",
+          "Reflexiva."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Verbo intransitivo: expresa una acción completa que no pasa a un objeto directo (ej: \"El niño corre\")."
+      },
+      {
+        "numero": 13,
+        "enunciado": "La narración en primera persona se caracteriza porque:",
+        "opciones": [
+          "El narrador lo sabe todo sobre los personajes.",
+          "El narrador forma parte de la historia y relata desde su perspectiva.",
+          "El narrador está completamente ausente del relato.",
+          "Se usa solo en textos científicos."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Narrador en primera persona (yo/nosotros): es un personaje que cuenta su experiencia, limitando la perspectiva a lo que él sabe y vive."
+      },
+      {
+        "numero": 14,
+        "enunciado": "La finalidad principal del uso correcto de la coma es:",
+        "opciones": [
+          "Sustituir todos los demás signos de puntuación.",
+          "Organizar ideas y evitar ambigüedades en el texto.",
+          "Indicar el final de un párrafo.",
+          "Marcar el tono exclamativo."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La coma marca pausas breves, separa elementos de una enumeración, aclara incisos y evita malas interpretaciones."
+      },
+      {
+        "numero": 15,
+        "enunciado": "Un autor representativo del Siglo de Oro español es:",
+        "opciones": [
+          "Gabriel García Márquez.",
+          "Miguel de Cervantes.",
+          "Pablo Neruda.",
+          "Jorge Luis Borges."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El Siglo de Oro (XVI-XVII) tiene como máxima figura a Cervantes, autor de \"El Quijote\"."
+      },
+      {
+        "numero": 16,
+        "enunciado": "La cohesión textual se logra principalmente mediante:",
+        "opciones": [
+          "La repetición excesiva de palabras clave.",
+          "El uso de conectores, pronombres y referencias.",
+          "La omisión de toda puntuación.",
+          "La escritura en verso."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "La cohesión es la propiedad del texto que conecta sus partes mediante mecanismos lingüísticos (conectores, sinónimos, elipsis, etc.)."
+      },
+      {
+        "numero": 17,
+        "enunciado": "Una palabra polisémica es aquella que:",
+        "opciones": [
+          "Tiene un solo significado en todo contexto.",
+          "Tiene varios significados relacionados según el contexto.",
+          "Se escribe igual en todos los idiomas.",
+          "Cambia de significado por errores ortográficos."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Polisemia: una misma palabra tiene varios significados, usualmente relacionados (ej: \"cabeza\" de una persona, de un clavo, de un gobierno)."
+      },
+      {
+        "numero": 18,
+        "enunciado": "La finalidad principal de un texto argumentativo es:",
+        "opciones": [
+          "Narrar una historia entretenida.",
+          "Convencer o persuadir mediante argumentos.",
+          "Describir un paisaje detalladamente.",
+          "Informar sin emitir opinión."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "El texto argumentativo defiende una tesis o postura con razones (argumentos) para influir en el receptor."
+      },
+      {
+        "numero": 19,
+        "enunciado": "Un autor representativo del indigenismo boliviano es:",
+        "opciones": [
+          "Jaime Saenz.",
+          "Alcides Arguedas.",
+          "Adela Zamudio.",
+          "Óscar Alfaro."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Alcides Arguedas, con novelas como \"Raza de bronce\", es un pionero de la narrativa indigenista en Bolivia."
+      },
+      {
+        "numero": 20,
+        "enunciado": "Un autor de poesía boliviana introspectiva y urbana es:",
+        "opciones": [
+          "Gastón Suárez.",
+          "Jaime Saenz.",
+          "Yolanda Bedregal.",
+          "Antonio Paredes Candia."
+        ],
+        "respuesta_correcta": "B",
+        "respuesta_explicada": "Jaime Saenz es conocido por su poesía intensa, metafísica y centrada en los espacios oscuros de la ciudad de La Paz."
+      }
+    ]
+  }
+]
