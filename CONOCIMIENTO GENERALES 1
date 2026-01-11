@@ -1,0 +1,522 @@
+{
+  "FÍSICA": [
+    {
+      "pregunta": "Un cuerpo se desplaza en línea recta recorriendo distancias iguales en intervalos de tiempo iguales. Desde la cinemática, ¿qué característica define este tipo de movimiento?",
+      "opciones": ["A. Aceleración constante positiva", "B. Velocidad constante", "C. Fuerza neta variable", "D. Masa variable"],
+      "respuesta_correcta": "B. Velocidad constante"
+    },
+    {
+      "pregunta": "¿Qué expresa correctamente el concepto de aceleración?",
+      "opciones": ["A. Variación de la posición con respecto al tiempo", "B. Variación de la velocidad con respecto al tiempo", "C. Cambio en la masa del cuerpo", "D. Fuerza aplicada sobre un cuerpo"],
+      "respuesta_correcta": "B. Variación de la velocidad con respecto al tiempo"
+    },
+    {
+      "pregunta": "Un objeto cae verticalmente bajo la acción exclusiva de la gravedad, despreciando la resistencia del aire. ¿Qué tipo de movimiento describe?",
+      "opciones": ["A. Movimiento circular uniforme", "B. Movimiento rectilíneo uniforme", "C. Movimiento uniformemente acelerado", "D. Movimiento oscilatorio"],
+      "respuesta_correcta": "C. Movimiento uniformemente acelerado"
+    },
+    {
+      "pregunta": "La primera ley de Newton establece que un cuerpo conserva su estado de reposo o de movimiento rectilíneo uniforme mientras:",
+      "opciones": ["A. Actúen fuerzas externas", "B. La fuerza neta que actúa sobre él sea cero", "C. La aceleración sea constante", "D. La velocidad sea máxima"],
+      "respuesta_correcta": "B. La fuerza neta que actúa sobre él sea cero"
+    },
+    {
+      "pregunta": "La inercia es la propiedad que tienen los cuerpos de:",
+      "opciones": ["A. Oponerse a cambios en su estado de movimiento", "B. Moverse indefinidamente sin fuerza", "C. Aumentar su masa con el movimiento", "D. Repeler otros cuerpos cercanos"],
+      "respuesta_correcta": "A. Oponerse a cambios en su estado de movimiento"
+    },
+    {
+      "pregunta": "Según la segunda ley de Newton, la aceleración de un cuerpo depende de:",
+      "opciones": ["A. Su velocidad y tiempo", "B. La fuerza neta y su masa", "C. Su posición y trayectoria", "D. La energía cinética y potencial"],
+      "respuesta_correcta": "B. La fuerza neta y su masa"
+    },
+    {
+      "pregunta": "¿Cuál define adecuadamente el concepto de fuerza?",
+      "opciones": ["A. Interacción que modifica el movimiento o produce deformaciones", "B. Cantidad de materia de un cuerpo", "C. Espacio recorrido en un tiempo dado", "D. Capacidad para realizar trabajo"],
+      "respuesta_correcta": "A. Interacción que modifica el movimiento o produce deformaciones"
+    },
+    {
+      "pregunta": "¿En cuál de las siguientes situaciones se realiza trabajo mecánico?",
+      "opciones": ["A. Sostener un objeto sin moverlo", "B. Empujar una pared sin moverla", "C. Mover un objeto en la dirección de la fuerza aplicada", "D. Calentar un objeto sin moverlo"],
+      "respuesta_correcta": "C. Mover un objeto en la dirección de la fuerza aplicada"
+    },
+    {
+      "pregunta": "Según el principio de conservación de la energía, en un sistema aislado:",
+      "opciones": ["A. La energía total permanece constante", "B. La energía cinética siempre aumenta", "C. La energía potencial nunca cambia", "D. La energía se crea en cada transformación"],
+      "respuesta_correcta": "A. La energía total permanece constante"
+    },
+    {
+      "pregunta": "Cuando un sistema está sometido únicamente a fuerzas conservativas, su energía mecánica total:",
+      "opciones": ["A. Disminuye con el tiempo", "B. Aumenta continuamente", "C. Permanece constante", "D. Se transforma en calor"],
+      "respuesta_correcta": "C. Permanece constante"
+    }
+  ],
+  "MATEMÁTICA": [
+    {
+      "pregunta": "Si 4 cuadernos cuestan 60 bolivianos, ¿cuál será el costo de 10 cuadernos manteniendo la misma proporcionalidad?",
+      "opciones": ["A. 120 bolivianos", "B. 150 bolivianos", "C. 180 bolivianos", "D. 200 bolivianos"],
+      "respuesta_correcta": "B. 150 bolivianos"
+    },
+    {
+      "pregunta": "En la expresión 3x+5, ¿qué representa el número 5?",
+      "opciones": ["A. Coeficiente variable", "B. Término constante", "C. Variable independiente", "D. Pendiente"],
+      "respuesta_correcta": "B. Término constante"
+    },
+    {
+      "pregunta": "Si una función lineal tiene pendiente positiva, esto significa que:",
+      "opciones": ["A. Ambas variables crecen conjuntamente", "B. Una variable crece y la otra decrece", "C. No hay relación entre variables", "D. La gráfica es una recta horizontal"],
+      "respuesta_correcta": "A. Ambas variables crecen conjuntamente"
+    },
+    {
+      "pregunta": "Si se desea representar un valor que sintetice el rendimiento general de un grupo, una medida adecuada es:",
+      "opciones": ["A. La moda", "B. La mediana", "C. La media aritmética", "D. El rango"],
+      "respuesta_correcta": "C. La media aritmética"
+    },
+    {
+      "pregunta": "Si 2(x+3)=14, ¿cuál es el valor de x?",
+      "opciones": ["A. 2", "B. 4", "C. 5", "D. 7"],
+      "respuesta_correcta": "B. 4"
+    },
+    {
+      "pregunta": "Un ejemplo correcto de proporcionalidad inversa es:",
+      "opciones": ["A. Aumento de trabajadores → aumento de tiempo", "B. Aumento de trabajadores → disminución de tiempo", "C. Aumento de velocidad → aumento de distancia", "D. Aumento de precio → aumento de cantidad"],
+      "respuesta_correcta": "B. Aumento de trabajadores → disminución de tiempo"
+    },
+    {
+      "pregunta": "Si una gráfica muestra una recta horizontal, esto indica que:",
+      "opciones": ["A. La variable dependiente cambia", "B. La variable dependiente es constante", "C. La pendiente es positiva", "D. La pendiente es negativa"],
+      "respuesta_correcta": "B. La variable dependiente es constante"
+    },
+    {
+      "pregunta": "Si una recta tiene pendiente negativa, significa que:",
+      "opciones": ["A. Ambas variables aumentan", "B. Una variable aumenta y la otra disminuye", "C. No hay relación", "D. Es una línea vertical"],
+      "respuesta_correcta": "B. Una variable aumenta y la otra disminuye"
+    },
+    {
+      "pregunta": "El seno de un ángulo agudo en un triángulo rectángulo se define como:",
+      "opciones": ["A. Cateto adyacente / hipotenusa", "B. Cateto opuesto / hipotenusa", "C. Hipotenusa / cateto opuesto", "D. Cateto opuesto / cateto adyacente"],
+      "respuesta_correcta": "B. Cateto opuesto / hipotenusa"
+    },
+    {
+      "pregunta": "¿Qué significa el número 5 en la expresión 3x+5?",
+      "opciones": ["A. Es el coeficiente de x", "B. Es un término constante", "C. Es la pendiente", "D. Es la variable dependiente"],
+      "respuesta_correcta": "B. Es un término constante"
+    }
+  ],
+  "QUÍMICA": [
+    {
+      "pregunta": "¿En qué región del átomo se concentra la mayor parte de su masa?",
+      "opciones": ["A. En la nube electrónica", "B. En el núcleo", "C. En los electrones de valencia", "D. En los orbitales atómicos"],
+      "respuesta_correcta": "B. En el núcleo"
+    },
+    {
+      "pregunta": "¿A qué corresponde el número atómico de un elemento?",
+      "opciones": ["A. Al número de neutrones", "B. Al número de protones", "C. A la suma de protones y neutrones", "D. Al número de electrones en estado neutro"],
+      "respuesta_correcta": "B. Al número de protones"
+    },
+    {
+      "pregunta": "Los isótopos de un mismo elemento se diferencian en:",
+      "opciones": ["A. El número de protones", "B. El número de neutrones", "C. El número de electrones", "D. La configuración electrónica"],
+      "respuesta_correcta": "B. El número de neutrones"
+    },
+    {
+      "pregunta": "¿En función de qué magnitud se organiza principalmente la tabla periódica?",
+      "opciones": ["A. Masa atómica", "B. Número atómico creciente", "C. Radio atómico", "D. Electronegatividad"],
+      "respuesta_correcta": "B. Número atómico creciente"
+    },
+    {
+      "pregunta": "¿Cómo se denominan los elementos con propiedades intermedias entre metales y no metales?",
+      "opciones": ["A. Gases nobles", "B. Metales alcalinos", "C. Metaloides", "D. Halógenos"],
+      "respuesta_correcta": "C. Metaloides"
+    },
+    {
+      "pregunta": "La causa principal de la formación de un enlace químico es:",
+      "opciones": ["A. La disminución de la energía total del sistema", "B. El aumento de la temperatura", "C. La presión externa", "D. La presencia de luz"],
+      "respuesta_correcta": "A. La disminución de la energía total del sistema"
+    },
+    {
+      "pregunta": "La característica principal del enlace iónico es:",
+      "opciones": ["A. Compartir electrones", "B. Formación de iones por transferencia de electrones", "C. Existencia de moléculas apolares", "D. Baja conductividad eléctrica"],
+      "respuesta_correcta": "B. Formación de iones por transferencia de electrones"
+    },
+    {
+      "pregunta": "La fórmula química de un compuesto indica:",
+      "opciones": ["A. El estado físico de la sustancia", "B. La temperatura de fusión", "C. El tipo y proporción de átomos", "D. La solubilidad en agua"],
+      "respuesta_correcta": "C. El tipo y proporción de átomos"
+    },
+    {
+      "pregunta": "Una sustancia pura se caracteriza por:",
+      "opciones": ["A. Tener composición definida y constante", "B. Ser una mezcla homogénea", "C. Poder separarse por métodos físicos", "D. Cambiar de color con la temperatura"],
+      "respuesta_correcta": "A. Tener composición definida y constante"
+    },
+    {
+      "pregunta": "Una mezcla homogénea se identifica por:",
+      "opciones": ["A. Presentar fases visibles distintas", "B. Tener composición uniforme en toda su extensión", "C. No poder separarse por métodos físicos", "D. Estar formada por un solo elemento"],
+      "respuesta_correcta": "B. Tener composición uniforme en toda su extensión"
+    }
+  ],
+  "GEOGRAFÍA": [
+    {
+      "pregunta": "¿Qué rasgo define con mayor precisión la ubicación geográfica de Bolivia?",
+      "opciones": ["A. Es un país insular", "B. Se localiza en la región central de América del Sur", "C. Está en el extremo norte del continente", "D. Es parte del Caribe"],
+      "respuesta_correcta": "B. Se localiza en la región central de América del Sur"
+    },
+    {
+      "pregunta": "¿Cuál es la finalidad principal de la división político-administrativa de un Estado?",
+      "opciones": ["A. Dividir el territorio en países independientes", "B. Facilitar la administración estatal y la planificación territorial", "C. Crear barreras naturales", "D. Eliminar las fronteras internacionales"],
+      "respuesta_correcta": "B. Facilitar la administración estatal y la planificación territorial"
+    },
+    {
+      "pregunta": "¿Qué proceso físico explica la formación de la Cordillera de los Andes?",
+      "opciones": ["A. Erosión fluvial", "B. Tectónica de placas (subducción)", "C. Glaciación", "D. Sedimentación"],
+      "respuesta_correcta": "B. Tectónica de placas (subducción)"
+    },
+    {
+      "pregunta": "¿Qué factor incide más directamente en la diversidad climática de Bolivia?",
+      "opciones": ["A. La latitud", "B. La altitud y el relieve", "C. La cercanía al mar", "D. La vegetación"],
+      "respuesta_correcta": "B. La altitud y el relieve"
+    },
+    {
+      "pregunta": "El proceso de erosión se define como:",
+      "opciones": ["A. Acumulación de sedimentos", "B. Desgaste y transporte de materiales por agentes naturales", "C. Formación de montañas", "D. Elevación de la corteza terrestre"],
+      "respuesta_correcta": "B. Desgaste y transporte de materiales por agentes naturales"
+    },
+    {
+      "pregunta": "¿Qué tipo de mapa se utiliza para representar elementos naturales como ríos y montañas?",
+      "opciones": ["A. Mapa político", "B. Mapa físico", "C. Mapa temático", "D. Mapa climático"],
+      "respuesta_correcta": "B. Mapa físico"
+    },
+    {
+      "pregunta": "¿Qué caracteriza a los recursos naturales renovables?",
+      "opciones": ["A. Se agotan rápidamente", "B. No pueden regenerarse", "C. Se regeneran en períodos cortos si se usan sosteniblemente", "D. Solo existen en zonas urbanas"],
+      "respuesta_correcta": "C. Se regeneran en períodos cortos si se usan sosteniblemente"
+    },
+    {
+      "pregunta": "La densidad poblacional expresa:",
+      "opciones": ["A. El número total de habitantes de un país", "B. La relación entre habitantes y superficie", "C. La tasa de natalidad", "D. La migración neta"],
+      "respuesta_correcta": "B. La relación entre habitantes y superficie"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes actividades corresponde al sector primario?",
+      "opciones": ["A. Industria manufacturera", "B. Comercio minorista", "C. Agricultura", "D. Servicios financieros"],
+      "respuesta_correcta": "C. Agricultura"
+    },
+    {
+      "pregunta": "Una consecuencia directa de la deforestación es:",
+      "opciones": ["A. Aumento de la biodiversidad", "B. Pérdida de hábitats y erosión del suelo", "C. Incremento de la fertilidad del suelo", "D. Reducción de la temperatura global"],
+      "respuesta_correcta": "B. Pérdida de hábitats y erosión del suelo"
+    }
+  ],
+  "PSICOLOGÍA": [
+    {
+      "pregunta": "Durante la adolescencia, la capacidad de analizar situaciones complejas y razonar de forma abstracta corresponde principalmente a:",
+      "opciones": ["A. Pensamiento concreto", "B. Etapa de operaciones formales", "C. Etapa preoperacional", "D. Inteligencia emocional"],
+      "respuesta_correcta": "B. Etapa de operaciones formales"
+    },
+    {
+      "pregunta": "El enfoque que destaca el papel del contexto social y cultural en el aprendizaje se asocia principalmente con:",
+      "opciones": ["A. Conductismo", "B. Psicoanálisis", "C. Teoría sociocultural (Vygotsky)", "D. Humanismo"],
+      "respuesta_correcta": "C. Teoría sociocultural (Vygotsky)"
+    },
+    {
+      "pregunta": "Cuando un estudiante retiene información por corto tiempo para realizar una actividad, usa principalmente:",
+      "opciones": ["A. Memoria a largo plazo", "B. Memoria de trabajo", "C. Memoria episódica", "D. Memoria procedimental"],
+      "respuesta_correcta": "B. Memoria de trabajo"
+    },
+    {
+      "pregunta": "Cuando una persona estudia por interés genuino, hablamos de:",
+      "opciones": ["A. Motivación extrínseca", "B. Motivación intrínseca", "C. Reforzamiento negativo", "D. Aprendizaje por observación"],
+      "respuesta_correcta": "B. Motivación intrínseca"
+    },
+    {
+      "pregunta": "Si un estudiante repite una conducta tras recibir elogios, se evidencia el principio de:",
+      "opciones": ["A. Castigo", "B. Reforzamiento", "C. Extinción", "D. Generalización"],
+      "respuesta_correcta": "B. Reforzamiento"
+    },
+    {
+      "pregunta": "Las diferencias individuales en el ritmo de aprendizaje se conocen como:",
+      "opciones": ["A. Déficit cognitivo", "B. Diversidad cognitiva", "C. Homogeneidad educativa", "D. Discapacidad intelectual"],
+      "respuesta_correcta": "B. Diversidad cognitiva"
+    },
+    {
+      "pregunta": "El proceso de organizar e interpretar información sensorial se denomina:",
+      "opciones": ["A. Atención", "B. Percepción", "C. Memoria", "D. Aprendizaje"],
+      "respuesta_correcta": "B. Percepción"
+    },
+    {
+      "pregunta": "La capacidad de reconocer y regular las propias emociones se vincula con:",
+      "opciones": ["A. Inteligencia emocional", "B. Pensamiento formal", "C. Condicionamiento clásico", "D. Autoconcepto"],
+      "respuesta_correcta": "A. Inteligencia emocional"
+    },
+    {
+      "pregunta": "El psicoanálisis plantea que parte del comportamiento está influido por procesos:",
+      "opciones": ["A. Conscientes", "B. No conscientes (inconscientes)", "C. Genéticos exclusivamente", "D. Ambientales inmediatos"],
+      "respuesta_correcta": "B. No conscientes (inconscientes)"
+    },
+    {
+      "pregunta": "Aprender conductas observando a otras personas se conoce como:",
+      "opciones": ["A. Aprendizaje por observación (modelado)", "B. Condicionamiento operante", "C. Aprendizaje significativo", "D. Ensayo y error"],
+      "respuesta_correcta": "A. Aprendizaje por observación (modelado)"
+    }
+  ],
+  "FILOSOFÍA": [
+    {
+      "pregunta": "La actividad filosófica se define por su carácter:",
+      "opciones": ["A. Experimental y empírico", "B. Reflexivo, crítico y racional", "C. Dogmático y tradicional", "D. Intuitivo y emocional"],
+      "respuesta_correcta": "B. Reflexivo, crítico y racional"
+    },
+    {
+      "pregunta": "La rama de la filosofía que estudia el conocimiento humano se denomina:",
+      "opciones": ["A. Ontología", "B. Ética", "C. Epistemología", "D. Estética"],
+      "respuesta_correcta": "C. Epistemología"
+    },
+    {
+      "pregunta": "La rama que estudia el “ser” en cuanto ser es:",
+      "opciones": ["A. Ética", "B. Ontología", "C. Lógica", "D. Antropología filosófica"],
+      "respuesta_correcta": "B. Ontología"
+    },
+    {
+      "pregunta": "El método socrático basado en el diálogo y el cuestionamiento se llama:",
+      "opciones": ["A. Dialéctica", "B. Mayéutica", "C. Empirismo", "D. Escepticismo"],
+      "respuesta_correcta": "B. Mayéutica"
+    },
+    {
+      "pregunta": "Para Platón, la auténtica realidad se sitúa en:",
+      "opciones": ["A. El mundo sensible", "B. El mundo inteligible (Ideas)", "C. La materia física", "D. La experiencia cotidiana"],
+      "respuesta_correcta": "B. El mundo inteligible (Ideas)"
+    },
+    {
+      "pregunta": "La ética filosófica se ocupa de:",
+      "opciones": ["A. La belleza y el arte", "B. La conducta humana y los valores morales", "C. El origen del universo", "D. El lenguaje y la comunicación"],
+      "respuesta_correcta": "B. La conducta humana y los valores morales"
+    },
+    {
+      "pregunta": "Según Aristóteles, el fin último de la vida humana es:",
+      "opciones": ["A. El placer inmediato", "B. La eudaimonía (vida plena mediante virtudes)", "C. La acumulación de riqueza", "D. El poder político"],
+      "respuesta_correcta": "B. La eudaimonía (vida plena mediante virtudes)"
+    },
+    {
+      "pregunta": "Para Descartes, la fuente principal del conocimiento verdadero es:",
+      "opciones": ["A. La experiencia sensorial", "B. La razón", "C. La fe religiosa", "D. La tradición"],
+      "respuesta_correcta": "B. La razón"
+    },
+    {
+      "pregunta": "La corriente que afirma que solo el conocimiento verificable empíricamente es válido es:",
+      "opciones": ["A. Racionalismo", "B. Existencialismo", "C. Positivismo", "D. Idealismo"],
+      "respuesta_correcta": "C. Positivismo"
+    },
+    {
+      "pregunta": "El escepticismo plantea una duda radical sobre:",
+      "opciones": ["A. La existencia de la realidad", "B. La posibilidad de alcanzar conocimiento cierto", "C. La validez de la moral", "D. La belleza del arte"],
+      "respuesta_correcta": "B. La posibilidad de alcanzar conocimiento cierto"
+    }
+  ],
+  "HISTORIA": [
+    {
+      "pregunta": "Uno de los efectos estructurales de la Revolución Nacional de 1952 en Bolivia fue:",
+      "opciones": ["A. La centralización del poder en elites coloniales", "B. La ampliación de la participación social y política", "C. La abolición de la propiedad privada", "D. La independencia total del país"],
+      "respuesta_correcta": "B. La ampliación de la participación social y política"
+    },
+    {
+      "pregunta": "La ciudadanía en Bolivia se comprende principalmente como:",
+      "opciones": ["A. Solo un documento legal", "B. Ejercicio activo de derechos y deberes", "C. Pertenencia a un grupo étnico", "D. Residencia en zona urbana"],
+      "respuesta_correcta": "B. Ejercicio activo de derechos y deberes"
+    },
+    {
+      "pregunta": "La civilización de Tiwanaku se distinguió por:",
+      "opciones": ["A. Su organización política, religiosa y territorial integrada", "B. Su aislamiento geográfico", "C. Su dependencia de la agricultura intensiva", "D. Su sistema de escritura alfabética"],
+      "respuesta_correcta": "A. Su organización política, religiosa y territorial integrada"
+    },
+    {
+      "pregunta": "El rápido crecimiento de Potosí en la época colonial se debió principalmente a:",
+      "opciones": ["A. Su clima favorable", "B. Su ubicación estratégica", "C. La explotación de plata", "D. La migración europea voluntaria"],
+      "respuesta_correcta": "C. La explotación de plata"
+    },
+    {
+      "pregunta": "Los derechos sociales están orientados principalmente a:",
+      "opciones": ["A. Garantizar condiciones de vida digna y reducir desigualdades", "B. Proteger la propiedad privada", "C. Establecer límites a la libertad individual", "D. Favorecer solo a las elites económicas"],
+      "respuesta_correcta": "A. Garantizar condiciones de vida digna y reducir desigualdades"
+    },
+    {
+      "pregunta": "Los movimientos de 1809 en Chuquisaca son valorados como antecedentes de la independencia porque:",
+      "opciones": ["A. Lograron la independencia inmediata", "B. Cuestionaron el poder colonial y promovieron autogobierno", "C. Fueron apoyados por todas las clases sociales", "D. Establecieron una monarquía constitucional"],
+      "respuesta_correcta": "B. Cuestionaron el poder colonial y promovieron autogobierno"
+    },
+    {
+      "pregunta": "Un Estado activo frente a demandas sociales se caracteriza por:",
+      "opciones": ["A. Intervenir para regular economía y garantizar derechos", "B. Eliminar completamente el mercado", "C. Mantener una postura neutral en conflictos", "D. Privilegiar intereses privados sobre públicos"],
+      "respuesta_correcta": "A. Intervenir para regular economía y garantizar derechos"
+    },
+    {
+      "pregunta": "La fundación de la República en Bolivia se caracterizó principalmente por:",
+      "opciones": ["A. Una ruptura total con las estructuras coloniales", "B. El liderazgo de elites criollas y continuidad de exclusiones sociales", "C. La inclusión plena de pueblos indígenas en el poder", "D. La instauración de una democracia participativa"],
+      "respuesta_correcta": "B. El liderazgo de elites criollas y continuidad de exclusiones sociales"
+    },
+    {
+      "pregunta": "La proclamación de la independencia en 1825 estuvo vinculada a:",
+      "opciones": ["A. Una negociación pacífica con España", "B. Una conducción militar y política que derrotó al poder español", "C. Una decisión unilateral de la Corona", "D. Un acuerdo con otros países europeos"],
+      "respuesta_correcta": "B. Una conducción militar y política que derrotó al poder español"
+    },
+    {
+      "pregunta": "Una característica central de la economía republicana boliviana fue:",
+      "opciones": ["A. La industrialización acelerada", "B. La diversificación productiva", "C. La dependencia de exportación de materias primas", "D. La autarquía económica"],
+      "respuesta_correcta": "C. La dependencia de exportación de materias primas"
+    }
+  ],
+  "BIOLOGÍA": [
+    {
+      "pregunta": "La célula es considerada la unidad básica de la vida porque:",
+      "opciones": ["A. Es visible a simple vista", "B. Realiza todas las funciones vitales de manera integrada", "C. Solo existe en organismos complejos", "D. No se reproduce"],
+      "respuesta_correcta": "B. Realiza todas las funciones vitales de manera integrada"
+    },
+    {
+      "pregunta": "La diferencia fundamental entre célula eucariota y procariota radica en:",
+      "opciones": ["A. La presencia de membrana plasmática", "B. La organización del material genético (núcleo definido)", "C. La capacidad de moverse", "D. El tipo de nutrición"],
+      "respuesta_correcta": "B. La organización del material genético (núcleo definido)"
+    },
+    {
+      "pregunta": "La función principal de la mitocondria es:",
+      "opciones": ["A. Sintetizar proteínas", "B. Producir energía (ATP) mediante respiración celular", "C. Almacenar material genético", "D. Regular el intercambio de sustancias"],
+      "respuesta_correcta": "B. Producir energía (ATP) mediante respiración celular"
+    },
+    {
+      "pregunta": "El ADN cumple una función esencial porque:",
+      "opciones": ["A. Controla la síntesis de proteínas y transmite información hereditaria", "B. Solo interviene en la respiración celular", "C. Es un componente estructural de la membrana", "D. Regula la temperatura corporal"],
+      "respuesta_correcta": "A. Controla la síntesis de proteínas y transmite información hereditaria"
+    },
+    {
+      "pregunta": "Los genes se definen como:",
+      "opciones": ["A. Unidades de energía celular", "B. Segmentos de ADN con información para sintetizar proteínas", "C. Células especializadas", "D. Órganos del cuerpo humano"],
+      "respuesta_correcta": "B. Segmentos de ADN con información para sintetizar proteínas"
+    },
+    {
+      "pregunta": "La principal diferencia entre meiosis y mitosis es que la meiosis:",
+      "opciones": ["A. Produce células con igual número de cromosomas", "B. Forma gametos con la mitad del número cromosómico", "C. Solo ocurre en células somáticas", "D. No permite variabilidad genética"],
+      "respuesta_correcta": "B. Forma gametos con la mitad del número cromosómico"
+    },
+    {
+      "pregunta": "Una característica fundamental de la reproducción sexual es:",
+      "opciones": ["A. La generación de descendencia genéticamente idéntica", "B. La unión de gametos y variabilidad genética", "C. La rapidez en la producción de descendientes", "D. No requiere de dos progenitores"],
+      "respuesta_correcta": "B. La unión de gametos y variabilidad genética"
+    },
+    {
+      "pregunta": "Según Darwin, el mecanismo principal que explica la diversidad biológica es:",
+      "opciones": ["A. La herencia de caracteres adquiridos", "B. La selección natural", "C. La mutación espontánea", "D. La deriva genética"],
+      "respuesta_correcta": "B. La selección natural"
+    },
+    {
+      "pregunta": "Una comunidad biológica está conformada por:",
+      "opciones": ["A. Individuos de la misma especie", "B. Poblaciones de diferentes especies en un mismo espacio y tiempo", "C. Solo factores abióticos", "D. Un solo organismo y su entorno"],
+      "respuesta_correcta": "B. Poblaciones de diferentes especies en un mismo espacio y tiempo"
+    },
+    {
+      "pregunta": "¿Cuáles son factores abióticos de un ecosistema?",
+      "opciones": ["A. Plantas y animales", "B. Luz solar, agua, temperatura y suelo", "C. Bacterias y hongos", "D. Depredadores y presas"],
+      "respuesta_correcta": "B. Luz solar, agua, temperatura y suelo"
+    }
+  ],
+  "TÉCNICA TECNOLÓGICA": [
+    {
+      "pregunta": "El hardware de un sistema informático representa:",
+      "opciones": ["A. Los programas y aplicaciones", "B. Los componentes físicos y tangibles", "C. Las instrucciones lógicas", "D. Los datos almacenados"],
+      "respuesta_correcta": "B. Los componentes físicos y tangibles"
+    },
+    {
+      "pregunta": "El software se define como:",
+      "opciones": ["A. Las partes mecánicas de la computadora", "B. El conjunto de programas que dan instrucciones al hardware", "C. La energía eléctrica que alimenta el sistema", "D. Los cables y conectores"],
+      "respuesta_correcta": "B. El conjunto de programas que dan instrucciones al hardware"
+    },
+    {
+      "pregunta": "La función principal del sistema operativo es:",
+      "opciones": ["A. Ejecutar juegos", "B. Administrar recursos del sistema y facilitar la interacción", "C. Almacenar archivos permanentemente", "D. Conectar a internet"],
+      "respuesta_correcta": "B. Administrar recursos del sistema y facilitar la interacción"
+    },
+    {
+      "pregunta": "Un ejemplo de software de aplicación es:",
+      "opciones": ["A. El sistema operativo Windows", "B. Un procesador de texto", "C. La memoria RAM", "D. El disco duro"],
+      "respuesta_correcta": "B. Un procesador de texto"
+    },
+    {
+      "pregunta": "Un archivo digital es:",
+      "opciones": ["A. Un documento impreso", "B. Una estructura de datos almacenada en un dispositivo", "C. Un programa ejecutable", "D. Una parte del hardware"],
+      "respuesta_correcta": "B. Una estructura de datos almacenada en un dispositivo"
+    },
+    {
+      "pregunta": "La extensión de un archivo sirve para:",
+      "opciones": ["A. Aumentar su tamaño", "B. Indicar el tipo de formato y asociarlo con un programa", "C. Protegerlo de virus", "D. Comprimirlo"],
+      "respuesta_correcta": "B. Indicar el tipo de formato y asociarlo con un programa"
+    },
+    {
+      "pregunta": "Un procesador de texto se usa principalmente para:",
+      "opciones": ["A. Realizar cálculos matemáticos", "B. Crear presentaciones", "C. Redactar y editar documentos", "D. Navegar por internet"],
+      "respuesta_correcta": "C. Redactar y editar documentos"
+    },
+    {
+      "pregunta": "Las hojas de cálculo se caracterizan por:",
+      "opciones": ["A. Permitir organizar datos y realizar operaciones automáticas", "B. Ser usadas solo para escribir textos", "C. Ejecutar videojuegos", "D. Administrar el sistema operativo"],
+      "respuesta_correcta": "A. Permitir organizar datos y realizar operaciones automáticas"
+    },
+    {
+      "pregunta": "Un software de presentación se utiliza para:",
+      "opciones": ["A. Programar aplicaciones", "B. Comunicar información de forma visual con texto e imágenes", "C. Almacenar datos en la nube", "D. Proteger el equipo de virus"],
+      "respuesta_correcta": "B. Comunicar información de forma visual con texto e imágenes"
+    },
+    {
+      "pregunta": "La interfaz de usuario se refiere a:",
+      "opciones": ["A. La velocidad del procesador", "B. Los elementos visuales que permiten interactuar con el sistema", "C. La capacidad de almacenamiento", "D. La memoria RAM"],
+      "respuesta_correcta": "B. Los elementos visuales que permiten interactuar con el sistema"
+    }
+  ],
+  "LENGUAJE": [
+    {
+      "pregunta": "La función del lenguaje que se centra en el contenido del mensaje es:",
+      "opciones": ["A. Función referencial", "B. Función emotiva", "C. Función conativa", "D. Función fática"],
+      "respuesta_correcta": "A. Función referencial"
+    },
+    {
+      "pregunta": "El sujeto de una oración se define como:",
+      "opciones": ["A. La acción expresada por el verbo", "B. El sintagma nominal del que se predica algo", "C. El complemento directo", "D. El modificador del verbo"],
+      "respuesta_correcta": "B. El sintagma nominal del que se predica algo"
+    },
+    {
+      "pregunta": "¿Cuál cumple función adjetiva?",
+      "opciones": ["A. Correr (verbo)", "B. Rápidamente (adverbio)", "C. Hermoso (adjetivo)", "D. La (artículo)"],
+      "respuesta_correcta": "C. Hermoso (adjetivo)"
+    },
+    {
+      "pregunta": "La tilde diacrítica se usa para:",
+      "opciones": ["A. Marcar la sílaba tónica", "B. Diferenciar palabras que se escriben igual pero tienen distinto significado o función", "C. Separar sílabas", "D. Indicar pausas largas"],
+      "respuesta_correcta": "B. Diferenciar palabras que se escriben igual pero tienen distinto significado o función"
+    },
+    {
+      "pregunta": "El narrador en un texto narrativo es:",
+      "opciones": ["A. El autor real", "B. Una instancia narrativa construida dentro del texto", "C. Un personaje secundario", "D. El lector implícito"],
+      "respuesta_correcta": "B. Una instancia narrativa construida dentro del texto"
+    },
+    {
+      "pregunta": "El recurso literario de repetición de sonidos consonánticos se llama:",
+      "opciones": ["A. Metáfora", "B. Aliteración", "C. Comparación", "D. Hipérbole"],
+      "respuesta_correcta": "B. Aliteración"
+    },
+    {
+      "pregunta": "Las proposiciones subordinadas se caracterizan por:",
+      "opciones": ["A. Tener autonomía sintáctica plena", "B. Depender sintácticamente de una proposición principal", "C. No llevar nexos", "D. Ser siempre breves"],
+      "respuesta_correcta": "B. Depender sintácticamente de una proposición principal"
+    },
+    {
+      "pregunta": "La metáfora consiste en:",
+      "opciones": ["A. Comparar dos elementos usando “como”", "B. Atribuir cualidades humanas a objetos", "C. Trasladar significado por semejanza sin nexo comparativo", "D. Repetir sonidos vocálicos"],
+      "respuesta_correcta": "C. Trasladar significado por semejanza sin nexo comparativo"
+    },
+    {
+      "pregunta": "La coherencia textual se refiere a:",
+      "opciones": ["A. La organización lógica y significativa de las ideas", "B. El uso correcto de la ortografía", "C. La repetición de palabras clave", "D. La extensión del texto"],
+      "respuesta_correcta": "A. La organización lógica y significativa de las ideas"
+    },
+    {
+      "pregunta": "El ensayo se caracteriza por ser:",
+      "opciones": ["A. Un género narrativo de ficción", "B. Un género reflexivo y argumentativo", "C. Un texto poético con rima", "D. Un texto exclusivamente informativo"],
+      "respuesta_correcta": "B. Un género reflexivo y argumentativo"
+    }
+  ]
+}
