@@ -1,0 +1,702 @@
+[
+  {
+    "id": 101,
+    "question": "En una fila se colocan fichas de colores siguiendo el patrón: rojo, azul, verde, rojo, azul, verde, ... ¿Cuál será el color de la ficha que ocupa el lugar número 20?",
+    "options": ["Rojo", "Azul", "Verde", "No se puede determinar"],
+    "correct": 1,
+    "answer": "b) Azul"
+  },
+  {
+    "id": 102,
+    "question": "En una sucesión numérica el primer término es 5 y cada término siguiente se obtiene sumando 4 al anterior. ¿Cuál es el sexto término de la sucesión?",
+    "options": ["21", "23", "25", "29"],
+    "correct": 2,
+    "answer": "c) 25"
+  },
+  {
+    "id": 103,
+    "question": "En una granja, el número de gallinas es el doble del número de conejos. Si el total de animales (gallinas y conejos) es 30, ¿cuántos conejos hay en la granja?",
+    "options": ["5", "10", "15", "20"],
+    "correct": 1,
+    "answer": "b) 10"
+  },
+  {
+    "id": 104,
+    "question": "En un concurso de matemática, se deben formar equipos de tres estudiantes cuya suma total de puntuaciones sea al menos 20 puntos. Las puntuaciones de los seis participantes son: Ana 8, Luis 7, Carla 6, Pedro 5, Marta 4 y José 3. ¿Cuál de los siguientes grupos cumple la condición requerida?",
+    "options": ["Ana, Pedro, Marta (suma 17)", "Ana, Luis, Carla (suma 21)", "Luis, Carla, José (suma 16)", "Pedro, Marta, José (suma 12)"],
+    "correct": 1,
+    "answer": "b) Ana, Luis, Carla (suma 21)"
+  },
+  {
+    "id": 105,
+    "question": "Una biblioteca escolar cuenta con 84 libros idénticos que se organizarán en estanterías. Cada estantería debe contener el mismo número de libros, dicho número tiene que ser múltiplo de 3 y no puede superar los 12 libros por estantería. ¿Cuál es la menor cantidad posible de estanterías que se necesitan para alojar todos los libros?",
+    "options": ["7", "14", "21", "28"],
+    "correct": 0,
+    "answer": "a) 7"
+  },
+  {
+    "id": 106,
+    "question": "En una escuela se organizan equipos de debate. Cada equipo debe estar formado por exactamente 4 estudiantes y, para que el equipo sea competitivo, debe incluir al menos un estudiante cuyo nivel sea 3 o superior. La escuela cuenta con 12 estudiantes de nivel 1, 8 de nivel 2, 6 de nivel 3 y 4 de nivel 4. ¿Cuál es el número máximo de equipos que pueden formarse cumpliendo la condición requerida?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 2,
+    "answer": "c) 7"
+  },
+  {
+    "id": 107,
+    "question": "En la biblioteca de la escuela hay 48 libros que se deben colocar en filas con el mismo número de libros en cada fila, sin que sobre ninguno. ¿Cuál es la estrategia más adecuada para determinar cuántas filas se pueden formar?",
+    "options": ["Restar 1 repetidamente desde 48", "Multiplicar 48 por 2", "Dividir 48 entre números que sean divisores exactos", "Dividir 48 entre 5"],
+    "correct": 2,
+    "answer": "c) Dividir 48 entre números que sean divisores exactos"
+  },
+  {
+    "id": 108,
+    "question": "En una escuela, la cantidad de estudiantes en las clases se incrementa siguiendo una estrategia constante: la clase 1 tiene 12 alumnos, la clase 2 tiene 15 alumnos, la clase 3 tiene 18 alumnos y la clase 4 tiene 21 alumnos. ¿Cuántos alumnos habrá en la clase 5 si se mantiene la misma estrategia?",
+    "options": ["22", "24", "26", "28"],
+    "correct": 1,
+    "answer": "b) 24"
+  },
+  {
+    "id": 109,
+    "question": "En una lista de precios de materiales de construcción se tienen los valores: 120, 85, 150, 95 y 130 bolivianos. ¿Cuál es la mejor estrategia para identificar rápidamente el precio más bajo?",
+    "options": ["Sumar todos y dividir entre 5", "Ordenar los valores de menor a mayor", "Multiplicar el primero por 0.8", "Restar 100 a cada uno"],
+    "correct": 1,
+    "answer": "b) Ordenar los valores de menor a mayor"
+  },
+  {
+    "id": 110,
+    "question": "En una secuencia numérica, cada término se obtiene multiplicando el término anterior por 2 y sumándole 1. Si la secuencia comienza con 3, 7, 15, 31, ¿cuál es el siguiente número que sigue?",
+    "options": ["47", "63", "95", "127"],
+    "correct": 1,
+    "answer": "b) 63"
+  },
+  {
+    "id": 111,
+    "question": "En una serie de números se observa la siguiente secuencia: 3, 8, 15, 24, 35, ... ¿Cuál es el siguiente número de la serie?",
+    "options": ["42", "48", "50", "55"],
+    "correct": 1,
+    "answer": "b) 48"
+  },
+  {
+    "id": 112,
+    "question": "En la siguiente serie numérica cada término se forma multiplicando dos números consecutivos: 2, 6, 12, 20, ... ¿Cuál es el próximo número de la serie?",
+    "options": ["28", "30", "32", "36"],
+    "correct": 1,
+    "answer": "b) 30"
+  },
+  {
+    "id": 113,
+    "question": "En una escuela se van a colocar 96 sillas en filas iguales. El director desea que haya al menos 8 filas y que cada fila contenga el mismo número de sillas. ¿Cuál es la mayor cantidad posible de sillas por fila?",
+    "options": ["10", "12", "14", "16"],
+    "correct": 1,
+    "answer": "b) 12"
+  },
+  {
+    "id": 114,
+    "question": "Una escuela tiene 48 alumnos que deben ser divididos en grupos idénticos para una actividad de laboratorio, de manera que cada grupo tenga el mismo número de alumnos y el número total de grupos sea un número cuadrado perfecto (por ejemplo, 1, 4, 9, 16, …). ¿Cuál es la mayor cantidad posible de grupos que se pueden formar bajo esas condiciones?",
+    "options": ["4", "9", "16", "25"],
+    "correct": 2,
+    "answer": "c) 16"
+  },
+  {
+    "id": 115,
+    "question": "En una serie numérica el primer término es 3 y cada término se forma sumando al anterior el siguiente número impar (1, 3, 5, 7, …). ¿Cuál es el quinto término de la serie?",
+    "options": ["15", "17", "19", "21"],
+    "correct": 2,
+    "answer": "c) 19"
+  },
+  {
+    "id": 116,
+    "question": "Una escuela necesita asignar a cada uno de sus 5 salones un docente diferente de entre 5 docentes disponibles, de modo que un docente solo pueda estar en un salón. ¿Qué método de razonamiento lógico-matemático se emplea para determinar cuántas asignaciones posibles existen?",
+    "options": ["Principio de adición", "Principio de multiplicación", "Razonamiento inductivo", "Prueba y error"],
+    "correct": 1,
+    "answer": "b) Principio de multiplicación"
+  },
+  {
+    "id": 117,
+    "question": "En una clase se sabe que: Si un estudiante aprueba la prueba, entonces estudió al menos 3 horas. Carlos estudió 4 horas. ¿Cuál de las siguientes afirmaciones se puede afirmar con certeza?",
+    "options": ["Carlos aprobó la prueba", "Carlos no aprobó la prueba", "Si Carlos aprobó, entonces estudió al menos 3 horas", "Carlos estudió más de 3 horas, por lo tanto aprobó"],
+    "correct": 2,
+    "answer": "c) Si Carlos aprobó, entonces estudió al menos 3 horas"
+  },
+  {
+    "id": 118,
+    "question": "En una tarea de matemática, el profesor pide determinar el mayor número entero que divide exactamente a los tres valores 84, 126 y 210. ¿Cuál de los siguientes procedimientos es el más adecuado para hallar ese número de forma rápida y fiable?",
+    "options": ["Listar todos los divisores de cada número", "Usar el algoritmo de Euclides (MCD)", "Multiplicar los tres números", "Restar el menor del mayor"],
+    "correct": 1,
+    "answer": "b) Usar el algoritmo de Euclides (MCD)"
+  },
+  {
+    "id": 119,
+    "question": "En una fila de espera, Carlos ocupa el primer puesto, José está justo detrás de Carlos y Luis está justo detrás de José. ¿En qué puesto se encuentra Luis?",
+    "options": ["Segundo", "Tercero", "Cuarto", "Quinto"],
+    "correct": 1,
+    "answer": "b) Tercero"
+  },
+  {
+    "id": 120,
+    "question": "En una fila de cinco asientos para una competición de matemática, se disponen los estudiantes Sofía, Bruno, Carla, Diego y Elena. Se sabe que: Sofía no está en un extremo. Bruno está inmediatamente a la izquierda de Carla. Diego está en el tercer asiento. Elena no está al lado de Sofía. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "options": ["Carla ocupa el quinto asiento", "Bruno ocupa el primer asiento", "Elena ocupa el cuarto asiento", "Sofía ocupa el segundo asiento"],
+    "correct": 0,
+    "answer": "a) Carla ocupa el quinto asiento"
+  },
+  {
+    "id": 121,
+    "question": "Para saber cuántos grupos iguales de 6 tarjetas pueden formarse a partir de un total de 84 tarjetas sin que sobre ninguna, ¿qué paso inicial es el más adecuado?",
+    "options": ["Restar 6 repetidamente desde 84", "Multiplicar 84 por 6", "Dividir 84 entre 6", "Sumar 6 hasta llegar a 84"],
+    "correct": 2,
+    "answer": "c) Dividir 84 entre 6"
+  },
+  {
+    "id": 122,
+    "question": "En una escuela se afirma que: 1) Todos los libros son objetos y 2) Todos los objetos son cosas. Con base en esas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["Algunos objetos no son libros", "Todos los libros son cosas", "Algunas cosas no son libros", "Ningún libro es una cosa"],
+    "correct": 1,
+    "answer": "b) Todos los libros son cosas"
+  },
+  {
+    "id": 123,
+    "question": "En una escuela se organizan 84 libros en estanterías. Cada estantería debe contener el mismo número de libros y, como mínimo, 6 libros por estantería. ¿Cuál es el mayor número posible de estanterías que se pueden usar?",
+    "options": ["12", "14", "16", "18"],
+    "correct": 1,
+    "answer": "b) 14"
+  },
+  {
+    "id": 124,
+    "question": "En la siguiente tabla, los valores de la columna B se relacionan con los de la columna A siguiendo una regla constante: ¿Cuál debe ser el valor de B cuando A = 11?",
+    "options": ["24", "25", "26", "27"],
+    "correct": 2,
+    "answer": "c) 26"
+  },
+  {
+    "id": 125,
+    "question": "En una serie de bloques de construcción, la cantidad de bloques que se colocan en cada fila sigue el patrón: 2, 5, 9, 14, ... ¿Cuál será el número de bloques en la quinta fila?",
+    "options": ["18", "20", "22", "24"],
+    "correct": 1,
+    "answer": "b) 20"
+  },
+  {
+    "id": 126,
+    "question": "En una clase de 5° grado se establecen las siguientes reglas: Todos los estudiantes que aprueban el examen final tienen al menos 80% de asistencia. María aprobó el examen final. Carlos tiene 78% de asistencia. Con base en esas premisas, ¿cuál de las siguientes afirmaciones se deduce lógicamente?",
+    "options": ["María tiene al menos 80% de asistencia", "Carlos aprobó el examen final", "Todos los estudiantes con 80% de asistencia aprueban", "María no tiene 80% de asistencia"],
+    "correct": 0,
+    "answer": "a) María tiene al menos 80% de asistencia"
+  },
+  {
+    "id": 127,
+    "question": "En una escuela, tres docentes (Sofia, Bruno y Carla) deben supervisar un examen dividido en dos turnos: mañana y tarde. Se cumplen las siguientes condiciones: (1) Si Sofia supervisa el turno de mañana, entonces Bruno supervisa el turno de tarde; (2) Carla no supervisa el mismo turno que Bruno; (3) Exactamente dos docentes supervisan el turno de mañana. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "options": ["Sofia (mañana), Bruno (tarde), Carla (mañana)", "Sofia (tarde), Bruno (mañana), Carla (mañana)", "Sofia (mañana), Bruno (mañana), Carla (tarde)", "Sofia (tarde), Bruno (tarde), Carla (mañana)"],
+    "correct": 0,
+    "answer": "a) Sofia (mañana), Bruno (tarde), Carla (mañana)"
+  },
+  {
+    "id": 128,
+    "question": "Una maestra debe repartir a sus 12 alumnos en tres grupos. Cada grupo debe contener un número distinto de estudiantes y los tamaños de los grupos no pueden ser números consecutivos. ¿Cuál de las siguientes opciones cumple con todas las condiciones?",
+    "options": ["5, 4, 3", "7, 4, 1", "8, 2, 2", "6, 3, 3"],
+    "correct": 1,
+    "answer": "b) 7, 4, 1"
+  },
+  {
+    "id": 129,
+    "question": "En una biblioteca hay tres categorías de libros: A, B y C. El número total de libros es 210. Cada libro de la categoría A consta de 4 volúmenes, cada libro de la categoría B de 3 volúmenes y cada libro de la categoría C de 2 volúmenes. Además, el número de libros de la categoría A es tres veces el número de libros de la categoría C. ¿Cuántos libros pertenecen a la categoría B?",
+    "options": ["25", "30", "35", "40"],
+    "correct": 1,
+    "answer": "b) 30"
+  },
+  {
+    "id": 130,
+    "question": "Una docente debe repartir 84 lápices entre 5 aulas de primaria. Cada aula debe recibir al menos 10 lápices y se quiere que la diferencia entre la mayor y la menor cantidad entregada sea lo más pequeña posible. ¿Cuántos lápices debe recibir la aula que recibe la mayor cantidad?",
+    "options": ["15", "16", "17", "18"],
+    "correct": 2,
+    "answer": "c) 17"
+  },
+  {
+    "id": 131,
+    "question": "En una escuela se sabe que: Todos los alumnos que participan en el club de ciencias obtienen una calificación mayor a 80 en matemática. Carlos participa en el club de ciencias. María no participa en el club de ciencias. ¿Cuál de las siguientes afirmaciones se deduce necesariamente a partir de la información anterior?",
+    "options": ["La calificación de Carlos es mayor a 80", "La calificación de María es menor o igual a 80", "Todos los alumnos tienen calificación mayor a 80", "Carlos no participa en el club de ciencias"],
+    "correct": 0,
+    "answer": "a) La calificación de Carlos es mayor a 80"
+  },
+  {
+    "id": 132,
+    "question": "En una escuela se cumple que todos los profesores poseen título universitario. Además, María es profesora de historia. Según estas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["María tiene título universitario", "María es estudiante", "Todos los estudiantes tienen título universitario", "Solo los profesores de historia tienen título"],
+    "correct": 0,
+    "answer": "a) María tiene título universitario"
+  },
+  {
+    "id": 133,
+    "question": "En un jardín rectangular, el ancho es x metros y el largo es (x + 3) metros. Si el perímetro total del jardín es de 46 metros, ¿qué estrategia permite hallar de forma más eficiente los valores de x y del largo?",
+    "options": ["Probar valores al azar", "Sustituir en la fórmula del perímetro y resolver la ecuación", "Factorizar una ecuación cuadrática", "Enumerar todos los divisores de 46"],
+    "correct": 1,
+    "answer": "b) Sustituir en la fórmula del perímetro y resolver la ecuación"
+  },
+  {
+    "id": 134,
+    "question": "En una escuela se establecen los siguientes enunciados: 1) Si un docente usa recursos digitales, entonces integra tecnología en sus clases. 2) Todos los docentes que integran tecnología logran mayor compromiso estudiantil. 3) Algunos docentes que usan recursos digitales son docentes novatos. ¿Cuál de las siguientes conclusiones es lógicamente válida?",
+    "options": ["Todos los docentes novatos logran mayor compromiso estudiantil", "Algunos docentes novatos logran mayor compromiso estudiantil", "Los docentes que no usan recursos digitales no logran mayor compromiso", "Solo los docentes que integran tecnología usan recursos digitales"],
+    "correct": 1,
+    "answer": "b) Algunos docentes novatos logran mayor compromiso estudiantil"
+  },
+  {
+    "id": 135,
+    "question": "Un maestro dispone de tres cajas con bolitas. La caja A contiene el doble de bolitas que la caja B. La caja C contiene 5 bolitas menos que la caja A. Si en total hay 35 bolitas en las tres cajas, ¿cuántas bolitas hay en la caja B?",
+    "options": ["6", "8", "10", "12"],
+    "correct": 1,
+    "answer": "b) 8"
+  },
+  {
+    "id": 136,
+    "question": "En una competencia de baloncesto, el número de puntos anotados por un equipo en cada cuarto sigue la secuencia: 12, 17, 23, 30, … ¿Cuál será el número de puntos que anotará en el quinto cuarto si se mantiene la estrategia lógica del patrón?",
+    "options": ["36", "38", "40", "42"],
+    "correct": 1,
+    "answer": "b) 38"
+  },
+  {
+    "id": 137,
+    "question": "En una clase de primaria, la maestra reparte paquetes de lápices a sus alumnos. Cada paquete contiene la misma cantidad de lápices. Si se entregan 3 paquetes a cada uno de los 5 estudiantes y, al final, la maestra cuenta que utilizó 60 lápices en total, ¿cuántos lápices hay en cada paquete?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 1,
+    "answer": "b) 4"
+  },
+  {
+    "id": 138,
+    "question": "En una competencia de lógica, la puntuación acumulada por un equipo después de cada ronda forma la siguiente sucesión: 3, 7, 15, 31. ¿Cuál será la puntuación total después de la quinta ronda?",
+    "options": ["47", "63", "95", "127"],
+    "correct": 1,
+    "answer": "b) 63"
+  },
+  {
+    "id": 139,
+    "question": "En una escuela se deben sentar 156 alumnos en filas y columnas formando un rectángulo completo (sin asientos vacíos). El director quiere que el número de filas sea mayor que el número de columnas y que la diferencia entre ambos sea la menor posible. ¿Cuál es la distribución de filas y columnas que cumple con esas condiciones?",
+    "options": ["12 filas, 13 columnas", "13 filas, 12 columnas", "11 filas, 14 columnas", "14 filas, 11 columnas"],
+    "correct": 0,
+    "answer": "a) 12 filas, 13 columnas"
+  },
+  {
+    "id": 140,
+    "question": "En una escuela se dispone de 5 horas para actividades extraescolares. El taller de arte requiere 2 horas, el club de ciencias 3 horas y el grupo de teatro 1 hora. ¿Cuál de las siguientes afirmaciones es coherente con estas condiciones?",
+    "options": ["Se pueden realizar las tres actividades", "Solo se pueden realizar el taller de arte y el club de ciencias", "Solo se puede realizar el grupo de teatro", "Se puede realizar el club de ciencias y el grupo de teatro"],
+    "correct": 1,
+    "answer": "b) Solo se pueden realizar el taller de arte y el club de ciencias"
+  },
+  {
+    "id": 141,
+    "question": "En una escuela, se deben programar tres actividades durante la mañana: Lectura, Matemática y Educación Física. Cada actividad ocupa exactamente una hora. Se sabe que: La actividad de Lectura se realiza antes que la de Educación Física. La actividad de Matemática no puede ser la primera en el horario. ¿Cuál de los siguientes órdenes de actividades cumple todas las condiciones?",
+    "options": ["Matemática – Lectura – Educación Física", "Lectura – Matemática – Educación Física", "Lectura – Educación Física – Matemática", "Educación Física – Lectura – Matemática"],
+    "correct": 1,
+    "answer": "b) Lectura – Matemática – Educación Física"
+  },
+  {
+    "id": 142,
+    "question": "En una escuela se forman tres grupos (A, B y C) para una excursión. Cada grupo debe tener entre 10 y 15 estudiantes, inclusive. Además, el grupo A tiene 4 estudiantes menos que el grupo B, y el grupo C tiene la misma cantidad de estudiantes que el grupo A. ¿Cuál es la cantidad total mínima de estudiantes que pueden participar en la excursión?",
+    "options": ["30", "32", "34", "36"],
+    "correct": 2,
+    "answer": "c) 34"
+  },
+  {
+    "id": 143,
+    "question": "En una escuela se está organizando una competencia de matemática y se asignan los números de identificación de los equipos siguiendo la siguiente serie: 2, 6, 12, 20, … . ¿Cuál será el número que corresponde al siguiente equipo si se mantiene la regla de formación de la serie?",
+    "options": ["28", "30", "32", "36"],
+    "correct": 1,
+    "answer": "b) 30"
+  },
+  {
+    "id": 144,
+    "question": "En una escuela se conocen los siguientes datos: 1) Si una clase tiene más de 30 estudiantes, entonces el profesor necesita asistencia adicional; 2) La clase de Matemática cuenta con 32 estudiantes; 3) La clase de Historia tiene menos de 30 estudiantes. ¿Cuál de las siguientes afirmaciones se deduce lógicamente de la información proporcionada?",
+    "options": ["El profesor de Historia necesita asistencia adicional", "El profesor de Matemática no necesita asistencia adicional", "El profesor de Matemática necesita asistencia adicional", "Ninguna de las anteriores"],
+    "correct": 2,
+    "answer": "c) El profesor de Matemática necesita asistencia adicional"
+  },
+  {
+    "id": 145,
+    "question": "En un enunciado se indica: “Si un número es múltiplo de 6, entonces es divisible por 3”. Además se afirma que “84 es múltiplo de 6”. Con base en estos datos, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["84 es divisible por 3", "84 no es divisible por 3", "84 es primo", "84 no es múltiplo de 6"],
+    "correct": 0,
+    "answer": "a) 84 es divisible por 3"
+  },
+  {
+    "id": 146,
+    "question": "En una escuela se establecen las siguientes reglas: 1) Si el docente utiliza la pizarra digital, entonces la clase se programa en la mañana. 2) La clase no está programada en la mañana. ¿Cuál de las siguientes afirmaciones se deduce lógicamente de estas reglas?",
+    "options": ["El docente utiliza la pizarra digital", "El docente no utiliza la pizarra digital", "La clase se programa en la tarde", "La clase se programa en la mañana"],
+    "correct": 1,
+    "answer": "b) El docente no utiliza la pizarra digital"
+  },
+  {
+    "id": 147,
+    "question": "Luis intenta resolver la ecuación 2(x + 3) = 8 y escribe los siguientes pasos: 1) 2x + 3 = 8; 2) 2x = 11; 3) x = 11 ÷ 2 = 5.5. ¿Cuál de los enunciados contiene un error?",
+    "options": ["Paso 1", "Paso 2", "Paso 3", "No hay error"],
+    "correct": 0,
+    "answer": "a) Paso 1"
+  },
+  {
+    "id": 148,
+    "question": "Una escuela está planificando su presupuesto anual. El monto destinado a la compra de libros es exactamente el doble del que se asigna a equipamiento de laboratorio. Si la suma de ambos conceptos es de 9,000 dólares, ¿cuál es el presupuesto destinado a los libros?",
+    "options": ["$3,000", "$4,500", "$6,000", "$7,500"],
+    "correct": 2,
+    "answer": "c) $6,000"
+  },
+  {
+    "id": 149,
+    "question": "Una escuela quiere organizar grupos de estudio para sus 48 estudiantes que se han inscrito. Cada grupo debe estar formado por al menos 3 estudiantes y no más de 5. ¿Cuál es el número máximo de grupos que pueden formarse cumpliendo ambas condiciones?",
+    "options": ["12", "14", "16", "18"],
+    "correct": 2,
+    "answer": "c) 16"
+  },
+  {
+    "id": 150,
+    "question": "Un caballo de ajedrez se coloca inicialmente en la casilla a1 de un tablero estándar de 8×8. Según la regla del movimiento del caballo (dos casillas en una dirección y una en perpendicular), ¿cuántos movimientos como mínimo necesita para llegar a la casilla h8?",
+    "options": ["4", "5", "6", "7"],
+    "correct": 2,
+    "answer": "c) 6"
+  },
+  {
+    "id": 151,
+    "question": "En una escuela se registra la cantidad de estudiantes de tres grados: cuarto, quinto y sexto. Los números son 28, 35 y 42 respectivamente. ¿Cuál de las siguientes afirmaciones es correcta respecto a esas cantidades?",
+    "options": ["Los tres grados tienen la misma cantidad", "Quinto grado tiene más estudiantes que cuarto, pero menos que sexto", "Cuarto grado tiene más estudiantes que quinto", "Sexto grado tiene menos estudiantes que cuarto"],
+    "correct": 1,
+    "answer": "b) Quinto grado tiene más estudiantes que cuarto, pero menos que sexto"
+  },
+  {
+    "id": 152,
+    "question": "Una profesora tiene 48 lápices y desea repartirlos en forma equitativa entre 6 grupos de estudiantes. ¿Cuál de las siguientes operaciones muestra correctamente cuántos lápices recibe cada grupo?",
+    "options": ["48 ÷ 6 = 8", "48 × 6 = 288", "48 - 6 = 42", "48 + 6 = 54"],
+    "correct": 0,
+    "answer": "a) 48 ÷ 6 = 8"
+  },
+  {
+    "id": 153,
+    "question": "En una hoja de trabajo, un estudiante resuelve la ecuación 3x – 5 = 16 con los siguientes pasos: (1) suma 5 a ambos lados → 3x = 21; (2) divide entre 3 → x = 7; (3) verifica sustituyendo x = 7 en la ecuación original y escribe 3·7 – 5 = 17. ¿Cuál de las afirmaciones siguientes es verdadera respecto a la consistencia del procedimiento?",
+    "options": ["El paso 1 es incorrecto", "El paso 2 es incorrecto", "El paso 3 contiene un error de cálculo", "Todos los pasos son correctos"],
+    "correct": 2,
+    "answer": "c) El paso 3 contiene un error de cálculo"
+  },
+  {
+    "id": 154,
+    "question": "En una clase se conocen los siguientes hechos: (1) Si la clase tiene proyecto, entonces todos los alumnos entregan la tarea; (2) En la clase de hoy no todos los alumnos entregaron la tarea; (3) La clase tiene proyecto o tiene examen final. Con base en esos datos, ¿qué afirmación es necesariamente verdadera?",
+    "options": ["La clase tiene proyecto", "La clase tiene examen final", "La clase no tiene proyecto ni examen final", "Todos los alumnos entregaron la tarea"],
+    "correct": 1,
+    "answer": "b) La clase tiene examen final"
+  },
+  {
+    "id": 155,
+    "question": "En una unidad didáctica se programaron tres actividades: A, B y C. Cada una se realizará en un día distinto de la semana (lunes, miércoles y viernes). Se sabe que: 1) La actividad A no se lleva a cabo el lunes. 2) La actividad B se realiza antes que la actividad C. 3) La actividad que ocurre el miércoles no es la C. ¿Cuál de las siguientes afirmaciones es verdadera respecto a la actividad que se realiza el miércoles?",
+    "options": ["Es la actividad A", "Es la actividad B", "Es la actividad C", "No se puede determinar"],
+    "correct": 0,
+    "answer": "a) Es la actividad A"
+  },
+  {
+    "id": 156,
+    "question": "En una escuela se organizó un concurso de matemática. Se saben los siguientes datos: 1) Cada clase tiene al menos 20 alumnos. 2) El número total de alumnos que participaron es 180. 3) Ningún alumno de la clase 5 participó en el concurso. 4) La clase 7 tiene exactamente 25 alumnos. Con base en esa información, ¿cuál de las siguientes afirmaciones es necesariamente cierta?",
+    "options": ["La clase 7 aportó 25 participantes al total", "Solo ocho clases participaron", "Al menos una clase tuvo menos de 22 participantes", "La clase 5 tuvo más de 20 participantes"],
+    "correct": 0,
+    "answer": "a) La clase 7 aportó 25 participantes al total"
+  },
+  {
+    "id": 157,
+    "question": "En el huerto escolar se organizaron 4 filas con 9 plantas de tomate en cada fila. Debido a una enfermedad, se retiraron 3 plantas de cada fila. ¿Cuántas plantas de tomate quedan en el huerto?",
+    "options": ["21", "24", "27", "30"],
+    "correct": 1,
+    "answer": "b) 24"
+  },
+  {
+    "id": 158,
+    "question": "En una escuela secundaria se organizan los horarios de tres materias: Ciencias, Matemática y Arte. Se cumplen las siguientes condiciones: (1) La clase de Ciencias siempre se imparte antes del almuerzo; (2) La clase de Arte siempre se imparte después del almuerzo; (3) La clase de Matemática se imparte entre la de Ciencias y la de Arte (es decir, después de Ciencias y antes de Arte). Con base en estas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["La clase de Ciencias se imparte después de Matemática", "La clase de Arte se imparte antes de Matemática", "La clase de Arte se imparte después de Matemática", "La clase de Matemática se imparte antes del almuerzo"],
+    "correct": 2,
+    "answer": "c) La clase de Arte se imparte después de Matemática"
+  },
+  {
+    "id": 159,
+    "question": "En una comunidad educativa se cumplen las siguientes afirmaciones: (1) Todos los profesores de matemática son mayores de 30 años. (2) Ningún profesor mayor de 45 años enseña física. (3) Carlos es profesor de matemática. Con base en la información dada, ¿cuál de las siguientes conclusiones es necesariamente verdadera?",
+    "options": ["Carlos tiene más de 45 años", "Carlos tiene entre 30 y 45 años", "Carlos enseña física", "Carlos no enseña física"],
+    "correct": 1,
+    "answer": "b) Carlos tiene entre 30 y 45 años"
+  },
+  {
+    "id": 160,
+    "question": "En una escuela se dispone de tres aulas A, B y C. Se sabe que: 1) El aula que tiene 30 estudiantes es diferente a la que tiene 25 estudiantes. 2) El aula B tiene exactamente 30 estudiantes. 3) El aula B tiene más estudiantes que el aula C. 4) El aula A no tiene 20 estudiantes. Si el total de estudiantes de las tres aulas es 75 y cada aula tiene un número entero de estudiantes diferente, ¿cuál de las siguientes opciones representa la distribución correcta de estudiantes entre A, B y C?",
+    "options": ["A=20, B=30, C=25", "A=25, B=30, C=20", "A=30, B=25, C=20", "A=20, B=25, C=30"],
+    "correct": 1,
+    "answer": "b) A=25, B=30, C=20"
+  },
+  {
+    "id": 161,
+    "question": "En una escuela, los estudiantes de décimo curso se dividen en tres equipos de debate, denominados Alpha, Beta y Gamma, siguiendo las reglas siguientes: Cada equipo tiene al menos 4 estudiantes. Si un estudiante tiene una nota de matemática mayor a 85, entonces pertenece al equipo Alpha. Ningún estudiante con nota de ciencias menor a 70 está en el equipo Beta. El equipo Gamma contiene exactamente el doble de estudiantes que el equipo Beta. En total hay 36 estudiantes repartidos entre los tres equipos. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["El equipo Alpha tiene más de 20 estudiantes", "El equipo Beta tiene exactamente 6 estudiantes", "El equipo Gamma tiene al menos 8 estudiantes", "El equipo Alpha tiene menos de 10 estudiantes"],
+    "correct": 2,
+    "answer": "c) El equipo Gamma tiene al menos 8 estudiantes"
+  },
+  {
+    "id": 162,
+    "question": "En una escuela secundaria se organizó una competencia de matemática con tres rondas: Primera, Segunda y Final. Participaron los equipos X, Y y Z. Se sabe que: El equipo X ganó la Primera ronda. El equipo que ganó la Segunda ronda no fue el mismo que ganó la Primera. El equipo que ganó la Final fue el mismo que ganó la Segunda ronda. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["El equipo X ganó la Final", "El equipo Y ganó la Final", "El equipo X no ganó la Final", "El equipo Z ganó la Primera"],
+    "correct": 2,
+    "answer": "c) El equipo X no ganó la Final"
+  },
+  {
+    "id": 163,
+    "question": "En una clase de Matemática, la profesora pide resolver la división 84 ÷ 7. Un alumno muestra su procedimiento de la siguiente manera: Descompone 84 como 70 + 14. Divide 70 entre 7 obteniendo 10. Divide 14 entre 7 obteniendo 2. Suma los dos cocientes y escribe 10 + 2 = 12 como respuesta. ¿Cuál de las siguientes afirmaciones es correcta respecto a la consistencia del procedimiento utilizado?",
+    "options": ["El procedimiento es válido y la respuesta correcta", "El procedimiento es incorrecto aunque la respuesta sea correcta", "La respuesta debería ser 14", "Debería haber multiplicado en lugar de sumar"],
+    "correct": 0,
+    "answer": "a) El procedimiento es válido y la respuesta correcta"
+  },
+  {
+    "id": 164,
+    "question": "Dos estudiantes resuelven la ecuación 3x − 5 = 16 aplicando diferentes procedimientos. El primer estudiante escribe: 3x = 16 + 5 → 3x = 21 → x = 21 ÷ 3 → x = 7. El segundo estudiante escribe: 3x = 16 − 5 → 3x = 11 → x = 11 ÷ 3 → x = 3,67. ¿Cuál de los resultados es consistente con la ecuación original?",
+    "options": ["Solo el primero", "Solo el segundo", "Ambos", "Ninguno"],
+    "correct": 0,
+    "answer": "a) Solo el primero"
+  },
+  {
+    "id": 165,
+    "question": "María resuelve el siguiente sistema de ecuaciones lineales: 2x + 3y = 13 y 4x − y = 5. Para hallar la solución, ella multiplica la segunda ecuación por 3 y la suma a la primera, obteniendo 2x + 3y + 12x − 3y = 13 + 15, lo que da 14x = 28 y concluye que x = 2. Luego sustituye x = 2 en la segunda ecuación original y calcula 4·2 − y = 5, obteniendo 8 − y = 5 y afirma que y = 3. Finalmente, dice que la solución del sistema es (2, 3). ¿Cuál de las siguientes afirmaciones es correcta respecto al procedimiento de María?",
+    "options": ["El procedimiento es incorrecto porque no se puede multiplicar una ecuación por 3", "El procedimiento es correcto y la solución es válida", "La solución correcta es (3, 2)", "Debería haber restado las ecuaciones en lugar de sumarlas"],
+    "correct": 1,
+    "answer": "b) El procedimiento es correcto y la solución es válida"
+  },
+  {
+    "id": 166,
+    "question": "En la resolución de un problema se indica que la suma de dos números es 48 y que el mayor es el doble del menor. Un estudiante obtuvo la solución siguiendo estos pasos: Sea x el menor número. Entonces el mayor es 2x. Plantea la ecuación x + 2x = 48. Resuelve: 3x = 48 x = 16. Concluye que los números son 16 y 32. ¿Cuál de las siguientes afirmaciones acerca del procedimiento y la solución del estudiante es correcta?",
+    "options": ["El procedimiento es incorrecto porque debería restar en lugar de sumar", "La solución es incorrecta porque los números son 24 y 24", "El procedimiento es lógico y la solución es consistente", "Debería haber dividido 48 entre 4 en lugar de entre 3"],
+    "correct": 2,
+    "answer": "c) El procedimiento es lógico y la solución es consistente"
+  },
+  {
+    "id": 167,
+    "question": "Un estudiante resuelve la ecuación 3x – 7 = 2x + 5 de la siguiente manera: primero resta 2x de ambos lados y obtiene x – 7 = 5; luego suma 7 a ambos lados y concluye que x = 12. ¿Cuál de las siguientes afirmaciones es correcta respecto al procedimiento que siguió?",
+    "options": ["El primer paso es incorrecto", "El segundo paso es incorrecto", "Ambos pasos son consistentes y la solución es correcta", "Debería haber dividido entre 3"],
+    "correct": 2,
+    "answer": "c) Ambos pasos son consistentes y la solución es correcta"
+  },
+  {
+    "id": 168,
+    "question": "María resuelve la ecuación 3x + 5 = 20 siguiendo estos pasos: primero resta 5 a ambos lados y, con el resultado, divide entre 3. ¿Cuál de las siguientes afirmaciones sobre su procedimiento es verdadera?",
+    "options": ["El procedimiento conduce a x = 5", "El procedimiento conduce a x = 7.5", "Debería sumar 5 en lugar de restar", "Debería multiplicar por 3 en lugar de dividir"],
+    "correct": 0,
+    "answer": "a) El procedimiento conduce a x = 5"
+  },
+  {
+    "id": 169,
+    "question": "En una escuela, cada clase tiene 24 estudiantes. Si la escuela tiene 5 clases y a cada estudiante se le entregan 2 cuadernos, ¿cuántos cuadernos en total se necesitan?",
+    "options": ["120", "240", "360", "480"],
+    "correct": 1,
+    "answer": "b) 240"
+  },
+  {
+    "id": 170,
+    "question": "En una escuela se establecen las siguientes reglas: 1) Todas las clases de matemática son obligatorias para aprobar el año; 2) Sólo los estudiantes que aprueban la clase de matemática pueden inscribirse a la materia de Física; 3) Carolina está inscrita en la clase de Física. Según estas premisas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["Carolina tiene más de 80 en matemática", "Carolina aprobó la clase de matemática", "Carolina está en último año", "Carolina aprobó la clase de Física"],
+    "correct": 1,
+    "answer": "b) Carolina aprobó la clase de matemática"
+  },
+  {
+    "id": 171,
+    "question": "Se propone la siguiente secuencia para resolver el problema: “Un número se incrementa en 8 y el resultado se divide por 4, obteniéndose 5.” I. Plantear la ecuación: (x + 8) / 4 = 5 II. Multiplicar ambos lados por 4: x + 8 = 5 III. Restar 8 a ambos lados: x = −3 IV. Verificar sustituyendo x = −3: (−3 + 8) / 4 = 5 / 4 ≠ 5 ¿Cuál de los pasos, de acuerdo con la lógica matemática, produce una inconsistencia en el procedimiento?",
+    "options": ["Paso I", "Paso II", "Paso III", "Paso IV"],
+    "correct": 1,
+    "answer": "b) Paso II"
+  },
+  {
+    "id": 172,
+    "question": "Al resolver la expresión 3x(4 + 2) − 5, un estudiante escribe los siguientes pasos. ¿Cuál de los enunciados muestra el procedimiento correcto y el resultado final?",
+    "options": ["3x·6 − 5 = 18x − 5", "3x·4 + 2 − 5 = 12x + 2 − 5 = 12x − 3", "3x·4 + 3x·2 − 5 = 12x + 6x − 5 = 18x − 5", "3x·4 + 2 − 5 = 12x + 2 − 5 = 12x − 3"],
+    "correct": 0,
+    "answer": "a) 3x·6 − 5 = 18x − 5"
+  },
+  {
+    "id": 173,
+    "question": "Para resolver la ecuación 3x − 7 = 2, se aplicó una serie de operaciones a ambos lados de la igualdad. ¿Cuál de las siguientes afirmaciones describe correctamente el procedimiento que preserva la solución de la ecuación?",
+    "options": ["Restar 7 y luego dividir entre 3", "Sumar 7 y luego dividir entre 3", "Dividir entre 3 y luego sumar 7", "Multiplicar por 3 y luego restar 7"],
+    "correct": 1,
+    "answer": "b) Sumar 7 y luego dividir entre 3"
+  },
+  {
+    "id": 174,
+    "question": "Durante la resolución de la ecuación 3x − 7 = 2(x + 4), Carolina escribe los siguientes pasos: 3x − 7 = 2x + 8; 3x − 2x = 8 − 7; x = 1. Verifica sustituyendo x = 1 y obtiene 2 = 38. ¿Cuál de los pasos contiene la inconsistencia en el procedimiento?",
+    "options": ["Paso 1", "Paso 2", "Paso 3", "Paso 4"],
+    "correct": 1,
+    "answer": "b) Paso 2"
+  },
+  {
+    "id": 175,
+    "question": "En una fila de cinco cajones numerados del 1 al 5 se colocan bolas rojas (R) y azules (A) bajo las siguientes condiciones: El cajón 1 contiene una bola roja. El número de bolas rojas es mayor que el número de bolas azules. Si el cajón 3 contiene una bola azul, entonces el cajón 5 contiene una bola roja. El cajón 4 contiene una bola del mismo color que el cajón 1. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["El cajón 5 es azul", "El cajón 4 es rojo", "El cajón 3 es rojo", "El cajón 2 es azul"],
+    "correct": 1,
+    "answer": "b) El cajón 4 es rojo"
+  },
+  {
+    "id": 176,
+    "question": "En la escuela Secundaria Valle Verde se cumple lo siguiente: • Cada estudiante que pertenece al club de robótica estudia la materia de Ciencias. • Todo estudiante que estudia Ciencias obtiene la calificación aprobatoria en el examen final de la asignatura. • María es miembro del club de robótica. Según estas premisas, ¿qué afirmación es necesariamente verdadera?",
+    "options": ["María estudia Ciencias", "María aprueba el examen final de la asignatura", "María no pertenece al club de robótica", "María no estudia Ciencias"],
+    "correct": 1,
+    "answer": "b) María aprueba el examen final de la asignatura"
+  },
+  {
+    "id": 177,
+    "question": "Para resolver la ecuación 3x − 7 = 2x + 5, se proponen los siguientes procedimientos. ¿Cuál de ellos es consistente con la forma correcta de obtener la solución?",
+    "options": ["Sumar 7, luego restar 2x, luego dividir entre 3", "Restar 2x, luego sumar 7", "Restar 2x, luego restar 7", "Multiplicar por 2, luego sumar 7, luego dividir entre 3"],
+    "correct": 1,
+    "answer": "b) Restar 2x, luego sumar 7"
+  },
+  {
+    "id": 178,
+    "question": "Al resolver la ecuación 4x − 5 = 3x + 7, el docente propone el siguiente procedimiento paso a paso. ¿Cuál de los enunciados corresponde a un paso que no mantiene la consistencia del procedimiento?",
+    "options": ["Restar 3x a ambos lados", "Sumar 5 a ambos lados", "Dividir ambos lados por 1", "Multiplicar ambos lados por 2"],
+    "correct": 3,
+    "answer": "d) Multiplicar ambos lados por 2"
+  },
+  {
+    "id": 179,
+    "question": "En una escuela se conocen los siguientes hechos: 1) Si la clase de matemática se imparte en la mañana, entonces la clase de ciencias se imparte en la tarde. 2) La clase de ciencias no se imparte en la tarde. 3) La clase de matemática se imparte en la mañana o en la tarde, pero no ambas. ¿Cuál de las siguientes afirmaciones necesariamente es verdadera?",
+    "options": ["La clase de matemática se imparte en la mañana", "La clase de matemática se imparte en la tarde", "La clase de ciencias se imparte en la mañana", "La clase de ciencias se imparte en la tarde"],
+    "correct": 1,
+    "answer": "b) La clase de matemática se imparte en la tarde"
+  },
+  {
+    "id": 180,
+    "question": "Un estudiante resuelve la ecuación 4(2x − 3) = 3x + 9 y muestra los siguientes pasos: 1) Distribuye: 8x − 12 = 3x + 9; 2) Resta 3x de ambos lados: 5x − 12 = 9; 3) Suma 12 a ambos lados: 5x = 21; 4) Divide por 5: x = 4.2. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "options": ["El paso 2 es incorrecto", "El paso 4 es incorrecto", "La solución verifica la ecuación original", "Debería dividir entre 4 antes de distribuir"],
+    "correct": 2,
+    "answer": "c) La solución verifica la ecuación original"
+  },
+  {
+    "id": 181,
+    "question": "Para resolver la ecuación 3x – 7 = 2x + 5 se propone el siguiente procedimiento: restar 2x a ambos lados: 3x – 2x – 7 = 5, sumar 7 a ambos lados: x = 12 dividir ambos lados por 2: x = 6, verificar sustituyendo x = 6 en la ecuación original. ¿Cuál de los pasos contiene un error que invalida el procedimiento?",
+    "options": ["Paso I", "Paso II", "Paso III", "Paso IV"],
+    "correct": 2,
+    "answer": "c) Paso III"
+  },
+  {
+    "id": 182,
+    "question": "En un proyecto de huertos escolares participan tres grupos, A, B y C, con las siguientes condiciones: 1) Cada grupo tiene un número distinto de estudiantes. 2) El grupo A tiene el doble de estudiantes que el grupo B. 3) El grupo C tiene cuatro estudiantes más que el grupo A. 4) En total son 34 estudiantes. ¿Cuántos estudiantes forman parte del grupo B?",
+    "options": ["4", "6", "8", "10"],
+    "correct": 1,
+    "answer": "b) 6"
+  },
+  {
+    "id": 183,
+    "question": "En una escuela se asignan aulas según las siguientes reglas: (1) Si una asignatura es de ciencias, se dicta en un aula con número par. (2) Si el número de aula es múltiplo de 3, la asignatura impartida es de matemática. (3) Ninguna asignatura puede ser simultáneamente de ciencias y de matemática. Con base en estas reglas, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "options": ["El aula 4 es de ciencias", "El aula 6 no es de ciencias", "El aula 9 es de ciencias", "El aula 12 es de ciencias"],
+    "correct": 1,
+    "answer": "b) El aula 6 no es de ciencias"
+  },
+  {
+    "id": 184,
+    "question": "En una escuela se conocen las siguientes reglas: 1) Si un estudiante aprueba Matemática, entonces aprueba Ciencia. 2) Si aprueba Ciencia, entonces es elegible para la competencia de robótica. 3) Juan no es elegible para la competencia de robótica. ¿Cuál de las siguientes afirmaciones se deduce lógicamente de esas reglas?",
+    "options": ["Juan aprueba Matemática", "Juan aprueba Ciencia", "Juan no aprueba Matemática", "Juan no aprueba Ciencia"],
+    "correct": 2,
+    "answer": "c) Juan no aprueba Matemática"
+  },
+  {
+    "id": 185,
+    "question": "En una tarea de matemática, Carlos resolvió la ecuación 3x − 2 = 7. Primero sumó 2 a ambos lados, obteniendo 3x = 9; luego dividió por 3 y concluyó que x = 3. ¿Cuál de las siguientes afirmaciones indica que el procedimiento de Carlos es consistente con la solución de la ecuación?",
+    "options": ["La ecuación original se puede reescribir como 3x = 9", "Si x = 3, entonces 3x − 2 = 7 es verdadero", "Dividir por 3 es el paso final", "La solución x = 3 es un número entero"],
+    "correct": 1,
+    "answer": "b) Si x = 3, entonces 3x − 2 = 7 es verdadero"
+  },
+  {
+    "id": 186,
+    "question": "María debe resolver la ecuación 2x − 4 = 10. En su cuaderno anota los siguientes pasos: 1) suma 4 a ambos lados de la igualdad, obteniendo 2x = 14; 2) divide ambos lados entre 2, resultando x = 7. Para confirmar su solución vuelve a sustituir x = 7 en la ecuación original y verifica que 2·7 − 4 = 10, lo cual es cierto. ¿Cuál de las siguientes respuestas coincide con el procedimiento que María realizó?",
+    "options": ["x = 5", "x = 6", "x = 7", "x = 8"],
+    "correct": 2,
+    "answer": "c) x = 7"
+  },
+  {
+    "id": 187,
+    "question": "En una escuela secundaria, se deben organizar los turnos de laboratorio para tres materias: química, biología y física. Cada turno ocupa una franja horaria de dos horas y no pueden coincidir. Se sabe que: El turno de química se realiza antes que el de biología. El turno de física no es el primero del día. El turno de biología no es el último. Según estas premisas, ¿cuál de las siguientes secuencias es posible?",
+    "options": ["Física – Química – Biología", "Química – Biología – Física", "Biología – Química – Física", "Química – Física – Biología"],
+    "correct": 1,
+    "answer": "b) Química – Biología – Física"
+  },
+  {
+    "id": 188,
+    "question": "Un número entero n, al multiplicarse por 7, produce un resultado que al dividirse entre 5 deja residuo 3. ¿Cuál es el menor n que satisface esa condición?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 1,
+    "answer": "b) 4"
+  },
+  {
+    "id": 189,
+    "question": "En una competencia de robótica, cada robot debe ejecutar una serie de movimientos cuya duración (en segundos) sigue la regla: a partir del tercer movimiento, la duración es la suma de los dos movimientos anteriores. Si el primer movimiento dura 7 s y el segundo 10 s, ¿cuál es la duración del quinto movimiento?",
+    "options": ["27", "34", "44", "55"],
+    "correct": 2,
+    "answer": "c) 44"
+  },
+  {
+    "id": 190,
+    "question": "En una escuela se inscribieron 120 estudiantes para un examen y se sabe que el número de aprobados es exactamente el doble del número de reprobados. De las siguientes cuatro propuestas, ¿cuál describe un procedimiento lógico y coherente que permite determinar cuántos estudiantes aprobaron?",
+    "options": ["Sea x = número de aprobados, entonces x + 2x = 120", "Sea x = número de reprobados, entonces x + 2x = 120", "Sea x = número de aprobados, entonces x + x/2 = 120", "Dividir 120 entre 3 y multiplicar por 2"],
+    "correct": 1,
+    "answer": "b) Sea x = número de reprobados, entonces x + 2x = 120"
+  },
+  {
+    "id": 191,
+    "question": "En un examen de matemática, un estudiante resolvió la ecuación 2x - 5 = 9 siguiendo los pasos que se presentan a continuación: Suma 5 a ambos lados: 2x - 5 + 5 = 9 + 5 → 2x = 14. Divide ambos lados entre 2: 2x/2 = 14/2 → x = 7. Verifica sustituyendo x = 7 en la ecuación original: 2·7 - 5 = 9? → 14 - 5 = 9 → 9 = 9. ¿Cuál de los siguientes enunciados describe correctamente la consistencia del procedimiento?",
+    "options": ["El paso 1 es incorrecto porque debió restar 5", "El paso 2 es incorrecto porque debió multiplicar por 2", "No hay inconsistencia; el procedimiento es correcto", "La verificación es incorrecta porque 14 - 5 = 9 es falso"],
+    "correct": 2,
+    "answer": "c) No hay inconsistencia; el procedimiento es correcto"
+  },
+  {
+    "id": 192,
+    "question": "Un estudiante resuelve la ecuación 2x + 3 = 11 siguiendo los pasos: (i) resta 3 a ambos lados obteniendo 2x = 8; (ii) divide ambos lados por 2 y escribe x = 4; (iii) verifica sustituyendo x = 4 en la ecuación original. ¿Cuál de las siguientes afirmaciones es correcta respecto a la solución encontrada?",
+    "options": ["La solución es incorrecta porque 2·4 + 3 = 12", "La solución es consistente con la ecuación original", "El error está en la división por 2", "No es la única solución posible"],
+    "correct": 1,
+    "answer": "b) La solución es consistente con la ecuación original"
+  },
+  {
+    "id": 193,
+    "question": "En una clase de Álgebra, un estudiante resuelve la ecuación 2x² - 8x + 6 = 0 usando el método de completar el cuadrado y escribe los siguientes pasos: Divide toda la ecuación por 2: x² - 4x + 3 = 0. Traslada el término constante: x² - 4x = -3. Completa el cuadrado sumando (-4/2)² = 4 a ambos lados: x² - 4x + 4 = 1. Factoriza: (x - 2)² = 1. Extrae raíz cuadrada: x - 2 = ±1. Obtiene las soluciones: x = 3 y x = 1. ¿Cuál de las siguientes afirmaciones es correcta respecto al procedimiento y a las soluciones obtenidas?",
+    "options": ["El procedimiento es incorrecto porque no se puede completar el cuadrado así", "Las soluciones son incorrectas; deberían ser x = 2 y x = -2", "El procedimiento es algebraicamente consistente y las soluciones son correctas", "Debería haber factorizado directamente sin completar el cuadrado"],
+    "correct": 2,
+    "answer": "c) El procedimiento es algebraicamente consistente y las soluciones son correctas"
+  },
+  {
+    "id": 194,
+    "question": "Una estudiante está resolviendo la ecuación 3x – 7 = 2x + 5 y anota los siguientes pasos: Resta 2x de ambos lados. Suma 7 a ambos lados. Divide entre 1. ¿Cuál de los enunciados siguientes describe correctamente la consistencia del procedimiento utilizado?",
+    "options": ["El procedimiento es inconsistente porque no se puede dividir entre 1", "El procedimiento es inconsistente porque el orden de los pasos es erróneo", "El procedimiento es consistente y llega a la solución correcta", "El procedimiento omite un paso necesario"],
+    "correct": 2,
+    "answer": "c) El procedimiento es consistente y llega a la solución correcta"
+  },
+  {
+    "id": 195,
+    "question": "En una tarea de álgebra, se pide resolver la ecuación (x+4)/(x-1)=2. Un estudiante realizó los siguientes pasos: 1) Multiplicó ambos lados por (x-1) obteniendo x+4 = 2(x-1). 2) Distribuyó: x+4 = 2x-2. 3) Restó x de ambos lados: 4 = x-2. 4) Sumó 2 a ambos lados: x = 6. 5) Concluyó que la solución es x = 6 y que no existen restricciones adicionales. ¿Cuál de las siguientes afirmaciones es correcta respecto a la consistencia de la solución encontrada?",
+    "options": ["La solución es correcta y no hay restricciones", "La solución es correcta pero debe excluirse x=1", "La solución es incorrecta; debería ser x=4", "El paso 1 es inválido porque x-1 podría ser cero"],
+    "correct": 1,
+    "answer": "b) La solución es correcta pero debe excluirse x=1"
+  },
+  {
+    "id": 196,
+    "question": "En una escuela se están organizando actividades grupales. Primero, 144 estudiantes se dividen en grupos de 6 alumnos cada uno. Después, cada grupo se reparte en 3 subgrupos con el mismo número de estudiantes. Finalmente, se forman nuevas unidades agrupando 4 subgrupos entre sí. Según este procedimiento, ¿cuántos estudiantes compondrán cada nueva unidad?",
+    "options": ["6", "8", "10", "12"],
+    "correct": 1,
+    "answer": "b) 8"
+  },
+  {
+    "id": 197,
+    "question": "En una clase de 28 alumnos se quiere formar todas las parejas posibles sin repetir ninguna combinación. El docente indica que para obtener el número total de parejas debe multiplicar 28 × 27 y luego dividir el producto entre 2, obteniendo 378 parejas. ¿Cuál de las siguientes afirmaciones describe correctamente la consistencia del procedimiento utilizado?",
+    "options": ["El procedimiento es correcto y el resultado es 378", "Debería dividir entre 3, no entre 2", "La división entre 2 duplica el número de parejas", "Debería considerar el orden, por lo que no debe dividir entre 2"],
+    "correct": 0,
+    "answer": "a) El procedimiento es correcto y el resultado es 378"
+  },
+  {
+    "id": 198,
+    "question": "Orlando resuelve la ecuación 2x² – 8x + 6 = 0 siguiendo los pasos que se indican a continuación: Divide ambos lados por 2, obteniendo x² – 4x + 3 = 0. Factoriza el trinomio como (x – 1)(x – 3) = 0. Concluye que x = 1 y x = 3. Verifica sustituyendo cada valor en la ecuación original y afirma que solo x = 1 satisface la igualdad. ¿Cuál de las siguientes afirmaciones es correcta respecto a la consistencia del procedimiento y la solución de Orlando?",
+    "options": ["El procedimiento es incorrecto porque no se puede dividir por 2", "Las soluciones son correctas, pero la verificación de x=3 está mal hecha", "La factorización es incorrecta; debería ser (x-2)(x-3)=0", "Solo x=1 es solución correcta"],
+    "correct": 1,
+    "answer": "b) Las soluciones son correctas, pero la verificación de x=3 está mal hecha"
+  },
+  {
+    "id": 199,
+    "question": "Una caja contiene lápices rojos y lápices azules. En total hay 18 lápices y el número de lápices rojos es el doble del número de lápices azules. ¿Cuántos lápices azules hay en la caja?",
+    "options": ["4", "6", "9", "12"],
+    "correct": 1,
+    "answer": "b) 6"
+  },
+  {
+    "id": 200,
+    "question": "En una feria, cada puesto vende paquetes de 8 galletas. Si Miguel compra 5 paquetes y luego reparte las galletas igualmente entre sus 4 amigos, ¿cuántas galletas recibe cada amigo?",
+    "options": ["8", "10", "12", "15"],
+    "correct": 1,
+    "answer": "b) 10"
+  }
+]
