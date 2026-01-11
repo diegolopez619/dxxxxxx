@@ -1,0 +1,504 @@
+{
+  "problems": [
+    {
+      "problem_number": 1,
+      "question": "Observa la siguiente serie numérica: 2, 5, 9, 14, 20, ¿cuál es el número que sigue?",
+      "options": ["a) 24", "b) 25", "c) 26", "✅ d) 27"]
+    },
+    {
+      "problem_number": 2,
+      "question": "En una fila de baldosas, cada una tiene el doble de puntos que la anterior. Si la primera baldosa tiene 3 puntos, ¿cuántos puntos tendrá la quinta baldosa?",
+      "options": ["a) 24", "b) 36", "✅ c) 48", "d) 96"]
+    },
+    {
+      "problem_number": 3,
+      "question": "Observa la siguiente serie de números: 2, 4, 8, 16, __. ¿Cuál número completa correctamente la secuencia?",
+      "options": ["a) 24", "✅ b) 32", "c) 36", "d) 48"]
+    },
+    {
+      "problem_number": 4,
+      "question": "Observa la siguiente sucesión numérica: 3, 6, 12, 24, __. ¿Cuál es el número que continúa la serie?",
+      "options": ["a) 36", "b) 40", "✅ c) 48", "d) 56"]
+    },
+    {
+      "problem_number": 5,
+      "question": "La siguiente serie muestra la evolución de la población en una aldea: 2, 4, 8, 16, … ¿Cuál es el número que sigue en la secuencia?",
+      "options": ["a) 24", "✅ b) 32", "c) 36", "d) 48"]
+    },
+    {
+      "problem_number": 6,
+      "question": "Observa la siguiente serie de letras: A, C, F, J, O, … ¿Cuál es la letra que sigue en la secuencia?",
+      "options": ["a) T", "✅ b) U", "c) V", "d) S"]
+    },
+    {
+      "problem_number": 7,
+      "question": "En una campaña de entrega de caramelos, la cantidad que se reparten cada día se duplica respecto al día anterior: Día 1 → 3 caramelos, Día 2 → 6 caramelos, Día 3 → 12 caramelos, Día 4 → 24 caramelos. ¿Cuántos caramelos se repartirán el Día 5?",
+      "options": ["a) 36", "b) 42", "✅ c) 48", "d) 56"]
+    },
+    {
+      "problem_number": 8,
+      "question": "En una escuela se organizan filas de sillas para una presentación. La primera fila tiene 5 sillas, y cada fila sucesiva tiene 2 sillas más que la fila anterior. ¿Cuántas sillas habrá en la quinta fila?",
+      "options": ["a) 11", "b) 12", "✅ c) 13", "d) 15"]
+    },
+    {
+      "problem_number": 9,
+      "question": "Observa la siguiente serie numérica: 2, 5, 8, 11, … ¿Cuál es el número que sigue en la secuencia?",
+      "options": ["a) 12", "✅ b) 14", "c) 15", "d) 16"]
+    },
+    {
+      "problem_number": 10,
+      "question": "Observe la siguiente serie de números: 2, 5, 10, 17, 26, __. ¿Cuál es el número que completa la secuencia?",
+      "options": ["a) 34", "b) 35", "✅ c) 37", "d) 39"]
+    },
+    {
+      "problem_number": 11,
+      "question": "En una serie que indica cuántos libros lee un estudiante cada mes, los valores son: 2, 5, 10, 17, 26, ... ¿Cuál será la cantidad de libros que leerá en el sexto mes?",
+      "options": ["a) 35", "b) 36", "✅ c) 37", "d) 38"]
+    },
+    {
+      "problem_number": 12,
+      "question": "Una profesora dispone los números de los pupitres siguiendo la siguiente serie: 5, 11, 19, 29, … ¿Cuál es el número que corresponde al siguiente pupitre?",
+      "options": ["a) 39", "✅ b) 41", "c) 43", "d) 45"]
+    },
+    {
+      "problem_number": 13,
+      "question": "Una estudiante registró la cantidad de libros que lee cada mes durante varios meses: 2, 5, 10, 17, 26, … ¿Cuántos libros debería leer el mes siguiente si mantiene el mismo patrón?",
+      "options": ["a) 35", "✅ b) 37", "c) 39", "d) 41"]
+    },
+    {
+      "problem_number": 14,
+      "question": "Observa la siguiente sucesión de números: 5, 9, 17, 33, 65, __. ¿Cuál es el número que completa la serie?",
+      "options": ["a) 97", "✅ b) 129", "c) 131", "d) 145"]
+    },
+    {
+      "problem_number": 15,
+      "question": "En una serie de lecturas de temperatura diaria se registraron los siguientes valores (en grados Celsius): 2, 5, 9, 14. ¿Cuál es el próximo valor que continuará la regularidad de la serie?",
+      "options": ["a) 18", "✅ b) 20", "c) 22", "d) 24"]
+    },
+    {
+      "problem_number": 16,
+      "question": "En una actividad de matemática, el profesor muestra una serie de números escritos en la pizarra: 3, 6, 11, 18, 27, … ¿Cuál es el siguiente número que completa la secuencia?",
+      "options": ["a) 36", "✅ b) 38", "c) 40", "d) 42"]
+    },
+    {
+      "problem_number": 17,
+      "question": "La sucesión de números empieza así: 2, 6, 12, 20. Cada término se obtiene sumando al anterior un número que aumenta en 2 unidades respecto al incremento anterior (es decir, 4, 6, 8, …). ¿Cuál es el siguiente número de la serie?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 18,
+      "question": "Observa la siguiente serie numérica: 2, 6, 12, 20, __. ¿Cuál es el número que completa correctamente la serie?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 19,
+      "question": "Observa la siguiente sucesión de números: 2, 6, 12, 20, … ¿Cuál es el próximo número de la serie?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 20,
+      "question": "En una escuela, la cantidad de libros que se entregan a la biblioteca cada lunes forma la serie 5, 9, 13, 17,… ¿Cuál será el número de libros que se entregarán el lunes siguiente?",
+      "options": ["a) 19", "✅ b) 21", "c) 23", "d) 25"]
+    },
+    {
+      "problem_number": 21,
+      "question": "En una actividad escolar se entregan trofeos a los equipos cada 5 minutos, iniciando a las 00:00 min. Si los premios se entregaron a los minutos 5, 10, 15 y 20, ¿cuál será el minuto en que se entregará el siguiente trofeo?",
+      "options": ["a) 22", "b) 23", "✅ c) 25", "d) 30"]
+    },
+    {
+      "problem_number": 22,
+      "question": "En una biblioteca, se colocan los libros en estanterías siguiendo el siguiente patrón de cantidad de libros por fila: 2, 5, 8, 11. ¿Cuántos libros deberá haber en la quinta fila para mantener el mismo patrón?",
+      "options": ["a) 13", "✅ b) 14", "c) 15", "d) 16"]
+    },
+    {
+      "problem_number": 23,
+      "question": "Observa la siguiente sucesión numérica: 5, 9, 17, 33, ___. ¿Cuál es el número que continúa la serie?",
+      "options": ["a) 49", "✅ b) 65", "c) 73", "d) 81"]
+    },
+    {
+      "problem_number": 24,
+      "question": "En un jardín se plantaron una serie de arbustos cuyas alturas, en metros, se incrementan siguiendo el patrón: 2, 4, 8, 16. Si la secuencia continúa de la misma manera, ¿cuál será la altura del sexto arbusto?",
+      "options": ["a) 32", "b) 48", "✅ c) 64", "d) 128"]
+    },
+    {
+      "problem_number": 25,
+      "question": "En una lista de valores que presenta la siguiente sucesión: 5, 9, 17, 33, ¿cuál es el número que sigue?",
+      "options": ["a) 49", "✅ b) 65", "c) 73", "d) 81"]
+    },
+    {
+      "problem_number": 26,
+      "question": "En una serie se presentan los siguientes números: 2, 6, 12, 20, … ¿Cuál es el número que sigue en la secuencia?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 27,
+      "question": "En el concurso de matemática de la escuela, el número de participantes que califican a la siguiente ronda ha sido el siguiente en los últimos cinco años: 4, 7, 11, 16, 22. ¿Cuántos participantes se espera que haya en la próxima ronda?",
+      "options": ["a) 27", "✅ b) 29", "c) 31", "d) 33"]
+    },
+    {
+      "problem_number": 28,
+      "question": "Observa la siguiente serie de números: 2, 5, 10, 17, 26, … ¿Cuál es el próximo número que sigue en la secuencia?",
+      "options": ["a) 34", "b) 35", "✅ c) 37", "d) 39"]
+    },
+    {
+      "problem_number": 29,
+      "question": "Observa la siguiente serie numérica: 5, 10, 20, 40, __. ¿Cuál es el número que completa la serie?",
+      "options": ["a) 60", "b) 70", "✅ c) 80", "d) 100"]
+    },
+    {
+      "problem_number": 30,
+      "question": "En una fila de ladrillos se pinta siguiendo la secuencia de colores: rojo, verde, azul, rojo, verde, azul, ... ¿De qué color será el ladrillo número 15?",
+      "options": ["a) Rojo", "b) Verde", "✅ c) Azul", "d) Amarillo"]
+    },
+    {
+      "problem_number": 31,
+      "question": "Una serie de números se forma añadiendo 3 al número anterior. Si el primer número de la serie es 5, ¿cuál será el cuarto número?",
+      "options": ["a) 12", "b) 13", "✅ c) 14", "d) 15"]
+    },
+    {
+      "problem_number": 32,
+      "question": "Observa la siguiente serie de números: 2, 5, 10, 17, __. ¿Cuál es el número que completa la serie?",
+      "options": ["a) 24", "b) 25", "✅ c) 26", "d) 28"]
+    },
+    {
+      "problem_number": 33,
+      "question": "En una biblioteca escolar, los libros de la serie “Descubriendo la Ciencia” se organizan siguiendo una regla: cada nuevo libro tiene 15 páginas más que el anterior. Si el primer libro tiene 8 páginas, ¿cuántas páginas tendrá el quinto libro de la serie?",
+      "options": ["a) 58", "✅ b) 68", "c) 78", "d) 88"]
+    },
+    {
+      "problem_number": 34,
+      "question": "En la siguiente serie numérica: 2, 6, 12, 20, … ¿Cuál es el número que sigue?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 35,
+      "question": "En una escuela se dispone una fila de sillas para los estudiantes en la siguiente forma: la primera fila tiene 2 sillas, la segunda fila tiene 5, la tercera fila tiene 10 y la cuarta fila tiene 17. ¿Cuántas sillas debe contener la quinta fila para que el número de sillas continúe la misma lógica?",
+      "options": ["a) 24", "b) 25", "✅ c) 26", "d) 28"]
+    },
+    {
+      "problem_number": 36,
+      "question": "En una serie numérica aparecen los siguientes valores: 2, 5, 9, 14, 20. Cada término se obtiene sumando al anterior un número que aumenta en una unidad respecto al incremento anterior. ¿Cuál es el próximo número de la serie?",
+      "options": ["a) 25", "b) 26", "✅ c) 27", "d) 28"]
+    },
+    {
+      "problem_number": 37,
+      "question": "En la siguiente serie de números se observa una regla que permite obtener cada término a partir del anterior: 2, 5, 10, 17, 26, … ¿Cuál es el número que sigue en la serie?",
+      "options": ["a) 35", "✅ b) 37", "c) 39", "d) 41"]
+    },
+    {
+      "problem_number": 38,
+      "question": "Observa la siguiente serie numérica: 3, 8, 15, 24, 35, … ¿Cuál es el número que sigue en la secuencia?",
+      "options": ["a) 44", "b) 46", "✅ c) 48", "d) 50"]
+    },
+    {
+      "problem_number": 39,
+      "question": "En una serie de fichas numeradas que sigue el patrón de sumar al número anterior la sucesiva cantidad de unidades (es decir, el primer término es 2 y al término n-ésimo se le suma n), la sucesión es: 2, 6, 12, 20, 30, … ¿Cuál es el siguiente número de la serie?",
+      "options": ["a) 40", "✅ b) 42", "c) 44", "d) 46"]
+    },
+    {
+      "problem_number": 40,
+      "question": "Observa las dos series siguientes: Serie numérica: 2, 5, 8, 11, … Serie de letras: A, C, E, G, … ¿Cuál es el siguiente término de cada serie, respectivamente?",
+      "options": ["✅ a) 14 y I", "b) 13 y H", "c) 14 y H", "d) 13 y I"]
+    },
+    {
+      "problem_number": 41,
+      "question": "Observa la siguiente sucesión de números: 3, 8, 15, 24, 35, … ¿Cuál es el número que sigue en la serie?",
+      "options": ["a) 44", "b) 46", "✅ c) 48", "d) 50"]
+    },
+    {
+      "problem_number": 42,
+      "question": "En la coordinación pedagógica de la escuela, se programó una serie de jornadas de lectura en las que a cada clase se le entregó la siguiente cantidad de libros, en la siguiente orden: 5, 9, 13, 17. ¿Cuántos libros se entregarán a la siguiente clase si la serie continúa con el mismo patrón?",
+      "options": ["a) 19", "✅ b) 21", "c) 23", "d) 25"]
+    },
+    {
+      "problem_number": 43,
+      "question": "Observa la siguiente secuencia de figuras: Un círculo con un punto rojo. Un círculo con dos puntos azules. Un círculo con tres puntos rojos. Un círculo con cuatro puntos azules. ¿Cuál será la descripción de la quinta figura de la serie?",
+      "options": ["a) Un círculo con cuatro puntos rojos", "✅ b) Un círculo con cinco puntos rojos", "c) Un círculo con cinco puntos azules", "d) Un círculo con seis puntos azules"]
+    },
+    {
+      "problem_number": 44,
+      "question": "Observa la siguiente sucesión de números: 3, 8, 15, 24, … ¿Cuál es el número que continúa la serie?",
+      "options": ["a) 33", "✅ b) 35", "c) 37", "d) 39"]
+    },
+    {
+      "problem_number": 45,
+      "question": "Una estudiante registra la cantidad de páginas que lee cada día durante una semana y la secuencia obtenida es: 2, 5, 10, 17, 26, … ¿Cuál será el número de páginas que leerá el sexto día?",
+      "options": ["a) 35", "✅ b) 37", "c) 39", "d) 41"]
+    },
+    {
+      "problem_number": 46,
+      "question": "En una serie de fichas, la primera muestra un círculo rojo, la segunda un cuadrado rojo, la tercera un cuadrado azul y la cuarta un triángulo azul. Según el patrón observado, ¿qué figura y color aparecerá en la quinta ficha?",
+      "options": ["a) Triángulo azul", "✅ b) Triángulo rojo", "c) Cuadrado rojo", "d) Círculo azul"]
+    },
+    {
+      "problem_number": 47,
+      "question": "Observa las dos filas de fichas coloreadas que se presentan a continuación: Fila 1: rojo, azul, rojo, azul, rojo, azul… Fila 2: rojo, rojo, azul, azul, rojo, rojo, azul, azul… ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los patrones de colores de ambas filas?",
+      "options": ["a) La Fila 1 repite cada color dos veces antes de cambiar.", "✅ b) La Fila 2 repite cada color dos veces antes de cambiar.", "c) Ambas filas tienen el mismo patrón de alternancia.", "d) En la Fila 2, los colores cambian en cada posición."]
+    },
+    {
+      "problem_number": 48,
+      "question": "En la lista de números presentada a continuación, 3, 5, 12, 14, 27, 29, …, ¿cuál es el número que debería aparecer a continuación?",
+      "options": ["a) 42", "✅ b) 48", "c) 50", "d) 54"]
+    },
+    {
+      "problem_number": 49,
+      "question": "En una escuela, la cantidad de estudiantes que se inscriben en el programa de lectura cada año ha sido: 3, 7, 15, 31, ... ¿Cuál es el número que sigue en la serie?",
+      "options": ["a) 47", "✅ b) 63", "c) 65", "d) 127"]
+    },
+    {
+      "problem_number": 50,
+      "question": "En una escuela rural se registró el número de estudiantes que se graduaron en los últimos años consecutivos: 45, 54, 63, ?, 81. ¿Cuál es el número que completa la secuencia?",
+      "options": ["a) 70", "✅ b) 72", "c) 74", "d) 76"]
+    },
+    {
+      "problem_number": 51,
+      "question": "En una fila de fichas, la primera muestra 2 puntos, la segunda 5 puntos, la tercera 12 puntos y la cuarta 27 puntos. ¿Cuántos puntos tendrá la quinta ficha?",
+      "options": ["a) 52", "✅ b) 58", "c) 62", "d) 64"]
+    },
+    {
+      "problem_number": 52,
+      "question": "Observa la siguiente sucesión de números: 2, 6, 12, 20, __. ¿Cuál es el número que debe ocupar la posición del espacio en blanco?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 53,
+      "question": "En una hoja de trabajo se presentan dos filas de números. La fila A muestra: 2, 4, 8, 16, … y la fila B muestra: 3, 6, 12, 24, …. ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los valores de la fila B y los de la fila A?",
+      "options": ["a) La fila B es el doble de la fila A.", "b) La fila B es 1 más que la fila A.", "✅ c) Los valores de la fila B son 1,5 veces los de la fila A.", "d) La fila B es el cuadrado de la fila A."]
+    },
+    {
+      "problem_number": 54,
+      "question": "En una serie numérica cada término se obtiene multiplicando dos números consecutivos. Si la serie comienza con 2, 6, 12, 20, 30, ¿cuál es el siguiente número?",
+      "options": ["a) 40", "✅ b) 42", "c) 44", "d) 48"]
+    },
+    {
+      "problem_number": 55,
+      "question": "En una exposición de arte digital, una serie de figuras aparecen en la pantalla siguiendo una regla oculta. Las áreas (en unidades cuadradas) de las figuras mostradas son: 3, 8, 15, 24. ¿Cuál será el área de la siguiente figura mostrada?",
+      "options": ["a) 33", "✅ b) 35", "c) 37", "d) 39"]
+    },
+    {
+      "problem_number": 56,
+      "question": "En una serie de figuras la primera fila muestra: triángulo, cuadrado y círculo. La segunda fila muestra las mismas figuras, pero todas coloreadas de rojo: triángulo rojo, cuadrado rojo y círculo rojo. Si la regla del problema es que cada figura de la segunda fila es la misma que la de la primera fila, solo que con el color rojo, ¿cuál es la figura que corresponde a la tercera posición de la segunda fila?",
+      "options": ["a) Triángulo rojo", "b) Cuadrado rojo", "✅ c) Círculo rojo", "d) Círculo azul"]
+    },
+    {
+      "problem_number": 57,
+      "question": "Observa la siguiente serie de números: 4, 14, 34, 74, ¿Cuál es el siguiente número que completa la secuencia?",
+      "options": ["a) 144", "✅ b) 154", "c) 164", "d) 174"]
+    },
+    {
+      "problem_number": 58,
+      "question": "En una escuela se organizan grupos de estudiantes para una actividad extracurricular siguiendo la siguiente sucesión de números que indica la cantidad de estudiantes en cada grupo: 5, 9, 15, 23, ... ¿Cuántos estudiantes integrarán el quinto grupo?",
+      "options": ["a) 31", "✅ b) 33", "c) 35", "d) 37"]
+    },
+    {
+      "problem_number": 59,
+      "question": "En una escuela primaria se está diseñando el mosaico del patio. La primera fila sigue el orden de colores: rojo, azul, rojo, azul, ... (alternando). En la segunda fila, cada baldosa lleva una cantidad de puntos que aumenta en dos unidades desde la anterior: 2, 4, 6, 8, ... Al comparar ambas filas, ¿cuál de las siguientes afirmaciones es correcta?",
+      "options": ["a) La segunda fila repite cada dos posiciones.", "✅ b) La primera fila repite cada dos posiciones.", "c) Ambas filas son idénticas en patrón.", "d) La segunda fila no aumenta continuamente."]
+    },
+    {
+      "problem_number": 60,
+      "question": "En una feria, los puestos están organizados en una fila siguiendo una regla de incremento en la cantidad de manzanas que venden: el primer puesto vende 2 manzanas, el segundo 6, el tercero 12 y el cuarto 20. ¿Cuántas manzanas venderá el sexto puesto?",
+      "options": ["a) 36", "b) 40", "✅ c) 42", "d) 56"]
+    },
+    {
+      "problem_number": 61,
+      "question": "En una comunidad se decide plantar árboles de forma anual siguiendo la siguiente regla: el primer año se plantan 1 árbol, y cada año posterior se plantan un árbol más que la diferencia de árboles plantados respecto al año anterior. La cantidad de árboles plantados en los primeros seis años ha sido: 1, 2, 4, 7, 11, 16. ¿Cuántos árboles se plantarían en el séptimo año?",
+      "options": ["a) 20", "✅ b) 22", "c) 24", "d) 26"]
+    },
+    {
+      "problem_number": 62,
+      "question": "En una fila de bloques, la altura de cada bloque duplica la del anterior (1 cm, 2 cm, 4 cm, 8 cm, ...) y el color se alterna entre rojo y azul, comenzando con rojo. ¿Cuál será la altura y el color del siguiente bloque para que continúe con ambos patrones?",
+      "options": ["a) 16 cm, azul", "✅ b) 16 cm, rojo", "c) 32 cm, rojo", "d) 32 cm, azul"]
+    },
+    {
+      "problem_number": 63,
+      "question": "En la planificación de un proyecto de aula, el docente anota los valores de asistencia diaria de los estudiantes en la siguiente serie: 5, 9, 17, 33, ... ¿Cuál es el número que sigue en la secuencia?",
+      "options": ["a) 49", "✅ b) 65", "c) 73", "d) 81"]
+    },
+    {
+      "problem_number": 64,
+      "question": "En una escuela, el profesor asigna ejercicios de práctica extra cada semana siguiendo el siguiente orden: en la semana 1 asigna 2 ejercicios, en la semana 2 asigna 6 ejercicios, en la semana 3 asigna 12 ejercicios y en la semana 4 asigna 20 ejercicios. ¿Cuántos ejercicios le tocará asignar al estudiante en la semana 5?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 65,
+      "question": "En el aula de una escuela, el profesor coloca los libros en las mesas siguiendo una sucesión numérica. La primera mesa tiene 2 libros, la segunda 5, la tercera 10 y la cuarta 17. ¿Cuántos libros debe colocar en la quinta mesa para mantener el mismo patrón?",
+      "options": ["a) 24", "✅ b) 26", "c) 28", "d) 30"]
+    },
+    {
+      "problem_number": 66,
+      "question": "En la planificación de actividades de un club de lectura, el número de página donde inicia cada capítulo se determina mediante la regla: el capítulo k comienza en la página k × (k + 1). Si el capítulo 1 comienza en la página 2, el capítulo 2 en la página 6, el capítulo 3 en la página 12 y el capítulo 4 en la página 20, ¿en qué página iniciará el capítulo 6?",
+      "options": ["a) 36", "✅ b) 42", "c) 48", "d) 56"]
+    },
+    {
+      "problem_number": 67,
+      "question": "En una tabla de notas de una clase, el profesor observa que la puntuación total de los estudiantes sigue la siguiente secuencia: 4, 10, 22, 46, __. ¿Cuál es el número que completa la serie?",
+      "options": ["a) 86", "✅ b) 94", "c) 98", "d) 102"]
+    },
+    {
+      "problem_number": 68,
+      "question": "En una serie de números cada término se obtiene sumando al número anterior la cantidad de unidades que incrementa su posición (es decir, al primer término se le añade 1, al segundo 2, al tercero 3, etc.). La serie comienza así: 2, 6, 12, 20, … ¿Cuál es el siguiente número de la secuencia?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 69,
+      "question": "En la siguiente serie numérica cada término se obtiene sumando al anterior un número que incrementa en una unidad cada vez: 1, 2, 4, 7, ¿Cuál es el número que sigue?",
+      "options": ["a) 9", "✅ b) 11", "c) 12", "d) 14"]
+    },
+    {
+      "problem_number": 70,
+      "question": "Observa la siguiente serie numérica: 2, 5, 10, 17, 26, __. ¿Cuál número completa correctamente la secuencia?",
+      "options": ["a) 34", "b) 35", "✅ c) 37", "d) 39"]
+    },
+    {
+      "problem_number": 71,
+      "question": "Considere las dos series siguientes: Serie A: 3, 6, 12, 24, ... Serie B: 2, 5, 10, 17, ... ¿Cuál de las siguientes afirmaciones describe correctamente la forma en que se generan los términos de ambas series?",
+      "options": ["a) Ambas se generan multiplicando por 2.", "✅ b) La Serie A se genera multiplicando por 2; la Serie B sumando números impares crecientes.", "c) Ambas se generan sumando números impares.", "d) La Serie A suma 3 cada vez; la Serie B multiplica por 2."]
+    },
+    {
+      "problem_number": 72,
+      "question": "Observa las siguientes dos series numéricas: Serie I: 5, 9, 13, 17, 21, ... Serie II: 2, 6, 12, 20, 30, ... ¿Cuál de las dos series sigue un patrón de suma constante entre términos?",
+      "options": ["✅ a) Serie I", "b) Serie II", "c) Ambas", "d) Ninguna"]
+    },
+    {
+      "problem_number": 73,
+      "question": "En el patio de la escuela, el docente está colocando filas de bancos siguiendo un patrón: la primera fila tiene 2 bancos, la segunda fila 5 bancos, la tercera fila 10 bancos y la cuarta fila 17 bancos. ¿Cuántos bancos tendrá la quinta fila si el patrón continúa de la misma manera?",
+      "options": ["a) 24", "✅ b) 26", "c) 28", "d) 30"]
+    },
+    {
+      "problem_number": 74,
+      "question": "En un estudio sobre la cantidad de aves que anidan en un reservorio cada año, se registraron los siguientes valores: 2, 12, 30, 56, 90. Si la tendencia observada continúa, ¿cuál será el número de aves que anidarán en el sexto año?",
+      "options": ["a) 110", "✅ b) 132", "c) 156", "d) 182"]
+    },
+    {
+      "problem_number": 75,
+      "question": "Observa la siguiente sucesión de números naturales: 2, 6, 12, 20, 30, … ¿Cuál es el siguiente término de la serie?",
+      "options": ["a) 38", "✅ b) 42", "c) 44", "d) 48"]
+    },
+    {
+      "problem_number": 76,
+      "question": "En una tabla de registro la cantidad de estudiantes que participan en el proyecto de lectura sigue la serie: 2, 5, 9, 14, 20, … ¿Cuál es el número que corresponde al sexto término?",
+      "options": ["a) 25", "b) 26", "✅ c) 27", "d) 28"]
+    },
+    {
+      "problem_number": 77,
+      "question": "En una serie numérica, cada número se obtiene multiplicando el anterior por 2 y sumándole 1. Si la secuencia comienza con 3, 7, 15, 31, ¿cuál es el siguiente número que sigue?",
+      "options": ["a) 47", "✅ b) 63", "c) 65", "d) 127"]
+    },
+    {
+      "problem_number": 78,
+      "question": "En una serie de valores que representa la cantidad de libros que un estudiante lee cada mes, los números son: 3, 8, 15, 24, 35. ¿Cuál será el número de libros que leerá en el sexto mes, si la serie sigue el mismo patrón?",
+      "options": ["a) 46", "✅ b) 48", "c) 50", "d) 52"]
+    },
+    {
+      "problem_number": 79,
+      "question": "En una fila de sillas del aula, la altura de cada una sigue una regla creciente: la primera mide 40 cm, la segunda 45 cm, la tercera 55 cm y la cuarta 70 cm. ¿Cuál será la altura de la quinta silla?",
+      "options": ["a) 80 cm", "✅ b) 90 cm", "c) 100 cm", "d) 110 cm"]
+    },
+    {
+      "problem_number": 80,
+      "question": "En una tabla de rendimiento de una escuela, se observa que el número de estudiantes que aprobaron el examen de matemática en los últimos cinco años sigue la serie: 2, 6, 12, 20, 30. ¿Cuál será el número esperado de aprobados para el próximo año si la tendencia continúa?",
+      "options": ["a) 36", "✅ b) 42", "c) 48", "d) 56"]
+    },
+    {
+      "problem_number": 81,
+      "question": "En una clase, el maestro dispone los asientos en filas de forma que la primera fila tiene 2 estudiantes, la segunda fila 6 estudiantes, la tercera fila 12 estudiantes y la cuarta fila 20 estudiantes. Siguiendo el mismo criterio, ¿cuántos estudiantes se sentarán en la quinta fila?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 82,
+      "question": "En el programa de mejoramiento de la infraestructura de los colegios rurales, se decide instalar un número de aulas nuevas cada año siguiendo la siguiente secuencia: en el primer año se construyeron 5 aulas, en el segundo año 9 aulas, en el tercer año 15 aulas y en el cuarto año 23 aulas. Según este patrón, ¿cuántas aulas se deberían construir en el quinto año?",
+      "options": ["a) 31", "✅ b) 33", "c) 35", "d) 37"]
+    },
+    {
+      "problem_number": 83,
+      "question": "En una fila de fichas se repite el siguiente patrón de símbolos: cuadrado, círculo, triángulo, cuadrado, círculo, triángulo, … Si la secuencia continúa de la misma forma, ¿qué símbolo ocupará la posición número 10?",
+      "options": ["✅ a) Cuadrado", "b) Círculo", "c) Triángulo", "d) Rombo"]
+    },
+    {
+      "problem_number": 84,
+      "question": "En la siguiente serie de números: 2, 4, 7, 11, 16, ..., ¿cuál es el número que continúa la secuencia?",
+      "options": ["a) 20", "✅ b) 22", "c) 24", "d) 26"]
+    },
+    {
+      "problem_number": 85,
+      "question": "En una serie de actividades de aula, el docente dispone bloques numerados siguiendo el patrón: 2, 6, 12, 20, ___. ¿Cuál es el número que continúa la secuencia?",
+      "options": ["✅ a) 30", "b) 32", "c) 34", "d) 36"]
+    },
+    {
+      "problem_number": 86,
+      "question": "En una clase de matemática, el profesor escribe la siguiente serie de números: 2, 5, 10, 17, 26, ... ¿Cuál es el número que sigue en la serie?",
+      "options": ["a) 34", "b) 35", "✅ c) 37", "d) 39"]
+    },
+    {
+      "problem_number": 87,
+      "question": "Observa la siguiente sucesión de números: 3, 8, 15, 24, 35, ___. ¿Cuál es el número que continúa la serie?",
+      "options": ["a) 44", "b) 46", "✅ c) 48", "d) 50"]
+    },
+    {
+      "problem_number": 88,
+      "question": "En una serie de bloques de madera se colocan de forma creciente la siguiente cantidad de piezas: 2, 5, 10, 17, ... ¿Cuál es la cantidad de piezas que se colocará en el siguiente bloque?",
+      "options": ["a) 24", "✅ b) 26", "c) 28", "d) 30"]
+    },
+    {
+      "problem_number": 89,
+      "question": "Un profesor de matemática registra la cantidad de problemas que su clase resuelve en cada sesión de práctica. Los resultados de las primeras seis sesiones fueron: 5, 7, 10, 15, 23, 36. Si la tendencia observada continúa, ¿cuántos problemas se espera que se resuelvan en la séptima sesión?",
+      "options": ["a) 52", "✅ b) 57", "c) 60", "d) 65"]
+    },
+    {
+      "problem_number": 90,
+      "question": "Observa la siguiente serie de números: 3, 7, 15, 31, ___. ¿Cuál es el número que continúa la secuencia?",
+      "options": ["a) 47", "✅ b) 63", "c) 65", "d) 127"]
+    },
+    {
+      "problem_number": 91,
+      "question": "Observa la siguiente sucesión de letras del alfabeto: A, C, F, J, O, ___. ¿Cuál es la letra que completa la serie?",
+      "options": ["a) T", "✅ b) U", "c) V", "d) S"]
+    },
+    {
+      "problem_number": 92,
+      "question": "Observa la siguiente sucesión de números basada en la cantidad de chapas que recibe cada alumno al participar en una feria escolar: 3, 8, 15, 24, ... ¿Cuál será la cantidad de chapas que recibirá el siguiente alumno si la regla que rige la sucesión se mantiene?",
+      "options": ["a) 33", "✅ b) 35", "c) 37", "d) 39"]
+    },
+    {
+      "problem_number": 93,
+      "question": "En la siguiente tabla se presentan dos series: Serie A (números): 2, 6, 12, 20, 30, ... y Serie B (puntos): *, **, ***, ****, *****, ... ¿Cuál de las siguientes afirmaciones es correcta?",
+      "options": ["a) La Serie A es el doble de la Serie B.", "b) La Serie B sigue la fórmula n×(n+1).", "✅ c) En la Serie B, el número de puntos del término n es igual a n.", "d) Ambas series son aritméticas."]
+    },
+    {
+      "problem_number": 94,
+      "question": "En un diseño de mosaico, los motivos se colocan siguiendo la siguiente sucesión: círculo, triángulo, cuadrado, círculo, triángulo, ¿qué figura debe aparecer en la sexta posición para que el patrón continúe de forma lógica?",
+      "options": ["a) Círculo", "b) Triángulo", "✅ c) Cuadrado", "d) Rombo"]
+    },
+    {
+      "problem_number": 95,
+      "question": "En un proyecto de jardinería, se cuenta cuántas flores aparecen en cada fila consecutiva del jardín siguiendo el patrón: 2, 4, 7, 11, 16, … ¿Cuántas flores habrá en la fila que sigue a la última mostrada?",
+      "options": ["a) 20", "✅ b) 22", "c) 24", "d) 26"]
+    },
+    {
+      "problem_number": 96,
+      "question": "En una escuela rural, el horario de materias para los días de la semana sigue una secuencia cíclica: Matemática, Ciencia, Historia, y luego vuelve a comenzar. Si la secuencia de materias para los ocho primeros días es: Matemática, Ciencia, Historia, Matemática, Ciencia, Historia, Matemática, ¿qué materia corresponde al día ocho?",
+      "options": ["a) Matemática", "✅ b) Ciencia", "c) Historia", "d) Arte"]
+    },
+    {
+      "problem_number": 97,
+      "question": "Se presentan dos series numéricas: la primera es 2, 5, 10, 17, 26, … y la segunda es 3, 6, 11, 18, 27, …. ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre ambas series?",
+      "options": ["a) La segunda serie es el cuadrado de la primera.", "b) La diferencia entre términos consecutivos de la primera serie son números primos.", "✅ c) Para la misma posición n, el término de la segunda serie es igual a n² + 2, y el de la primera es n² + 1.", "d) Ambas series son aritméticas."]
+    },
+    {
+      "problem_number": 98,
+      "question": "Observa las dos series de números siguientes: Serie A: 4, 7, 10, 13, 16 … Serie B: 9, 12, 15, 18, 21 … ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los términos de ambas series?",
+      "options": ["a) La Serie B es el doble de la Serie A.", "b) La Serie A aumenta en 3 y la Serie B en 4.", "✅ c) Cada término de la Serie B es 5 unidades mayor que el término correspondiente de la Serie A.", "d) Los términos de la Serie B son la suma de los dos términos anteriores de la Serie A."]
+    },
+    {
+      "problem_number": 99,
+      "question": "En una escuela se van a empaquetar 48 lápices en paquetes iguales, sin que sobre ninguno. ¿Cuál es la mayor cantidad posible de lápices que puede contener cada paquete?",
+      "options": ["a) 12", "✅ b) 24", "c) 16", "d) 8"]
+    },
+    {
+      "problem_number": 100,
+      "question": "Una maestra dispone 48 fichas para repartir entre 6 grupos, de forma que cada grupo reciba la misma cantidad de fichas y esa cantidad sea múltiplo de 4. ¿Cuántas fichas recibe cada grupo?",
+      "options": ["a) 6", "b) 7", "✅ c) 8", "d) 12"]
+    }
+  ]
+}
