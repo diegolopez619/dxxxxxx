@@ -1,0 +1,1012 @@
+{
+  "textos": [
+    {
+      "titulo": "TEXTO 1: Deforestación y Cambio Climático en los Andes Bolivianos: Una Perspectiva Histórica y Evolutiva",
+      "resumen": "La región andina de Bolivia ha experimentado una transformación profunda de sus ecosistemas forestales desde tiempos precolombinos hasta la actualidad. Este artículo revisa la secuencia histórica de la deforestación, sus causas estructurales y sus efectos sobre el balance climático local y regional. Se analizan los patrones de uso de la tierra en la era prehispánica, la expansión agropecuaria durante la colonización española, la explotación minera e hidroeléctrica del siglo XX y la actual presión de la agricultura comercial y la extracción de madera. A través de datos de satélites y estudios de campo, se cuantifica la pérdida de cobertura forestal (aproximadamente 15% entre 1990 y 2020) y se relaciona con el aumento de la temperatura media (= 0,6 °C) y la variabilidad de precipitaciones. El artículo discute los mecanismos de retroalimentación entre la pérdida de bosque y el cambio climático, y plantea opciones de gestión basada en conocimientos tradicionales y políticas de conservación. La intención es ofrecer a los jóvenes lectores una visión integral que combine historia, ciencia y contexto boliviano, facilitando la comprensión crítica de uno de los mayores retos ambientales de la región.",
+      "preguntas": [
+        {
+          "numero": 1,
+          "pregunta": "Según el artículo, ¿cuál fue la reducción porcentual de la superficie forestal entre 1900 y 1960?",
+          "opciones": [
+            "A. 25%",
+            "B. 15%",
+            "C. 10%",
+            "D. 20%"
+          ],
+          "respuesta_correcta": "D. 20%"
+        },
+        {
+          "numero": 2,
+          "pregunta": "¿Qué porcentaje aproximado de cobertura forestal se perdió entre 1990 y 2020?",
+          "opciones": [
+            "A. 25%",
+            "B. 15%",
+            "C. 10%",
+            "D. 20%"
+          ],
+          "respuesta_correcta": "B. 15%"
+        },
+        {
+          "numero": 3,
+          "pregunta": "¿Cuánto aumentó la temperatura media en la región andina boliviana entre 1990 y 2020?",
+          "opciones": [
+            "A. 1,2 °C",
+            "B. 0,3 °C",
+            "C. 0,6 °C",
+            "D. 0,9 °C"
+          ],
+          "respuesta_correcta": "C. 0,6 °C"
+        },
+        {
+          "numero": 4,
+          "pregunta": "Según el modelo de balance energético presentado, ¿qué se expresa con la ecuación Q = Rn - G - H - LE?",
+          "opciones": [
+            "A. La tasa de deforestación anual",
+            "B. La energía neta disponible en la superficie",
+            "C. La cantidad de CO₂ emitido",
+            "D. La variabilidad de precipitaciones"
+          ],
+          "respuesta_correcta": "B. La energía neta disponible en la superficie"
+        },
+        {
+          "numero": 5,
+          "pregunta": "¿Cuál fue la tasa de deforestación anual entre 2005 y 2020?",
+          "opciones": [
+            "A. 32.000 ha/año",
+            "B. 45.000 ha/año",
+            "C. 28.000 ha/año",
+            "D. 50.000 ha/año"
+          ],
+          "respuesta_correcta": "B. 45.000 ha/año"
+        },
+        {
+          "numero": 6,
+          "pregunta": "¿Qué pueblos originarios practicaban sistemas agroforestales en los Yungas antes del contacto europeo?",
+          "opciones": [
+            "A. Quechuas y Uros",
+            "B. Aymara y Guarani",
+            "C. Mojos y Chiquitanos",
+            "D. Chipayas y Yuracarés"
+          ],
+          "respuesta_correcta": "B. Aymara y Guarani"
+        },
+        {
+          "numero": 7,
+          "pregunta": "¿Cuántos árboles nativos sembró el programa Biodiversidad Andina (2020-2024)?",
+          "opciones": [
+            "A. 1,5 millones",
+            "B. 2,5 millones",
+            "C. 3,5 millones",
+            "D. 4,5 millones"
+          ],
+          "respuesta_correcta": "C. 3,5 millones"
+        },
+        {
+          "numero": 8,
+          "pregunta": "¿Qué carretera, finalizada en 1978, abrió vastas áreas del bosque subtropical a la colonización?",
+          "opciones": [
+            "A. La Paz-Oruro",
+            "B. Cochabamba-Santa Cruz",
+            "C. Sucre-Potosí",
+            "D. Tarija-Yacuiba"
+          ],
+          "respuesta_correcta": "B. Cochabamba-Santa Cruz"
+        },
+        {
+          "numero": 9,
+          "pregunta": "¿Qué factor se menciona primero en la cadena que relaciona deforestación con aumento de temperatura?",
+          "opciones": [
+            "A. Reducción de la transpiración vegetal",
+            "B. Aumento del calor sensible",
+            "C. Reducción del albedo",
+            "D. Disminución de la radiación neta"
+          ],
+          "respuesta_correcta": "C. Reducción del albedo"
+        },
+        {
+          "numero": 10,
+          "pregunta": "¿Qué tipo de energía disminuye cuando se pierden los bosques, contribuyendo al calentamiento?",
+          "opciones": [
+            "A. Calor sensible",
+            "B. Radiación neta",
+            "C. Calor latente",
+            "D. Flujo de calor al suelo"
+          ],
+          "respuesta_correcta": "C. Calor latente"
+        },
+        {
+          "numero": 11,
+          "pregunta": "¿Qué porcentaje de reducción de superficie forestal hubo entre 1900 y 1960 según el INE?",
+          "opciones": [
+            "A. 15%",
+            "B. 20%",
+            "C. 25%",
+            "D. 30%"
+          ],
+          "respuesta_correcta": "B. 20%"
+        },
+        {
+          "numero": 12,
+          "pregunta": "¿Qué tipo de gestión promueve el artículo para enfrentar la deforestación?",
+          "opciones": [
+            "A. Exclusivamente tecnológica",
+            "B. Basada solo en conocimientos tradicionales",
+            "C. Integrada: tradicional y científica",
+            "D. Centrada en reforestación masiva"
+          ],
+          "respuesta_correcta": "C. Integrada: tradicional y científica"
+        },
+        {
+          "numero": 13,
+          "pregunta": "¿Qué fenómeno climático se intensifica con la pérdida de bosques según el artículo?",
+          "opciones": [
+            "A. Huracanes",
+            "B. Sequías",
+            "C. Heladas",
+            "D. Granizadas"
+          ],
+          "respuesta_correcta": "B. Sequías"
+        },
+        {
+          "numero": 14,
+          "pregunta": "¿Qué práctica agrícola precolombina se menciona como sostenible?",
+          "opciones": [
+            "A. Agricultura de roza y quema",
+            "B. Sistemas agroforestales",
+            "C. Cultivos en terrazas",
+            "D. Riego por inundación"
+          ],
+          "respuesta_correcta": "B. Sistemas agroforestales"
+        },
+        {
+          "numero": 15,
+          "pregunta": "¿Qué organización reporta el aumento de temperatura de 0,6 °C?",
+          "opciones": [
+            "A. INE",
+            "B. FAO",
+            "C. SENAMHI",
+            "D. UNESCO"
+          ],
+          "respuesta_correcta": "C. SENAMHI"
+        },
+        {
+          "numero": 16,
+          "pregunta": "¿Qué tipo de retroalimentación se menciona entre deforestación y cambio climático?",
+          "opciones": [
+            "A. Disminución de incendios con menos bosques",
+            "B. Mayor temperatura → más incendios → más emisiones → más temperatura",
+            "C. Más bosques → más lluvia → más bosques",
+            "D. Menor temperatura → menos evaporación → más humedad"
+          ],
+          "respuesta_correcta": "B. Mayor temperatura → más incendios → más emisiones → más temperatura"
+        },
+        {
+          "numero": 17,
+          "pregunta": "¿Qué siglo experimentó la mayor aceleración de deforestación?",
+          "opciones": [
+            "A. Siglo XVI",
+            "B. Siglo XIX",
+            "C. Siglo XX",
+            "D. Siglo XXI"
+          ],
+          "respuesta_correcta": "C. Siglo XX"
+        },
+        {
+          "numero": 18,
+          "pregunta": "¿Qué cultivo comercial se expandió notablemente en el siglo XX?",
+          "opciones": [
+            "A. Coca",
+            "B. Soya",
+            "C. Quinua",
+            "D. Café"
+          ],
+          "respuesta_correcta": "B. Soya"
+        },
+        {
+          "numero": 19,
+          "pregunta": "¿Qué tecnología permite cuantificar la deforestación según el artículo?",
+          "opciones": [
+            "A. GPS terrestre",
+            "B. Drones",
+            "C. Satélites",
+            "D. Radares meteorológicos"
+          ],
+          "respuesta_correcta": "C. Satélites"
+        },
+        {
+          "numero": 20,
+          "pregunta": "¿Qué componente del balance energético aumenta cuando disminuye LE?",
+          "opciones": [
+            "A. G (flujo de calor al suelo)",
+            "B. H (calor sensible)",
+            "C. Rn (radiación neta)",
+            "D. Ninguno, todos disminuyen"
+          ],
+          "respuesta_correcta": "B. H (calor sensible)"
+        },
+        {
+          "numero": 21,
+          "pregunta": "¿Qué actor NO se menciona en las respuestas actuales a la deforestación?",
+          "opciones": [
+            "A. Comunidades indígenas",
+            "B. Gobierno boliviano",
+            "C. ONG",
+            "D. Empresas mineras internacionales"
+          ],
+          "respuesta_correcta": "D. Empresas mineras internacionales"
+        },
+        {
+          "numero": 22,
+          "pregunta": "¿Qué aspecto NO menciona el artículo como consecuencia de la deforestación?",
+          "opciones": [
+            "A. Aumento de temperatura",
+            "B. Variabilidad de precipitaciones",
+            "C. Aumento de biodiversidad",
+            "D. Mayor erosión del suelo"
+          ],
+          "respuesta_correcta": "C. Aumento de biodiversidad"
+        },
+        {
+          "numero": 23,
+          "pregunta": "¿En qué región boliviana se enfoca principalmente el artículo?",
+          "opciones": [
+            "A. Amazonía",
+            "B. Chaco",
+            "C. Andes",
+            "D. Llanos orientales"
+          ],
+          "respuesta_correcta": "C. Andes"
+        },
+        {
+          "numero": 24,
+          "pregunta": "¿Qué periodo histórico inició cambios significativos en el uso del suelo?",
+          "opciones": [
+            "A. Época precolombina",
+            "B. Colonización española",
+            "C. Independencia",
+            "D. Revolución Nacional de 1952"
+          ],
+          "respuesta_correcta": "B. Colonización española"
+        },
+        {
+          "numero": 25,
+          "pregunta": "¿Qué tipo de conocimientos se propone integrar con tecnología moderna?",
+          "opciones": [
+            "A. Conocimientos mineros",
+            "B. Saberes agroforestales tradicionales",
+            "C. Técnicas industriales",
+            "D. Métodos de construcción"
+          ],
+          "respuesta_correcta": "B. Saberes agroforestales tradicionales"
+        },
+        {
+          "numero": 26,
+          "pregunta": "¿Qué dato sobre emisiones de CO₂ se menciona para Bolivia entre 2000-2015?",
+          "opciones": [
+            "A. 5 MtCO₂/año",
+            "B. 12 MtCO₂/año",
+            "C. 20 MtCO₂/año",
+            "D. 8 MtCO₂/año"
+          ],
+          "respuesta_correcta": "B. 12 MtCO₂/año"
+        },
+        {
+          "numero": 27,
+          "pregunta": "¿Qué factor estructural NO se menciona como causa de deforestación?",
+          "opciones": [
+            "A. Expansión agropecuaria",
+            "B. Minería",
+            "C. Hidroeléctricas",
+            "D. Turismo masivo"
+          ],
+          "respuesta_correcta": "D. Turismo masivo"
+        },
+        {
+          "numero": 28,
+          "pregunta": "¿Qué tipo de agricultura practicaban los pueblos originarios en los Yungas?",
+          "opciones": [
+            "A. Monocultivo intensivo",
+            "B. Rotación de cultivos con árboles nativos",
+            "C. Agricultura de precisión",
+            "D. Cultivos hidropónicos"
+          ],
+          "respuesta_correcta": "B. Rotación de cultivos con árboles nativos"
+        },
+        {
+          "numero": 29,
+          "pregunta": "¿Qué instrumento de política ambiental se menciona como efectivo?",
+          "opciones": [
+            "A. Impuestos a la reforestación",
+            "B. Pagos por servicios ambientales",
+            "C. Cuotas de deforestación",
+            "D. Multas a comunidades"
+          ],
+          "respuesta_correcta": "B. Pagos por servicios ambientales"
+        },
+        {
+          "numero": 30,
+          "pregunta": "¿Qué perspectiva temporal adopta el artículo?",
+          "opciones": [
+            "A. Solo presente",
+            "B. Últimas dos décadas",
+            "C. Desde precolombinos hasta actualidad",
+            "D. Solo siglo XX"
+          ],
+          "respuesta_correcta": "C. Desde precolombinos hasta actualidad"
+        }
+      ]
+    },
+    {
+      "titulo": "TEXTO 2: Educación Digital y la Brecha de Conectividad en Bolivia: Desafíos Actuales y Soluciones Emergentes",
+      "resumen": "El proceso de digitalización de la educación ha cobrado una relevancia sin precedentes tras la pandemia de COVID-19, revelando y ampliando la brecha de conectividad en países en desarrollo. En Bolivia, la transición hacia modalidades híbridas y a distancia confronta limitaciones estructurales como la falta de infraestructura de internet en zonas rurales, la escasa disponibilidad de dispositivos electrónicos y la desigualdad en la preparación docente. Este artículo revisa la evidencia empírica disponible sobre el nivel de acceso a tecnologías de la información y la comunicación (TIC) en el sistema educativo boliviano, analiza los impactos de la brecha digital en el rendimiento académico y la equidad, y discute iniciativas públicas y privadas que buscan mitigar estos problemas. Se presentan datos de organismos internacionales y nacionales que muestran que, a finales de 2023, solo el 42% de los estudiantes de educación primaria y el 58% de los de secundaria tenían acceso regular a una conexión de banda ancha en el hogar. A partir de este diagnóstico, se evalúan propuestas como la expansión de la red de fibra óptica en áreas campesinas, los programas de dispositivos compartidos en centros comunitarios y la capacitación docente en metodologías de aprendizaje en línea. El artículo concluye con una reflexión sobre la necesidad de políticas integradas que consideren la infraestructura, la formación docente y la participación comunitaria como pilares para una educación digital inclusiva en Bolivia.",
+      "preguntas": [
+        {
+          "numero": 1,
+          "pregunta": "¿Cómo define el artículo el concepto de \"brecha digital\"?",
+          "opciones": [
+            "A. Diferencia en el costo de dispositivos tecnológicos",
+            "B. Diferencia entre quienes pueden acceder y utilizar eficazmente las TIC y quienes no",
+            "C. Distancia geográfica entre zonas con y sin internet",
+            "D. Desigualdad en la velocidad de conexión a internet"
+          ],
+          "respuesta_correcta": "B. Diferencia entre quienes pueden acceder y utilizar eficazmente las TIC y quienes no"
+        },
+        {
+          "numero": 2,
+          "pregunta": "¿Qué porcentaje de hogares urbanos tenía acceso a internet en 2023 según el INE?",
+          "opciones": [
+            "A. 85%",
+            "B. 71%",
+            "C. 65%",
+            "D. 78%"
+          ],
+          "respuesta_correcta": "B. 71%"
+        },
+        {
+          "numero": 3,
+          "pregunta": "¿Qué porcentaje de hogares rurales tenía acceso a internet en 2023?",
+          "opciones": [
+            "A. 15%",
+            "B. 33%",
+            "C. 45%",
+            "D. 52%"
+          ],
+          "respuesta_correcta": "B. 33%"
+        },
+        {
+          "numero": 4,
+          "pregunta": "¿Qué porcentaje de estudiantes de primaria tenía acceso regular a banda ancha en el hogar a fines de 2023?",
+          "opciones": [
+            "A. 38%",
+            "B. 42%",
+            "C. 48%",
+            "D. 55%"
+          ],
+          "respuesta_correcta": "B. 42%"
+        },
+        {
+          "numero": 5,
+          "pregunta": "¿Qué porcentaje de estudiantes de secundaria tenía acceso regular a banda ancha en el hogar a fines de 2023?",
+          "opciones": [
+            "A. 52%",
+            "B. 58%",
+            "C. 62%",
+            "D. 65%"
+          ],
+          "respuesta_correcta": "B. 58%"
+        },
+        {
+          "numero": 6,
+          "pregunta": "¿Qué mejora en puntajes muestran los estudiantes con acceso regular a internet según el Banco Mundial (2023)?",
+          "opciones": [
+            "A. 5% en matemática",
+            "B. 8% en ciencias",
+            "C. 12% en matemática y lectura",
+            "D. 15% en todas las materias"
+          ],
+          "respuesta_correcta": "C. 12% en matemática y lectura"
+        },
+        {
+          "numero": 7,
+          "pregunta": "¿Qué porcentaje de municipios tiene cobertura de fibra óptica según la ATT (2022)?",
+          "opciones": [
+            "A. 15%",
+            "B. 24%",
+            "C. 35%",
+            "D. 42%"
+          ],
+          "respuesta_correcta": "B. 24%"
+        },
+        {
+          "numero": 8,
+          "pregunta": "¿Qué porcentaje de escuelas rurales carece de al menos un computador por cada 20 estudiantes?",
+          "opciones": [
+            "A. 25%",
+            "B. 38%",
+            "C. 45%",
+            "D. 52%"
+          ],
+          "respuesta_correcta": "B. 38%"
+        },
+        {
+          "numero": 9,
+          "pregunta": "¿Qué porcentaje de docentes de secundaria había recibido capacitación formal en pedagogía digital antes de la pandemia?",
+          "opciones": [
+            "A. 18%",
+            "B. 27%",
+            "C. 35%",
+            "D. 42%"
+          ],
+          "respuesta_correcta": "B. 27%"
+        },
+        {
+          "numero": 10,
+          "pregunta": "¿Cuántos kilómetros de fibra óptica planea instalar el Programa Nacional de Conectividad Rural (PNCR) antes de 2025?",
+          "opciones": [
+            "A. 800 km",
+            "B. 1.200 km",
+            "C. 1.500 km",
+            "D. 2.000 km"
+          ],
+          "respuesta_correcta": "B. 1.200 km"
+        },
+        {
+          "numero": 11,
+          "pregunta": "¿En qué porcentaje se redujo el costo promedio por kilómetro de fibra óptica gracias a las alianzas público-privadas?",
+          "opciones": [
+            "A. 10%",
+            "B. 15%",
+            "C. 20%",
+            "D. 25%"
+          ],
+          "respuesta_correcta": "B. 15%"
+        },
+        {
+          "numero": 12,
+          "pregunta": "¿Qué tecnología se usa en zonas de difícil acceso como el Beni?",
+          "opciones": [
+            "A. Satélite geoestacionario",
+            "B. Radio enlace de corto alcance",
+            "C. Cable submarino",
+            "D. Red 5G"
+          ],
+          "respuesta_correcta": "B. Radio enlace de corto alcance"
+        },
+        {
+          "numero": 13,
+          "pregunta": "¿Qué organización donó 120 tablets en Tarija?",
+          "opciones": [
+            "A. UNICEF",
+            "B. ConectaTI",
+            "C. Microsoft",
+            "D. Google"
+          ],
+          "respuesta_correcta": "B. ConectaTI"
+        },
+        {
+          "numero": 14,
+          "pregunta": "¿En qué porcentaje se redujo la brecha de dispositivos en Tarija con el proyecto de tablets rotativas?",
+          "opciones": [
+            "A. 30%",
+            "B. 40%",
+            "C. 50%",
+            "D. 60%"
+          ],
+          "respuesta_correcta": "B. 40%"
+        },
+        {
+          "numero": 15,
+          "pregunta": "¿Qué universidad implementó el Programa de Formación Docente en Tecnologías Educativas (FOTED)?",
+          "opciones": [
+            "A. UMSA",
+            "B. UCB",
+            "C. UATF",
+            "D. UMSS"
+          ],
+          "respuesta_correcta": "A. UMSA"
+        },
+        {
+          "numero": 16,
+          "pregunta": "¿Cuántos docentes han completado módulos en el programa FOTED?",
+          "opciones": [
+            "A. 2.500",
+            "B. 3.500",
+            "C. 4.500",
+            "D. 5.000"
+          ],
+          "respuesta_correcta": "B. 3.500"
+        },
+        {
+          "numero": 17,
+          "pregunta": "¿En qué porcentaje mejoró la confianza de los docentes para usar plataformas de aprendizaje según UMSA (2024)?",
+          "opciones": [
+            "A. 25%",
+            "B. 30%",
+            "C. 35%",
+            "D. 40%"
+          ],
+          "respuesta_correcta": "B. 30%"
+        },
+        {
+          "numero": 18,
+          "pregunta": "¿En qué región funciona la iniciativa \"Escuelas Conectadas\" con comités de padres?",
+          "opciones": [
+            "A. La Paz",
+            "B. Santa Cruz",
+            "C. Potosí",
+            "D. Cochabamba"
+          ],
+          "respuesta_correcta": "C. Potosí"
+        },
+        {
+          "numero": 19,
+          "pregunta": "¿En qué porcentaje aumentó la frecuencia de uso de recursos digitales con la participación comunitaria en Potosí?",
+          "opciones": [
+            "A. 40%",
+            "B. 55%",
+            "C. 60%",
+            "D. 65%"
+          ],
+          "respuesta_correcta": "B. 55%"
+        },
+        {
+          "numero": 20,
+          "pregunta": "¿Qué tres pilares menciona el artículo como esenciales para políticas educativas digitales inclusivas?",
+          "opciones": [
+            "A. Infraestructura, dispositivos, contenidos",
+            "B. Infraestructura, formación docente, participación comunitaria",
+            "C. Tecnología, currículo, evaluación",
+            "D. Conectividad, hardware, software"
+          ],
+          "respuesta_correcta": "B. Infraestructura, formación docente, participación comunitaria"
+        },
+        {
+          "numero": 21,
+          "pregunta": "¿Qué factor NO se menciona como barrera para la educación digital en Bolivia?",
+          "opciones": [
+            "A. Infraestructura insuficiente",
+            "B. Falta de dispositivos",
+            "C. Preparación docente",
+            "D. Exceso de oferta tecnológica"
+          ],
+          "respuesta_correcta": "D. Exceso de oferta tecnológica"
+        },
+        {
+          "numero": 22,
+          "pregunta": "¿Qué aspecto NO se menciona en las soluciones emergentes?",
+          "opciones": [
+            "A. Expansión de fibra óptica",
+            "B. Dispositivos compartidos",
+            "C. Capacitación docente",
+            "D. Implantación de inteligencia artificial en todas las escuelas"
+          ],
+          "respuesta_correcta": "D. Implantación de inteligencia artificial en todas las escuelas"
+        },
+        {
+          "numero": 23,
+          "pregunta": "¿Qué se concluye sobre el enfoque más eficaz para cerrar la brecha digital?",
+          "opciones": [
+            "A. Solo expansión de infraestructura",
+            "B. Solo capacitación docente",
+            "C. Solo dispositivos compartidos",
+            "D. Combinación de múltiples estrategias"
+          ],
+          "respuesta_correcta": "D. Combinación de múltiples estrategia"
+        },
+        {
+          "numero": 24,
+          "pregunta": "¿Qué dato demuestra el impacto positivo de la conectividad en el aprendizaje?",
+          "opciones": [
+            "A. Mejora en asistencia escolar",
+            "B. Aumento del 12% en puntajes",
+            "C. Reducción de deserción",
+            "D. Mayor participación en clases"
+          ],
+          "respuesta_correcta": "B. Aumento del 12% en puntajes"
+        },
+        {
+          "numero": 25,
+          "pregunta": "¿Qué problema específico enfrentan estudiantes de San Ignacio (Puno)?",
+          "opciones": [
+            "A. Falta de electricidad",
+            "B. Recorrer más de 2 horas a pie para llegar al centro de conectividad",
+            "C. No tienen dispositivos móviles",
+            "D. Los docentes no saben usar tecnología"
+          ],
+          "respuesta_correcta": "B. Recorrer más de 2 horas a pie para llegar al centro de conectividad"
+        },
+        {
+          "numero": 26,
+          "pregunta": "¿Qué tipo de materiales envían los docentes cuando no hay conectividad en tiempo real?",
+          "opciones": [
+            "A. Videos educativos",
+            "B. Libros físicos",
+            "C. Archivos PDF",
+            "D. Aplicaciones móviles"
+          ],
+          "respuesta_correcta": "C. Archivos PDF"
+        },
+        {
+          "numero": 27,
+          "pregunta": "¿En qué se concentra principalmente la cobertura de fibra óptica actual?",
+          "opciones": [
+            "A. Santa Cruz y La Paz",
+            "B. Potosí y Oruro",
+            "C. Beni y Pando",
+            "D. Chuquisaca y Tarija"
+          ],
+          "respuesta_correcta": "A. Santa Cruz y La Paz"
+        },
+        {
+          "numero": 28,
+          "pregunta": "¿Qué tipo de gestión muestran resultados positivos según el artículo?",
+          "opciones": [
+            "A. Gestión centralizada estatal",
+            "B. Gestión colaborativa comunitaria",
+            "C. Gestión privatizada total",
+            "D. Gestión internacional externa"
+          ],
+          "respuesta_correcta": "B. Gestión colaborativa comunitaria"
+        },
+        {
+          "numero": 29,
+          "pregunta": "¿Qué se necesita para consolidar los avances en educación digital según las conclusiones?",
+          "opciones": [
+            "A. Solo más inversión en infraestructura",
+            "B. Enfoque sistémico con múltiples componentes",
+            "C. Esperar que la tecnología se abarate",
+            "D. Depender de ayuda internacional"
+          ],
+          "respuesta_correcta": "B. Enfoque sistémico con múltiples componentes"
+        },
+        {
+          "numero": 30,
+          "pregunta": "¿Qué beneficio adicional ofrece una educación digital inclusiva además de mejorar resultados académicos?",
+          "opciones": [
+            "A. Reducir costos educativos",
+            "B. Potenciar participación en la sociedad del conocimiento",
+            "C. Eliminar la necesidad de docentes",
+            "D. Automatizar completamente la educación"
+          ],
+          "respuesta_correcta": "B. Potenciar participación en la sociedad del conocimiento"
+        }
+      ]
+    },
+    {
+      "titulo": "TEXTO 3: Historia y evolución del Internet en Bolivia: de los primeros enlaces a la era de la conectividad 5G",
+      "resumen": "El presente artículo revisa la trayectoria histórica del Internet en Bolivia, partiendo de los antecedentes mundiales hasta los desarrollos más recientes en la tecnología 5G. Se describen las fases de introducción del acceso dial-up en la década de 1990, la expansión de la banda ancha mediante cableado de cobre y fibra óptica en los años 2000-2010, y la implementación de redes móviles de cuarta y quinta generación. Se analizan, además, los impactos socioeconómicos vinculados a la digitalización de la educación, el comercio electrónico y la salud, y se discuten los retos estructurales, como la brecha digital entre áreas urbanas y rurales, la sostenibilidad de la infraestructura y la regulación del espectro radioeléctrico. El artículo combina datos estadísticos oficiales, estudios académicos y casos de proyectos locales, ofreciendo una visión integral que permite a los jóvenes lectores comprender cómo la evolución tecnológica ha transformado la vida cotidiana en Bolivia y qué desafíos persisten para lograr una conectividad universal.",
+      "preguntas": [
+        {
+          "numero": 1,
+          "pregunta": "¿Cómo define el artículo el acceso dial-up?",
+          "opciones": [
+            "A. Conexión por satélite de alta velocidad",
+            "B. Uso de línea telefónica convencional a 56 kbps",
+            "C. Conexión inalámbrica por radio",
+            "D. Red de fibra óptica doméstica"
+          ],
+          "respuesta_correcta": "B. Uso de línea telefónica convencional a 56 kbps"
+        },
+        {
+          "numero": 2,
+          "pregunta": "¿En qué año se estableció la primera conexión permanente a Internet en Bolivia?",
+          "opciones": [
+            "A. 1990",
+            "B. 1995",
+            "C. 2000",
+            "D. 2005"
+          ],
+          "respuesta_correcta": "B. 1995"
+        },
+        {
+          "numero": 3,
+          "pregunta": "¿Qué institución gestionó el primer enlace satelital de 64 kbps?",
+          "opciones": [
+            "A. Ministerio de Telecomunicaciones",
+            "B. Universidad Mayor de San Andrés (UMSA)",
+            "C. Empresa ENTEL",
+            "D. Organización de los Estados Americanos (OEA)"
+          ],
+          "respuesta_correcta": "B. Universidad Mayor de San Andrés (UMSA)"
+        },
+        {
+          "numero": 4,
+          "pregunta": "¿Qué porcentaje de hogares urbanos tenía conexión a Internet en 2003?",
+          "opciones": [
+            "A. 2%",
+            "B. 5%",
+            "C. 10%",
+            "D. 15%"
+          ],
+          "respuesta_correcta": "B. 5%"
+        },
+        {
+          "numero": 5,
+          "pregunta": "¿Qué porcentaje de hogares rurales tenía conexión a Internet en 2003?",
+          "opciones": [
+            "A. Menos del 1%",
+            "B. 3%",
+            "C. 5%",
+            "D. 8%"
+          ],
+          "respuesta_correcta": "A. Menos del 1%"
+        },
+        {
+          "numero": 6,
+          "pregunta": "¿Cómo se llamó el proyecto gubernamental de fibra óptica lanzado en 2006?",
+          "opciones": [
+            "A. Bolivia Conectada",
+            "B. Red de Información Boliviana (RIB)",
+            "C. Fibra Óptica Nacional",
+            "D. Internet para Todos"
+          ],
+          "respuesta_correcta": "B. Red de Información Boliviana (RIB)"
+        },
+        {
+          "numero": 7,
+          "pregunta": "¿Cuánto se invirtió en el proyecto de fibra óptica según el artículo?",
+          "opciones": [
+            "A. 150 millones de dólares",
+            "B. 250 millones de dólares",
+            "C. 350 millones de dólares",
+            "D. 450 millones de dólares"
+          ],
+          "respuesta_correcta": "C. 350 millones de dólares"
+        },
+        {
+          "numero": 8,
+          "pregunta": "¿Qué porcentaje de población urbana alcanzó la cobertura de fibra óptica en 2012?",
+          "opciones": [
+            "A. 45%",
+            "B. 60%",
+            "C. 75%",
+            "D. 85%"
+          ],
+          "respuesta_correcta": "B. 60%"
+        },
+        {
+          "numero": 9,
+          "pregunta": "¿A cuánto se redujeron los planes de 10 Mbps aproximadamente?",
+          "opciones": [
+            "A. 25 dólares mensuales",
+            "B. 20 dólares mensuales",
+            "C. 15 dólares mensuales",
+            "D. 10 dólares mensuales"
+          ],
+          "respuesta_correcta": "C. 15 dólares mensuales"
+        },
+        {
+          "numero": 10,
+          "pregunta": "¿Qué tienda virtual local se menciona como ejemplo de comercio electrónico temprano?",
+          "opciones": [
+            "A. Mercado Libre Bolivia",
+            "B. Linio Bolivia",
+            "C. Tiendas del Valle",
+            "D. Supermercados Virtuales"
+          ],
+          "respuesta_correcta": "C. Tiendas del Valle"
+        },
+        {
+          "numero": 11,
+          "pregunta": "¿Qué porcentaje de hogares urbanos tenía penetración de Internet en 2015?",
+          "opciones": [
+            "A. 28%",
+            "B. 38%",
+            "C. 48%",
+            "D. 58%"
+          ],
+          "respuesta_correcta": "B. 38%"
+        },
+        {
+          "numero": 12,
+          "pregunta": "¿Qué porcentaje de hogares rurales tenía penetración de Internet en 2015?",
+          "opciones": [
+            "A. 5%",
+            "B. 12%",
+            "C. 18%",
+            "D. 22%"
+          ],
+          "respuesta_correcta": "B. 12%"
+        },
+        {
+          "numero": 13,
+          "pregunta": "¿Qué empresa estatal lanzó la red 4G LTE en 2016?",
+          "opciones": [
+            "A. Viva Bolivia",
+            "B. Tigo",
+            "C. ENTEL",
+            "D. Nuevatel"
+          ],
+          "respuesta_correcta": "C. ENTEL"
+        },
+        {
+          "numero": 14,
+          "pregunta": "¿Qué velocidad promedio de descarga superó la red 4G LTE?",
+          "opciones": [
+            "A. 15 Mbps",
+            "B. 30 Mbps",
+            "C. 50 Mbps",
+            "D. 100 Mbps"
+          ],
+          "respuesta_correcta": "B. 30 Mbps"
+        },
+        {
+          "numero": 15,
+          "pregunta": "¿En qué año Bolivia aprobó la licitación del espectro 3.5 GHz para 5G?",
+          "opciones": [
+            "A. 2020",
+            "B. 2022",
+            "C. 2023",
+            "D. 2024"
+          ],
+          "respuesta_correcta": "B. 2022"
+        },
+        {
+          "numero": 16,
+          "pregunta": "¿Qué empresa anunció la prueba piloto de 5G en Puerto Suárez?",
+          "opciones": [
+            "A. ENTEL",
+            "B. Tigo",
+            "C. Viva Bolivia",
+            "D. Cooperativa de Telecomunicaciones"
+          ],
+          "respuesta_correcta": "C. Viva Bolivia"
+        },
+        {
+          "numero": 17,
+          "pregunta": "¿Qué porcentaje de la población se espera que tenga acceso a 5G para finales de 2024?",
+          "opciones": [
+            "A. 15%",
+            "B. 20%",
+            "C. 25%",
+            "D. 30%"
+          ],
+          "respuesta_correcta": "B. 20%"
+        },
+        {
+          "numero": 18,
+          "pregunta": "¿Qué porcentaje de estudiantes urbanos participó en clases virtuales durante la pandemia?",
+          "opciones": [
+            "A. 65%",
+            "B. 75%",
+            "C. 85%",
+            "D. 95%"
+          ],
+          "respuesta_correcta": "B. 75%"
+        },
+        {
+          "numero": 19,
+          "pregunta": "¿Qué porcentaje de estudiantes rurales enfrentó dificultades por falta de dispositivos o conectividad?",
+          "opciones": [
+            "A. 30%",
+            "B. 40%",
+            "C. 50%",
+            "D. 60%"
+          ],
+          "respuesta_correcta": "B. 40%"
+        },
+        {
+          "numero": 20,
+          "pregunta": "¿Qué porcentaje de hogares rurales carecía de acceso fijo a Internet en 2023?",
+          "opciones": [
+            "A. 58%",
+            "B. 68%",
+            "C. 78%",
+            "D. 88%"
+          ],
+          "respuesta_correcta": "B. 68%"
+        },
+        {
+          "numero": 21,
+          "pregunta": "¿Qué programa de salud en línea se menciona en el artículo?",
+          "opciones": [
+            "A. Telemedicina Nacional",
+            "B. Salud en Línea",
+            "C. Médicos Virtuales",
+            "D. Consulta Digital"
+          ],
+          "respuesta_correcta": "B. Salud en Línea"
+        },
+        {
+          "numero": 22,
+          "pregunta": "¿Qué se propone para cerrar la brecha digital según el artículo?",
+          "opciones": [
+            "A. Solo inversión privada",
+            "B. Solo subsidios estatales",
+            "C. Combinación de políticas (subsidios, capacitación, fondos nacionales)",
+            "D. Esperar el desarrollo tecnológico natural"
+          ],
+          "respuesta_correcta": "C. Combinación de políticas (subsidios, capacitación, fondos nacionales)"
+        },
+        {
+          "numero": 23,
+          "pregunta": "¿Qué tipo de colaboración se considera esencial para una red inclusiva?",
+          "opciones": [
+            "A. Solo sector privado",
+            "B. Solo gobierno",
+            "C. Instituciones académicas, gobierno y sector privado",
+            "D. Solo organizaciones internacionales"
+          ],
+          "respuesta_correcta": "C. Instituciones académicas, gobierno y sector privado"
+        },
+        {
+          "numero": 24,
+          "pregunta": "¿Qué aplicación específica se menciona para la tecnología 5G?",
+          "opciones": [
+            "A. Videojuegos en línea",
+            "B. Redes sociales",
+            "C. Telemedicina y realidad aumentada para enseñanza",
+            "D. Comercio electrónico masivo"
+          ],
+          "respuesta_correcta": "C. Telemedicina y realidad aumentada para enseñanza"
+        },
+        {
+          "numero": 25,
+          "pregunta": "¿Qué desafío NO se menciona en el artículo?",
+          "opciones": [
+            "A. Brecha digital urbano-rural",
+            "B. Sostenibilidad financiera de infraestructura",
+            "C. Regulación del espectro",
+            "D. Falta de interés de la población en Internet"
+          ],
+          "respuesta_correcta": "D. Falta de interés de la población en Internet"
+        },
+        {
+          "numero": 26,
+          "pregunta": "¿Qué concepto tecnológico global se menciona como origen de Internet?",
+          "opciones": [
+            "A. ARPANET",
+            "B. World Wide Web",
+            "C. TCP/IP",
+            "D. Telnet"
+          ],
+          "respuesta_correcta": "A. ARPANET"
+        },
+        {
+          "numero": 27,
+          "pregunta": "¿En qué década surgió el concepto de redes de computadoras interconectadas?",
+          "opciones": [
+            "A. 1950s",
+            "B. 1960s",
+            "C. 1970s",
+            "D. 1980s"
+          ],
+          "respuesta_correcta": "C. 1970s"
+        },
+        {
+          "numero": 28,
+          "pregunta": "¿Qué capa de presentación se inició en 1991?",
+          "opciones": [
+            "A. Internet Protocol",
+            "B. World Wide Web",
+            "C. Email",
+            "D. FTP"
+          ],
+          "respuesta_correcta": "B. World Wide Web"
+        },
+        {
+          "numero": 29,
+          "pregunta": "¿Qué países latinoamericanos tuvieron los primeros accesos a Internet mediados de 1990?",
+          "opciones": [
+            "A. Chile y Perú",
+            "B. Brasil y Argentina",
+            "C. Colombia y Venezuela",
+            "D. México y Uruguay"
+          ],
+          "respuesta_correcta": "B. Brasil y Argentina"
+        },
+        {
+          "numero": 30,
+          "pregunta": "¿Qué tipo de espacios proliferaron en ciudades durante la era dial-up?",
+          "opciones": [
+            "A. Centros comerciales",
+            "B. Cibercafés",
+            "C. Bibliotecas digitales",
+            "D. Universidades virtuales"
+          ],
+          "respuesta_correcta": "B. Cibercafés"
+        }
+      ]
+    }
+  ]
+}
