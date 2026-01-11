@@ -1,0 +1,1004 @@
+{
+  "textos": [
+    {
+      "titulo": "Economía circular y gestión de residuos en Bolivia",
+      "paginas": "1–3 del documento",
+      "contenido_completo": "El presente artículo examina la viabilidad y el impacto de la economía circular como modelo para la gestión de residuos sólidos en Bolivia. Se describen los conceptos básicos de la economía circular, se presentan los datos más recientes sobre generación y manejo de residuos en el país, y se analizan los desafíos institucionales, tecnológicos y sociales que limitan su implementación. A través de ejemplos concretos, como los programas de reciclaje de PET en Santa Cruz y la reutilización de residuos agrícolas en el Altipiano, se evidencia cómo la integración de políticas públicas, innovación tecnológica y participación comunitaria puede reducir la huella ambiental y generar oportunidades económicas para micro empresas.",
+      "preguntas": [
+        {
+          "numero": 1,
+          "texto": "¿Cómo define el texto a los instrumentos financieros recomendados para estimular la economía circular en Bolivia?",
+          "opciones": {
+            "a": "Subsidios directos y micro bonos",
+            "b": "Fondos de garantía, líneas de crédito verde y esquemas de pago por servicios ambientales ✓",
+            "c": "Incentivos fiscales y subsidios a la producción",
+            "d": "Créditos blandos y seguros agrícolas"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 2,
+          "texto": "¿Cómo define la economía circular y qué consecuencias sociales se asocian a su adopción en Bolivia?",
+          "opciones": {
+            "a": "Un modelo que reduce costos de producción y aumenta las exportaciones",
+            "b": "Un paradigma que cierra los ciclos de materiales, evitando la extracción continua y minimizando desechos, generando oportunidades económicas para micro empresas y jóvenes emprendedores ✓",
+            "c": "Una estrategia para aumentar la recolección de residuos orgánicos en zonas rurales",
+            "d": "Un sistema de reciclaje exclusivo para plásticos PET"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 3,
+          "texto": "¿Qué metodología de reciclaje de plásticos se describe como la alternativa más viable a nivel local en Bolivia?",
+          "opciones": {
+            "a": "Reciclaje químico",
+            "b": "Reciclación mecánica (trituración, lavado y extrusión) ✓",
+            "c": "Valorización energética",
+            "d": "Digestión anaeróbica"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 4,
+          "texto": "¿Cuál es la implicación económica directa mencionada respecto a la empresa ReciclArte en La Paz?",
+          "opciones": {
+            "a": "Reducción de costos operativos del 12%",
+            "b": "Generó ingresos de 22.000 USD en 2022 ✓",
+            "c": "Aumentó su producción en un 8%",
+            "d": "Beneficio neto de 15.000 USD"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 5,
+          "texto": "¿Cuántos metros cúbicos de metano generó el proyecto piloto de digestores anaeróbicos en Cochabamba por cada kilogramo de residuos orgánicos?",
+          "opciones": {
+            "a": "0,35 m³",
+            "b": "0,45 m³ ✓",
+            "c": "0,55 m³",
+            "d": "1,0 m³ por tonelada"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 6,
+          "texto": "¿Qué característica diferencia la tasa de reciclaje de PET en Santa Cruz de la tasa de recolección formal de residuos sólidos en Bolivia?",
+          "opciones": {
+            "a": "La tasa de reciclaje de PET es superior a la tasa de recolección formal",
+            "b": "La tasa de reciclaje de PET (8%) es inferior a la tasa de recolección formal (12%) ✓",
+            "c": "Ambas tasas son iguales",
+            "d": "La tasa de reciclaje de PET no se menciona en el texto"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 7,
+          "texto": "¿Cuál es el objetivo principal de los micro bonos ofrecidos por ONG como EcoBol?",
+          "opciones": {
+            "a": "Financiar la construcción de plantas de reciclaje",
+            "b": "Ofrecer un estímulo económico para motivar la separación de residuos ✓",
+            "c": "Subsidiar la compra de vehículos recolectores",
+            "d": "Reducir impuestos a empresas recicladoras"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 8,
+          "texto": "¿Qué consecuencia se puede deducir si el Estado fortalece la aplicación de la Ley 164 mediante fondos de garantía para micro empresas de reciclaje?",
+          "opciones": {
+            "a": "Aumentaría la contaminación de ríos",
+            "b": "Aumentaría la tasa de reciclaje y reduciría la fracción de residuos en vertederos ✓",
+            "c": "Disminuiría la participación comunitaria",
+            "d": "Incentivaría la exportación de residuos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 9,
+          "texto": "¿Qué efecto indirecto probable generaría la expansión de digestores anaeróbicos en zonas rurales?",
+          "opciones": {
+            "a": "Aumento de la dependencia de energías fósiles",
+            "b": "Reducción de residuos orgánicos en vertederos y mejora de la eficiencia global del reciclaje (R) ✓",
+            "c": "Incremento de la deforestación",
+            "d": "Disminución de la producción agrícola"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 10,
+          "texto": "¿Qué conclusión general puede inferirse sobre la relación entre la recolección formal de residuos y la eficiencia de reciclaje (R) en Bolivia?",
+          "opciones": {
+            "a": "No existe relación alguna",
+            "b": "Una mayor recolección formal aumenta la disponibilidad de residuos segregados, mejorando R ✓",
+            "c": "La recolección formal reduce la eficiencia del reciclaje",
+            "d": "Solo los residuos informales son reciclables"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 11,
+          "texto": "¿Qué efecto tendría en R la ampliación de programas de educación ambiental en comunidades rurales?",
+          "opciones": {
+            "a": "Disminuiría R debido a la sobrecarga de residuos",
+            "b": "Aumentaría R al mejorar la segregación y reducir la contaminación de flujos reciclables ✓",
+            "c": "No tendría efecto significativo",
+            "d": "Solo afectaría a residuos orgánicos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 12,
+          "texto": "¿Cuál es la idea central del autor sobre el papel de la economía circular en Bolivia?",
+          "opciones": {
+            "a": "Es una moda pasajera sin impacto real",
+            "b": "Depende de la integración de políticas públicas, tecnología y participación comunitaria para transformar residuos en recursos ✓",
+            "c": "Solo es viable en áreas urbanas",
+            "d": "Requiere únicamente de inversión extranjera"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 13,
+          "texto": "¿Qué diferencia esencial hay entre la contribución del Estado y la de las ONG?",
+          "opciones": {
+            "a": "El Estado solo financia, las ONG ejecutan",
+            "b": "El Estado provee marco normativo, las ONG actúan en educación y sensibilización comunitaria ✓",
+            "c": "Las ONG sustituyen al Estado en la recolección de residuos",
+            "d": "El Estado se enfoca en reciclaje, las ONG en compostaje"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 14,
+          "texto": "¿Qué es indispensable para una transición efectiva hacia la economía circular en Bolivia?",
+          "opciones": {
+            "a": "Solo tecnología avanzada",
+            "b": "Combinación de políticas públicas, tecnología apropiada y participación social ✓",
+            "c": "Exclusivamente financiamiento internacional",
+            "d": "Eliminación de la minería"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 15,
+          "texto": "Al comparar la reciclación mecánica de PET y la valorización energética con digestores, ¿cuál afirmación es precisa?",
+          "opciones": {
+            "a": "Ambas requieren alta inversión",
+            "b": "La reciclación mecánica requiere inversión moderada y es viable para pequeñas empresas; los digestores son ideales para zonas rurales ✓",
+            "c": "Los digestores son más caros y complejos que la reciclación mecánica",
+            "d": "Solo la reciclación mecánica es aplicable en Bolivia"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 16,
+          "texto": "¿Cuál es la tendencia dominante en la gestión de residuos en Bolivia según el artículo?",
+          "opciones": {
+            "a": "Se basa en el modelo lineal extraer-producir-desechar",
+            "b": "La transición hacia una economía circular depende de políticas, tecnología y participación comunitaria ✓",
+            "c": "Se enfoca solo en la recolección formal",
+            "d": "Está estancada por falta de interés"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 17,
+          "texto": "¿Qué consecuencia puede inferirse si aumenta la segregación de residuos orgánicos en origen en comunidades rurales?",
+          "opciones": {
+            "a": "Disminución de la producción de biogás",
+            "b": "Mayor cantidad de materia prima para digestores, generando más metano ✓",
+            "c": "Incremento de residuos en vertederos",
+            "d": "Reducción de la necesidad de educación ambiental"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 18,
+          "texto": "¿Cuál es el mensaje principal implícito sobre las soluciones para la gestión de residuos?",
+          "opciones": {
+            "a": "La tecnología por sí sola es suficiente",
+            "b": "Se requiere una visión integradora que combine políticas, tecnología y comunidad ✓",
+            "c": "El reciclaje es responsabilidad exclusiva del ciudadano",
+            "d": "Bolivia debe importar soluciones tecnológicas"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 19,
+          "texto": "¿Qué efecto tendría la ampliación de programas de educación ambiental en separación en origen?",
+          "opciones": {
+            "a": "Aumentaría la contaminación de flujos reciclables",
+            "b": "Mejoraría la segregación, elevando la eficiencia del reciclaje (R) y favoreciendo la valorización energética ✓",
+            "c": "No tendría impacto en R",
+            "d": "Reduciría la participación ciudadana"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 20,
+          "texto": "¿Qué propuesta tendría un efecto inmediato mayor sobre R?",
+          "opciones": {
+            "a": "Fortalecimiento legislativo con sanciones",
+            "b": "Instrumentos financieros como fondos de garantía y créditos verdes ✓",
+            "c": "Campañas de concientización masiva",
+            "d": "Construcción de nuevos vertederos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 21,
+          "texto": "¿Por qué la información sobre generación de biogás es más relevante para micro empresas rurales que los datos de reciclaje de PET?",
+          "opciones": {
+            "a": "Porque el PET es más rentable",
+            "b": "Porque el biogás proporciona energía local y autosuficiencia en zonas sin infraestructura eléctrica ✓",
+            "c": "Porque el reciclaje de PET es más simple",
+            "d": "Porque el biogás es más contaminante"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 22,
+          "texto": "¿Qué limitación no aborda el autor al proponer incentivos financieros?",
+          "opciones": {
+            "a": "Falta de tecnología",
+            "b": "Desigualdad de género en el acceso a recursos ✓",
+            "c": "Escasez de residuos",
+            "d": "Falta de voluntad política"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 23,
+          "texto": "¿Por qué es relevante el indicador R para políticas de incentivos financieros?",
+          "opciones": {
+            "a": "Porque mide la cantidad de residuos generados",
+            "b": "Porque permite evaluar el cierre de ciclos y estructurar bonos basados en desempeño ✓",
+            "c": "Porque indica el costo de recolección",
+            "d": "Porque mide la huella de carbono"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 24,
+          "texto": "¿Qué sesgo ambiental no está suficientemente abordado?",
+          "opciones": {
+            "a": "Impacto en la biodiversidad",
+            "b": "Emisiones de CO2 en el transporte y procesamiento de materiales reciclados ✓",
+            "c": "Consumo de agua en el reciclaje",
+            "d": "Generación de lixiviados"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 25,
+          "texto": "¿El argumento del autor sobre establecer indicadores de desempeño como R es?",
+          "opciones": {
+            "a": "Débil por falta de ejemplos",
+            "b": "Respaldado por evidencia empírica como los casos de ReciclArte y tasas de reciclaje ✓",
+            "c": "Especulativo sin datos",
+            "d": "Solo teórico"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 26,
+          "texto": "¿Por qué es relevante incorporar indicadores como R en políticas municipales?",
+          "opciones": {
+            "a": "Para aumentar los impuestos",
+            "b": "Para evaluar programas, orientar fondos y diseñar incentivos ✓",
+            "c": "Para reducir la participación ciudadana",
+            "d": "Para centralizar la gestión"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 27,
+          "texto": "¿Qué sesgo limita la representatividad de los resultados presentados?",
+          "opciones": {
+            "a": "Exceso de datos nacionales",
+            "b": "Focalización geográfica en casos de Santa Cruz y Cochabamba ✓",
+            "c": "Uso exclusivo de datos antiguos",
+            "d": "Falta de ejemplos tecnológicos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 28,
+          "texto": "¿Cuál es la implicación ética más relevante al promover incentivos para micro empresas de reciclaje?",
+          "opciones": {
+            "a": "Aumento de la contaminación",
+            "b": "Riesgo de excluir a recolectores informales, planteando justicia distributiva ✓",
+            "c": "Reducción de la calidad del material reciclado",
+            "d": "Dependencia de subsidios"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 29,
+          "texto": "¿Cómo evaluar la evidencia presentada sobre el papel de las ONG?",
+          "opciones": {
+            "a": "Es amplia y representativa a nivel nacional",
+            "b": "Limitada, basada en un caso aislado sin datos comparativos o longitudinales ✓",
+            "c": "Contundente y suficiente para generalizar",
+            "d": "No se menciona evidencia alguna"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 30,
+          "texto": "(Repite Pregunta 5) ¿Cuántos m³ de metano genera el proyecto de digestores en Cochabamba por kg de residuos orgánicos?",
+          "opciones": {
+            "a": "0,35 m³",
+            "b": "0,45 m³ ✓",
+            "c": "0,55 m³",
+            "d": "1,0 m³ por tonelada"
+          },
+          "respuesta_correcta": "b"
+        }
+      ]
+    },
+    {
+      "titulo": "Resistencia a los antibióticos",
+      "paginas": "10–12 del documento",
+      "contenido_completo": "La resistencia a los antibióticos (RA) es una amenaza global que afecta de forma aguda a países en desarrollo como Bolivia, donde el uso indiscriminado de medicamentos y la falta de vigilancia sanitaria favorecen la aparición de cepas bacterianas resistentes. Este artículo revisa los mecanismos biológicos que generan la RA, describe su impacto epidemiológico en la población boliviana y analiza las iniciativas emergentes—tanto de política pública como de innovación tecnológica—para mitigar el problema.",
+      "preguntas": [
+        {
+          "numero": 1,
+          "texto": "¿Cuáles son las cuatro áreas de acción emergentes propuestas para enfrentar la RA en Bolivia?",
+          "opciones": {
+            "a": "Vacunación, cuarentena, restricciones de viaje, telemedicina",
+            "b": "Fortalecimiento de política sanitaria, educación comunitaria, innovación biotecnológica, enfoque One Health ✓",
+            "c": "Control de natalidad, saneamiento básico, importación de medicamentos, campañas mediáticas",
+            "d": "Investigación básica, patentes, exportación de tecnología, privatización de hospitales"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 2,
+          "texto": "¿Cuál es el primer paso en la iniciativa ambiental de One Health?",
+          "opciones": {
+            "a": "Restringir el uso de antibióticos en humanos",
+            "b": "Vigilancia de resistencia en fuentes de agua y granjas avícolas ✓",
+            "c": "Capacitación de personal médico",
+            "d": "Desarrollo de nuevas vacunas"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 3,
+          "texto": "¿Cuál es el orden cronológico correcto de las acciones descritas?",
+          "opciones": {
+            "a": "Educación → Ley → Diagnósticos rápidos → Terapia con fagos",
+            "b": "Ley → Educación → Diagnósticos rápidos → Terapia con fagos ✓",
+            "c": "Terapia con fagos → Ley → Educación → Diagnósticos rápidos",
+            "d": "Diagnósticos rápidos → Educación → Ley → Terapia con fagos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 4,
+          "texto": "¿Cuál fue la característica principal de los antibióticos desde su introducción en los años 40?",
+          "opciones": {
+            "a": "Eran accesibles para toda la población",
+            "b": "Redujeron drásticamente la mortalidad infantil y prolongaron la esperanza de vida ✓",
+            "c": "Solo se usaban en animales",
+            "d": "Eran ineficaces contra bacterias gramnegativas"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 5,
+          "texto": "¿Qué medidas forman parte de la Ley de Uso Responsable de Antibióticos (2022)?",
+          "opciones": {
+            "a": "Prohibición total de antibióticos en ganadería",
+            "b": "Exigir receta médica para dispensación y limitar uso agropecuario a casos diagnosticados ✓",
+            "c": "Subsidiar la compra de antibióticos",
+            "d": "Crear un banco de patógenos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 6,
+          "texto": "¿A qué se refiere el 28% de ingresos hospitalarios por infecciones respiratorias?",
+          "opciones": {
+            "a": "Porcentaje de pacientes que mueren por RA",
+            "b": "Porcentaje asociado a bacterias resistentes a al menos un antibiótico de primera línea ✓",
+            "c": "Porcentaje de casos prevenibles con vacunas",
+            "d": "Porcentaje de infecciones intrahospitalarias"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 7,
+          "texto": "¿Cómo se define la resistencia a los antibióticos?",
+          "opciones": {
+            "a": "Capacidad del cuerpo humano de tolerar dosis altas",
+            "b": "Habilidad de una bacteria de sobrevivir a concentraciones de antibiótico que antes la mataban ✓",
+            "c": "Resistencia del sistema inmune a infecciones",
+            "d": "Desarrollo de alergias a medicamentos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 8,
+          "texto": "¿Con qué objetivo se implementó la Ley de Uso Responsable?",
+          "opciones": {
+            "a": "Aumentar las ventas de antibióticos",
+            "b": "Controlar la automedicación y el uso indiscriminado en ganadería ✓",
+            "c": "Promover la importación de medicamentos",
+            "d": "Financiar investigación en nuevas moléculas"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 9,
+          "texto": "¿Qué característica comparten los diagnósticos rápidos por PCR y la terapia con bacteriófagos?",
+          "opciones": {
+            "a": "Ambas son medidas normativas",
+            "b": "Ambas disminuyen la necesidad de antibióticos de amplio espectro, favoreciendo tratamientos específicos ✓",
+            "c": "Ambas modifican genéticamente a las bacterias",
+            "d": "Ambas aumentan significativamente los costos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 10,
+          "texto": "¿Con qué finalidad se aprobó la Ley de Uso Responsable?",
+          "opciones": {
+            "a": "Para estimular la venta de genéricos",
+            "b": "Frenar la automedicación y el uso indiscriminado en ganadería ✓",
+            "c": "Para centralizar la producción de antibióticos",
+            "d": "Para exportar tecnología médica"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 11,
+          "texto": "¿Qué efecto tendría la expansión nacional de diagnósticos rápidos por PCR?",
+          "opciones": {
+            "a": "Aumentaría la prescripción empírica",
+            "b": "Reduciría la presión de selección de cepas resistentes ✓",
+            "c": "Incrementaría los costos hospitalarios",
+            "d": "Eliminaría la necesidad de antibióticos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 12,
+          "texto": "¿Qué consecuencia se deduce de la introducción masiva de antibióticos desde los años 40?",
+          "opciones": {
+            "a": "Erradicación total de enfermedades infecciosas",
+            "b": "Presión selectiva que explica la alta prevalencia actual de resistencia ✓",
+            "c": "Disminución de la esperanza de vida",
+            "d": "Aumento de la eficacia de los tratamientos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 13,
+          "texto": "¿Cuál es el enfoque más prometedor para contener la RA?",
+          "opciones": {
+            "a": "Solo la legislación",
+            "b": "Combinación de regulación, educación y tecnología ✓",
+            "c": "Exclusivamente la terapia con fagos",
+            "d": "Solo la educación comunitaria"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 14,
+          "texto": "¿Cómo se complementan las contribuciones del Gobierno y las ONG?",
+          "opciones": {
+            "a": "El Gobierno educa, las ONG regulan",
+            "b": "Gobierno establece normativa y vigilancia; ONG realizan educación comunitaria ✓",
+            "c": "Las ONG reemplazan al Gobierno en áreas rurales",
+            "d": "El Gobierno financia, las ONG investigan"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 15,
+          "texto": "¿Qué efecto tendría la expansión de diagnósticos rápidos por PCR en la epidemiología de la RA?",
+          "opciones": {
+            "a": "Aumentaría la incidencia de infecciones resistentes",
+            "b": "Disminuiría la incidencia de infecciones por bacterias resistentes ✓",
+            "c": "No tendría efecto alguno",
+            "d": "Incrementaría la mortalidad infantil"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 16,
+          "texto": "¿Cuál es una consecuencia sobre los ingresos hospitalarios por infecciones resistentes?",
+          "opciones": {
+            "a": "Disminuyen gracias a la telemedicina",
+            "b": "Se asocian al uso indiscriminado de antibióticos por automedicación ✓",
+            "c": "Son menores en zonas rurales",
+            "d": "Son irrelevantes para la economía"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 17,
+          "texto": "¿Qué consecuencia se deduce al ampliar el uso de diagnósticos rápidos?",
+          "opciones": {
+            "a": "Aumento de la resistencia bacteriana",
+            "b": "Disminución de la prescripción empírica y menor presión selectiva ✓",
+            "c": "Mayor dependencia de antibióticos de amplio espectro",
+            "d": "Reducción de la necesidad de hospitalización"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 18,
+          "texto": "¿Cómo inciden los factores de riesgo en el costo económico de la RA?",
+          "opciones": {
+            "a": "No tienen impacto económico",
+            "b": "Automedicación y falta de diagnóstico aumentan costos hospitalarios ✓",
+            "c": "Solo afectan a países desarrollados",
+            "d": "Reducen el gasto en salud preventiva"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 19,
+          "texto": "¿Cómo difieren los impactos de las campañas educativas y la Ley de Uso Responsable?",
+          "opciones": {
+            "a": "Ambos tienen resultados cuantitativos similares",
+            "b": "Las campañas muestran reducción del 30% en compra automática; la Ley aún no tiene datos de impacto ✓",
+            "c": "La Ley es más efectiva que las campañas",
+            "d": "Las campañas no tienen impacto medible"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 20,
+          "texto": "¿Cuál es el papel del monitoreo ambiental en la lucha contra la RA?",
+          "opciones": {
+            "a": "Es irrelevante",
+            "b": "Prevenir la propagación de genes de resistencia en ecosistemas acuáticos ✓",
+            "c": "Solo aplica a zonas urbanas",
+            "d": "Sustituye a la vigilancia hospitalaria"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 21,
+          "texto": "¿Qué principio subyace a las soluciones emergentes contra la RA?",
+          "opciones": {
+            "a": "Enfoque unilateral en tecnología",
+            "b": "Combinación de regulación, educación y tecnología ✓",
+            "c": "Solo intervención gubernamental",
+            "d": "Privatización de la salud"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 22,
+          "texto": "¿Es válido afirmar que la Ley reducirá a la mitad los ingresos hospitalarios por infecciones respiratorias resistentes?",
+          "opciones": {
+            "a": "Sí, el texto lo demuestra con datos",
+            "b": "No, carece de respaldo empírico en el texto ✓",
+            "c": "Solo aplica para zonas rurales",
+            "d": "Depende de la implementación de PCR"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 23,
+          "texto": "¿Qué implicación social surge de la automedicación y falta de diagnóstico rápido?",
+          "opciones": {
+            "a": "Mejora en la calidad de vida rural",
+            "b": "Aumento de costos hospitalarios y desigualdad en salud ✓",
+            "c": "Reducción de la esperanza de vida",
+            "d": "Disminución de la resistencia bacteriana"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 24,
+          "texto": "¿Por qué la educación por sí sola no es suficiente para reducir la RA?",
+          "opciones": {
+            "a": "Porque no tiene impacto alguno",
+            "b": "Porque se necesita un enfoque integrado con regulación y tecnología ✓",
+            "c": "Porque la población no la acepta",
+            "d": "Porque es muy costosa"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 25,
+          "texto": "¿Cuáles son las principales implicaciones éticas del uso indiscriminado de antibióticos?",
+          "opciones": {
+            "a": "Solo económicas",
+            "b": "Responsabilidad compartida, justicia y beneficencia en el acceso y uso ✓",
+            "c": "Solo afectan a la ganadería",
+            "d": "No existen implicaciones éticas"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 26,
+          "texto": "¿Cuál sería la principal consecuencia social de aplicar eficazmente la Ley de Uso Responsable?",
+          "opciones": {
+            "a": "Aumento de la automedicación",
+            "b": "Reducción de la difusión de bacterias resistentes y menor carga al sistema de salud ✓",
+            "c": "Incremento de los costos de medicamentos",
+            "d": "Desabastecimiento de antibióticos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 27,
+          "texto": "¿Cuál es la principal limitación para adoptar la terapia con bacteriófagos a nivel nacional?",
+          "opciones": {
+            "a": "Falta de evidencia de eficacia",
+            "b": "Su carácter todavía experimental y falta de disponibilidad comercial ✓",
+            "c": "Alto costo de implementación",
+            "d": "Resistencia de la población"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 28,
+          "texto": "¿Cómo trasladar el enfoque One Health a los años 60 para prevenir la RA actual?",
+          "opciones": {
+            "a": "Prohibir todos los antibióticos",
+            "b": "Monitoreo integrado de hospitales, ganadería y ecosistemas acuáticos para detectar resistencia temprana ✓",
+            "c": "Solo educar a médicos",
+            "d": "Desarrollar vacunas masivamente"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 29,
+          "texto": "¿Son suficientes las campañas educativas en escuelas para resolver la RA?",
+          "opciones": {
+            "a": "Sí, totalmente",
+            "b": "No, se necesita un enfoque multifactorial ✓",
+            "c": "Solo en zonas urbanas",
+            "d": "Depende del presupuesto"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 30,
+          "texto": "¿Qué tan válido es el argumento del autor sobre la terapia con bacteriófagos?",
+          "opciones": {
+            "a": "Totalmente válido, con evidencia concluyente",
+            "b": "Limitado, porque los resultados son preliminares y se necesita más investigación ✓",
+            "c": "Invalido por falta de ejemplos",
+            "d": "Solo aplica para infecciones urinarias"
+          },
+          "respuesta_correcta": "b"
+        }
+      ]
+    },
+    {
+      "titulo": "Gestión sostenible de recursos hídricos frente al retroceso glaciar",
+      "paginas": "19–21 del documento",
+      "contenido_completo": "El sector andino de Bolivia alberga la mayor concentración de glaciares de Sudamérica fuera de la zona polar. En las últimas cinco décadas, la superficie glaciar ha disminuido aproximadamente un 40%, una tendencia que amenaza la disponibilidad de agua para la agricultura, el consumo urbano y la generación de energía hidroeléctrica.",
+      "preguntas": [
+        {
+          "numero": 1,
+          "texto": "¿Cuál es el orden correcto de actores involucrados desde el monitoreo glaciar hasta la reforestación?",
+          "opciones": {
+            "a": "NASA → Ministerio de Medio Ambiente → Servicio Solar Boliviano",
+            "b": "USGS/NASA → MMAyA/UMSA → Servicio Solar Boliviano ✓",
+            "c": "Comunidades locales → ONG → Gobierno central",
+            "d": "INLDE → CONZV → SSB"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 2,
+          "texto": "¿En qué orden se describen las acciones para mitigar implicaciones económicas del retroceso glaciar?",
+          "opciones": {
+            "a": "Reforestación → Mitigación climática → Planificación integrada",
+            "b": "Planificación integrada → Reforestación → Mitigación climática ✓",
+            "c": "Mitigación climática → Reforestación → Planificación integrada",
+            "d": "Solo tecnificación de riego"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 3,
+          "texto": "¿Cuáles son los dos factores principales que intensifican la fusión glaciar (M)?",
+          "opciones": {
+            "a": "Deforestación y minería",
+            "b": "Aumento de temperatura del aire y disminución de nevada ✓",
+            "c": "Contaminación del aire y crecimiento urbano",
+            "d": "Actividad volcánica y erosión"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 4,
+          "texto": "¿A quiénes busca coordinar la Planificación Integrada de Cuencas (PIC)?",
+          "opciones": {
+            "a": "Solo agricultores",
+            "b": "Agricultores, gobiernos locales, compañías mineras y sociedad civil ✓",
+            "c": "Exclusivamente instituciones internacionales",
+            "d": "Solo comunidades indígenas"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 5,
+          "texto": "¿Qué sectores económicos se ven afectados por la reducción del aporte glaciar?",
+          "opciones": {
+            "a": "Solo turismo",
+            "b": "Agricultura, extracción de sal, consumo doméstico, generación hidroeléctrica ✓",
+            "c": "Industria manufacturera y comercio",
+            "d": "Solo minería"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 6,
+          "texto": "¿Cómo define el artículo la Planificación Integrada de Cuencas (PIC)?",
+          "opciones": {
+            "a": "Herramienta para aumentar la extracción de agua subterránea",
+            "b": "Coordinación de usuarios del agua para equilibrar oferta y demanda considerando variabilidad climática ✓",
+            "c": "Estrategia para privatizar recursos hídricos",
+            "d": "Solo monitoreo de glaciares"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 7,
+          "texto": "¿Qué consecuencia se deduce de la disminución del aporte glaciar al Río Desaguadero?",
+          "opciones": {
+            "a": "Aumento de caudal en estación seca",
+            "b": "Intensificación de conflictos por el uso del agua ✓",
+            "c": "Disminución de la demanda agrícola",
+            "d": "Mayor recarga de acuíferos"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 8,
+          "texto": "¿Qué ocurriría con la disponibilidad de agua para agricultura si continúa el retroceso glaciar sin medidas de PIC?",
+          "opciones": {
+            "a": "Aumentaría por mayor lluvia",
+            "b": "Disminuiría, reduciendo aún más la superficie cultivable ✓",
+            "c": "Se mantendría estable",
+            "d": "Solo afectaría a zonas urbanas"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 9,
+          "texto": "¿Cómo se compara la reducción de superficie glaciar (40%) con la pérdida de superficie cultivable (25%)?",
+          "opciones": {
+            "a": "Son iguales",
+            "b": "La pérdida glaciar es mayor ✓",
+            "c": "La pérdida cultivable es mayor",
+            "d": "No se comparan"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 10,
+          "texto": "¿Qué principio general se debe aplicar respecto a los actores involucrados?",
+          "opciones": {
+            "a": "Exclusividad estatal",
+            "b": "Colaboración entre gobiernos, academia y comunidades ✓",
+            "c": "Privatización de la gestión",
+            "d": "Descentralización total"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 11,
+          "texto": "¿Cómo debe incrementarse la dependencia de fuentes no glaciares?",
+          "opciones": {
+            "a": "Extracción masiva de aguas subterráneas",
+            "b": "Gestión integrada de cuencas y riego eficiente ✓",
+            "c": "Importación de agua",
+            "d": "Desalinización"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 12,
+          "texto": "¿Qué tiene mayor efecto porcentual: reforestación o tecnificación de riego?",
+          "opciones": {
+            "a": "Reforestación (12%) es mayor",
+            "b": "Tecnificación de riego (30%) es mayor ✓",
+            "c": "Ambas son iguales",
+            "d": "No se pueden comparar"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 13,
+          "texto": "¿Cuál es el propósito fundamental de implementar PIC?",
+          "opciones": {
+            "a": "Aumentar la minería",
+            "b": "Coordinar usuarios para equilibrar oferta y demanda de agua ✓",
+            "c": "Reducir la población rural",
+            "d": "Exportar agua"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 14,
+          "texto": "¿Qué consecuencia probable tendría la adopción de PIC en la cuenca del Desaguadero?",
+          "opciones": {
+            "a": "Aumento de conflictos",
+            "b": "Disminución de conflictos por el agua ✓",
+            "c": "Mayor escasez hídrica",
+            "d": "Reducción de la agricultura"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 15,
+          "texto": "¿Qué principio general surge para responder al retroceso glaciar?",
+          "opciones": {
+            "a": "Enfoque unilateral en tecnología",
+            "b": "Gestión integrada y multifacética ✓",
+            "c": "Solo almacenamiento en represas",
+            "d": "Migración forzada"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 16,
+          "texto": "¿Qué resultaría de combinar reducción de aporte glaciar y riego por goteo (30% ahorro)?",
+          "opciones": {
+            "a": "Mayor escasez",
+            "b": "Compensación parcial de la pérdida de agua glacial ✓",
+            "c": "Incremento de la demanda",
+            "d": "No hay efecto"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 17,
+          "texto": "¿Cuál es la diferencia esencial entre riego tecnificado y reforestación?",
+          "opciones": {
+            "a": "Ambas aumentan la oferta",
+            "b": "Riego actúa sobre demanda; reforestación sobre oferta ✓",
+            "c": "Ambas reducen la demanda",
+            "d": "Solo la reforestación es sostenible"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 18,
+          "texto": "¿Qué ocurriría si continúa la tendencia de retroceso glaciar sin ampliar medidas de gestión?",
+          "opciones": {
+            "a": "Aumentaría el aporte glaciar",
+            "b": "Disminuiría la contribución glaciar a menos del 10% del caudal, aumentando conflictos ✓",
+            "c": "Se estabilizaría el clima",
+            "d": "Mejoraría la calidad del agua"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 19,
+          "texto": "¿Cuál es una consecuencia probable a mediano plazo de la disminución del aporte glaciar?",
+          "opciones": {
+            "a": "Aumento de la generación hidroeléctrica",
+            "b": "Limitación de la producción hidroeléctrica y mayor dependencia de fuentes no renovables ✓",
+            "c": "Incremento de la disponibilidad de agua",
+            "d": "Reducción de la demanda energética"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 20,
+          "texto": "¿Qué medida muestra el mayor efecto porcentual para mitigar la escasez hídrica?",
+          "opciones": {
+            "a": "Reforestación (12%)",
+            "b": "Tecnificación de riego (30%) ✓",
+            "c": "Generación hidroeléctrica (45%)",
+            "d": "Education ambiental"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 21,
+          "texto": "¿Qué ocurriría si continúa la tendencia de retroceso glaciar en los próximos 10 años?",
+          "opciones": {
+            "a": "Aumentaría el aporte glaciar al 40%",
+            "b": "El aporte glaciar bajaría posiblemente bajo el 15%, aumentando vulnerabilidad hídrica ✓",
+            "c": "No habría cambios significativos",
+            "d": "Mejoraría la calidad del agua"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 22,
+          "texto": "¿Cómo trasladar la estrategia de reforestación a la cuenca del río Santa (Perú) en los 90?",
+          "opciones": {
+            "a": "Plantar especies exóticas",
+            "b": "Usar especies nativas de alta montaña para captura de humedad ✓",
+            "c": "Construir presas",
+            "d": "Implementar riego por inundación"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 23,
+          "texto": "¿Cuál es la limitación más significativa del enfoque PIC?",
+          "opciones": {
+            "a": "Bajo costo",
+            "b": "Necesidad de cooperación institucional permanente y financiamiento estable ✓",
+            "c": "Falta de tecnología",
+            "d": "Exceso de participación ciudadana"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 24,
+          "texto": "¿Cuál es la perspectiva futura más clara para la sostenibilidad hídrica en el Altipiano?",
+          "opciones": {
+            "a": "Dependencia exclusiva de glaciares",
+            "b": "Planificación integrada de cuencas (PIC) ✓",
+            "c": "Extracción intensiva de aguas subterráneas",
+            "d": "Trasvases desde la Amazonía"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 25,
+          "texto": "¿Qué opción refleja la estrategia futura propuesta por el texto?",
+          "opciones": {
+            "a": "Solo extracción de agua subterránea",
+            "b": "Gestión integrada, reforestación y transición energética ✓",
+            "c": "Privatización de recursos hídricos",
+            "d": "Reducción de la agricultura"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 26,
+          "texto": "¿Qué perspectiva ambiental no es considerada por el autor?",
+          "opciones": {
+            "a": "Impacto del deshielo en caudales",
+            "b": "Efectos adversos de represas hidroeléctricas en ecosistemas acuáticos ✓",
+            "c": "Reforestación como captura de carbono",
+            "d": "Contaminación minera"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 27,
+          "texto": "¿Cómo adaptar la PIC a la cuenca del río Santa en Perú?",
+          "opciones": {
+            "a": "Copiar exactamente el modelo boliviano",
+            "b": "Priorizar captación de lluvia y gestión de embalses, adaptando monitoreo y riego tecnificado ✓",
+            "c": "Ignorar la participación indígena",
+            "d": "Enfocarse solo en minería"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 28,
+          "texto": "¿Qué evidencia adicional se necesitaría para validar el efecto de la reforestación en recarga de acuíferos?",
+          "opciones": {
+            "a": "Solo testimonios de comunidades",
+            "b": "Series temporales de datos hidrológicos en zonas reforestadas y de referencia ✓",
+            "c": "Fotografías satelitales",
+            "d": "Encuestas de percepción"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": 29,
+          "texto": "¿Cómo contrasta la idea de que la pérdida de glaciares afecta principalmente al turismo con la realidad del artículo?",
+          "opciones": {
+            "a": "El artículo coincide con esa idea",
+            "b": "El artículo destaca impactos en agricultura, consumo urbano, conflictos y migración ✓",
+            "c": "Solo menciona efectos turísticos",
+            "d": "No aborda el tema"
+          },
+          "respuesta_correcta": "b"
+        }
+      ]
+    }
+  ]
+}
