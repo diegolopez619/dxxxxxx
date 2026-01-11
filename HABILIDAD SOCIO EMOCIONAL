@@ -1,0 +1,254 @@
+{
+  "Examen": [
+    {
+      "situacion": "SITUACIÓN 1",
+      "texto": "La persona postulante se encuentra a cargo del último curso de secundaria. Durante una sesión de revisión para los exámenes de ingreso universitario, un estudiante que generalmente tiene buen desempeño comienza a criticar abiertamente la metodología de enseñanza, afirmando que es 'anticuada e inútil'. Otros estudiantes empiezan a mostrar signos de acuerdo, generando un ambiente de tensión colectiva.",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué habilidad socioemocional es primordial para el docente en esta situación crítica?",
+          "opciones": [
+            "La capacidad de improvisar actividades nuevas al instante.",
+            "La habilidad de persuasión para convencer a los estudiantes.",
+            "La autogestión emocional para mantener la calma y actuar con profesionalismo.",
+            "La destreza para ignorar conflictos eficazmente."
+          ],
+          "respuesta_correcta": "La autogestión emocional para mantener la calma y actuar con profesionalismo.",
+          "indice_correcto": 2
+        },
+        {
+          "pregunta": "Una respuesta que manifieste empatía y respeto por el estudiante sería:",
+          "opciones": [
+            "Validar su preocupación y ofrecer un espacio posterior para dialogar sobre mejoras.",
+            "Exigirle que se retracte de sus comentarios públicamente.",
+            "Minimizar su comentario comparándolo con estudiantes más aplicados.",
+            "Cambiar de tema inmediatamente sin reconocer su inquietud."
+          ],
+          "respuesta_correcta": "Validar su preocupación y ofrecer un espacio posterior para dialogar sobre mejoras.",
+          "indice_correcto": 0
+        },
+        {
+          "pregunta": "¿Cuál es el principal riesgo si el docente responde con enojo o autoritarismo?",
+          "opciones": [
+            "Que el estudiante presente una queja formal ante las autoridades.",
+            "Erosionar la confianza y el clima de aprendizaje en el aula de manera duradera.",
+            "Que otros docentes se enteren y critiquen su manejo del aula.",
+            "Que se pierdan unos minutos de la sesión de revisión."
+          ],
+          "respuesta_correcta": "Erosionar la confianza y el clima de aprendizaje en el aula de manera duradera.",
+          "indice_correcto": 1
+        },
+        {
+          "pregunta": "¿Qué acción podría transformar este conflicto en una oportunidad para el grupo?",
+          "opciones": [
+            "Castigar a quienes mostraron acuerdo con la crítica para disuadir futuras quejas.",
+            "Posponer la revisión del examen indefinidamente.",
+            "Facilitar una conversación constructiva sobre metodologías de aprendizaje efectivas.",
+            "Solicitar al director que transfiera al estudiante problemático a otro grupo."
+          ],
+          "respuesta_correcta": "Facilitar una conversación constructiva sobre metodologías de aprendizaje efectivas.",
+          "indice_correcto": 2
+        }
+      ]
+    },
+    {
+      "situacion": "SITUACIÓN 2",
+      "texto": "Durante una jornada de observación en un colegio rural multigrado, la persona postulante nota que los estudiantes de diferentes edades muestran dificultades para trabajar en equipo. El director ofrece acceso a las planificaciones de aula y a los registros de evaluación diagnóstica de los últimos tres meses.",
+      "preguntas": [
+        {
+          "pregunta": "Como futuro docente, tu primera acción para comprender la situación debería ser:",
+          "opciones": [
+            "Revisar los documentos proporcionados para obtener información contextual.",
+            "Sugerir un taller de team building sin más análisis.",
+            "Asumir que el problema es la falta de disciplina.",
+            "Pedir a los estudiantes que expliquen por qué no cooperan."
+          ],
+          "respuesta_correcta": "Revisar los documentos proporcionados para obtener información contextual.",
+          "indice_correcto": 0
+        },
+        {
+          "pregunta": "¿Qué enfoque inicial demuestra mayor respeto por el trabajo docente previo?",
+          "opciones": [
+            "Cuestionar abiertamente la eficacia de los profesores actuales.",
+            "Observar las dinámicas en aula sin prejuicios y luego contrastar con los registros.",
+            "Descartar los documentos por considerarlos irrelevantes.",
+            "Informar al director que la metodología empleada es incorrecta."
+          ],
+          "respuesta_correcta": "Observar las dinámicas en aula sin prejuicios y luego contrastar con los registros.",
+          "indice_correcto": 1
+        },
+        {
+          "pregunta": "¿Qué habilidad socioemocional es clave para analizar esta situación sin juzgar prematuramente?",
+          "opciones": [
+            "La capacidad de liderazgo para imponer soluciones.",
+            "La mentalidad abierta y la curiosidad para investigar las causas.",
+            "La habilidad para motivar con discursos emotivos.",
+            "La capacidad de trabajar de manera completamente independiente."
+          ],
+          "respuesta_correcta": "La mentalidad abierta y la curiosidad para investigar las causas.",
+          "indice_correcto": 1
+        },
+        {
+          "pregunta": "Una vez analizada la situación, la intervención más apropiada sería:",
+          "opciones": [
+            "Implementar una actividad de integración graduada, considerando las edades y los datos recogidos.",
+            "Separar a los estudiantes por edad de forma permanente.",
+            "Dejar que los estudiantes resuelvan sus problemas solos.",
+            "Recomendar sanciones para quienes no colaboren."
+          ],
+          "respuesta_correcta": "Implementar una actividad de integración graduada, considerando las edades y los datos recogidos.",
+          "indice_correcto": 0
+        }
+      ]
+    },
+    {
+      "situacion": "SITUACIÓN 3",
+      "texto": "Durante una reunión de padres de familia, un padre expresa con gran emotividad su preocupación porque su hijo, quien presenta dificultades de aprendizaje, no está recibiendo suficiente apoyo. Mientras expone su situación, varios padres comienzan a mostrar señales de impaciencia.",
+      "preguntas": [
+        {
+          "pregunta": "Como docente a cargo, tu prioridad en ese momento debe ser:",
+          "opciones": [
+            "Validar la emoción del padre y asegurarle que su preocupación es atendida.",
+            "Pedir a los padres impacientes que guarden silencio.",
+            "Acortar la intervención del padre para dar paso a otros temas.",
+            "Explicar que el apoyo brindado es suficiente según el protocolo."
+          ],
+          "respuesta_correcta": "Validar la emoción del padre y asegurarle que su preocupación es atendida.",
+          "indice_correcto": 0
+        },
+        {
+          "pregunta": "¿Qué estrategia ayudaría a manejar la impaciencia del grupo?",
+          "opciones": [
+            "Reconocer la importancia del tema y proponer un tiempo específico para tratarlo a profundidad.",
+            "Ignorar las señales de impaciencia y continuar como si nada.",
+            "Culpar al padre por extenderse demasiado.",
+            "Posponer toda la reunión para otro día."
+          ],
+          "respuesta_correcta": "Reconocer la importancia del tema y proponer un tiempo específico para tratarlo a profundidad.",
+          "indice_correcto": 0
+        },
+        {
+          "pregunta": "Esta situación requiere principalmente el desarrollo de tu:",
+          "opciones": [
+            "Capacidad para hablar en público de manera elocuente.",
+            "Habilidad para mediar entre necesidades individuales y dinámicas grupales.",
+            "Conocimiento técnico sobre dificultades de aprendizaje.",
+            "Capacidad para imponer el orden de manera autoritaria."
+          ],
+          "respuesta_correcta": "Habilidad para mediar entre necesidades individuales y dinámicas grupales.",
+          "indice_correcto": 1
+        },
+        {
+          "pregunta": "Para canalizar la preocupación del padre de manera constructiva, podrías:",
+          "opciones": [
+            "Ofrecer una cita individual para elaborar un plan de apoyo específico.",
+            "Sugerir que cambie de escuela si no está satisfecho.",
+            "Delegar el caso inmediatamente al departamento de psicología.",
+            "Compartir su situación con todos los padres para obtener opiniones."
+          ],
+          "respuesta_correcta": "Ofrecer una cita individual para elaborar un plan de apoyo específico.",
+          "indice_correcto": 0
+        }
+      ]
+    },
+    {
+      "situacion": "SITUACIÓN 4",
+      "texto": "Durante una reunión de docentes para planificar el proyecto interdisciplinario anual, surge un conflicto entre dos colegas con enfoques pedagógicos diferentes: la profesora de Ciencias Sociales propone un proyecto basado en la investigación histórica con énfasis en el análisis crítico de fuentes, mientras que el profesor de Matemática defiende un proyecto centrado en estadísticas y modelado matemático de fenómenos sociales.",
+      "preguntas": [
+        {
+          "pregunta": "Como mediador, tu primera acción debería ser:",
+          "opciones": [
+            "Escuchar activamente a ambos para comprender sus perspectivas y objetivos.",
+            "Sugerir que uno de los dos ceda para evitar el conflicto.",
+            "Posponer la reunión hasta que se calmen los ánimos.",
+            "Decidir tú mismo cuál es la mejor propuesta."
+          ],
+          "respuesta_correcta": "Escuchar activamente a ambos para comprender sus perspectivas y objetivos.",
+          "indice_correcto": 0
+        },
+        {
+          "pregunta": "¿Qué principio de colaboración deberías promover?",
+          "opciones": [
+            "Que el proyecto debe ser diseñado únicamente por el docente con más experiencia.",
+            "Buscar puntos de convergencia donde ambas disciplinas puedan enriquecerse mutuamente.",
+            "Que cada docente trabaje por separado en su propia propuesta.",
+            "Que el director escolar tome la decisión final."
+          ],
+          "respuesta_correcta": "Buscar puntos de convergencia donde ambas disciplinas puedan enriquecerse mutuamente.",
+          "indice_correcto": 1
+        },
+        {
+          "pregunta": "¿Qué habilidad socioemocional es esencial para facilitar este diálogo?",
+          "opciones": [
+            "La capacidad de negociación para llegar a un acuerdo beneficioso para todos.",
+            "La habilidad para exponer argumentos de manera contundente.",
+            "La capacidad de trabajar de manera aislada.",
+            "La habilidad para evitar todo tipo de conflicto."
+          ],
+          "respuesta_correcta": "La capacidad de negociación para llegar a un acuerdo beneficioso para todos.",
+          "indice_correcto": 0
+        },
+        {
+          "pregunta": "Una solución que integre ambos enfoques podría ser:",
+          "opciones": [
+            "Un proyecto que combine el análisis histórico con herramientas estadísticas para interpretar fenómenos sociales.",
+            "Realizar dos proyectos separados y que los estudiantes elijan uno.",
+            "Descartar ambas ideas y buscar una tercera propuesta completamente nueva.",
+            "Asignar más recursos a la propuesta del docente con mayor antigüedad."
+          ],
+          "respuesta_correcta": "Un proyecto que combine el análisis histórico con herramientas estadísticas para interpretar fenómenos sociales.",
+          "indice_correcto": 0
+        }
+      ]
+    },
+    {
+      "situacion": "SITUACIÓN 5",
+      "texto": "Durante una sesión de trabajo en grupo en cuarto de primaria, un estudiante con diagnóstico de TEA (Trastorno del Espectro Autista) manifiesta incomodidad ante los ruidos fuertes y la proximidad física de sus compañeros. Un grupo de estudiantes comienza a burlarse de sus reacciones, imitando sus movimientos y aumentando deliberadamente el volumen de voz.",
+      "preguntas": [
+        {
+          "pregunta": "Tu intervención inmediata como docente debe priorizar:",
+          "opciones": [
+            "Detener la burla y crear un ambiente seguro para el estudiante con TEA.",
+            "Reprender en voz alta a los estudiantes que se burlan.",
+            "Sacar al estudiante con TEA del aula para que se calme.",
+            "Ignorar la situación para no empeorar la ansiedad del estudiante."
+          ],
+          "respuesta_correcta": "Detener la burla y crear un ambiente seguro para el estudiante con TEA.",
+          "indice_correcto": 0
+        },
+        {
+          "pregunta": "¿Qué mensaje clave debes transmitir al grupo?",
+          "opciones": [
+            "Que las burlas son una falta grave que tendrá consecuencias disciplinarias.",
+            "La importancia del respeto y la empatía hacia las diferencias individuales.",
+            "Que el estudiante con TEA debe aprender a tolerar mejor el ruido.",
+            "Que el trabajo en grupo es opcional para quienes se sientan incómodos."
+          ],
+          "respuesta_correcta": "La importancia del respeto y la empatía hacia las diferencias individuales.",
+          "indice_correcto": 1
+        },
+        {
+          "pregunta": "¿Qué estrategia podrías emplear a mediano plazo para prevenir situaciones similares?",
+          "opciones": [
+            "Realizar actividades de sensibilización sobre neurodiversidad y inclusión.",
+            "Separar permanentemente al estudiante con TEA de sus compañeros.",
+            "Evitar el trabajo en grupo en el futuro.",
+            "Solicitar que el estudiante con TEA reciba terapia fuera del horario escolar."
+          ],
+          "respuesta_correcta": "Realizar actividades de sensibilización sobre neurodiversidad y inclusión.",
+          "indice_correcto": 0
+        },
+        {
+          "pregunta": "Para restaurar la dinámica del trabajo en grupo de manera inclusiva, podrías:",
+          "opciones": [
+            "Reorganizar los grupos asignando roles claros y estableciendo normas de respeto.",
+            "Permitir que el estudiante con TEA trabaje solo en todas las actividades.",
+            "Castigar a todo el grupo quitándoles el recreo.",
+            "Delegar la situación al departamento de orientación sin intervenir tú directamente."
+          ],
+          "respuesta_correcta": "Reorganizar los grupos asignando roles claros y estableciendo normas de respeto.",
+          "indice_correcto": 0
+        }
+      ]
+    }
+  ]
+}
