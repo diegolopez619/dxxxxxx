@@ -1,0 +1,722 @@
+[
+  {
+    "id": 201,
+    "pregunta": "Una escuela necesita comprar lápices para sus estudiantes. Cada paquete contiene 8 lápices y la escuela compra 12 paquetes. ¿Cuántos lápices tendrá en total?",
+    "opciones": ["80", "96", "108", "120"],
+    "respuesta_correcta": "96"
+  },
+  {
+    "id": 202,
+    "pregunta": "En una feria de ciencias cada puesto vende 12 paquetes de boletos. Si al final del día se vendieron 144 boletos, ¿cuántos puestos participaron en la venta?",
+    "opciones": ["10", "12", "14", "16"],
+    "respuesta_correcta": "12"
+  },
+  {
+    "id": 203,
+    "pregunta": "En una granja hay gallinas y ovejas. En total hay 34 animales y 98 patas. ¿Cuántas ovejas hay en la granja?",
+    "opciones": ["12", "15", "17", "19"],
+    "respuesta_correcta": "15"
+  },
+  {
+    "id": 204,
+    "pregunta": "En una escuela se organizarán equipos de fútbol de 5 jugadores cada uno. Si 48 estudiantes desean participar, ¿cuál es el número máximo de equipos completos que se pueden formar?",
+    "opciones": ["8", "9", "10", "11"],
+    "respuesta_correcta": "9"
+  },
+  {
+    "id": 205,
+    "pregunta": "En la feria escolar se venden paquetes de cuadernos, cada paquete contiene 8 cuadernos y cuesta Bs 12. Si la escuela necesita exactamente 56 cuadernos para una actividad, ¿cuántos paquetes deberá adquirir?",
+    "opciones": ["6", "7", "8", "9"],
+    "respuesta_correcta": "7"
+  },
+  {
+    "id": 206,
+    "pregunta": "Un agricultor recolectó 48 tomates y decide repartirlos en 6 cestas, colocando la misma cantidad de tomates en cada una. ¿Cuántos tomates deberá colocar en cada cesta?",
+    "opciones": ["6", "7", "8", "9"],
+    "respuesta_correcta": "8"
+  },
+  {
+    "id": 207,
+    "pregunta": "En una papelería, Víctor compra cuadernos y lápices. Cada cuaderno tiene un precio de 3 bolivianos y cada lápiz cuesta 1 boliviano. Si gasta exactamente 21 bolivianos y compra el doble de cuadernos que de lápices, ¿cuántos cuadernos adquirió?",
+    "opciones": ["4", "6", "8", "10"],
+    "respuesta_correcta": "6"
+  },
+  {
+    "id": 208,
+    "pregunta": "En una clase de 30 estudiantes, cada alumno necesita 3 cuadernos para el semestre. La tienda donde se comprarán los cuadernos solo vende paquetes de 5 cuadernos. ¿Cuántos paquetes de cuadernos debe comprar la escuela como mínimo para cubrir la necesidad de todos los estudiantes?",
+    "opciones": ["16", "18", "20", "22"],
+    "respuesta_correcta": "18"
+  },
+  {
+    "id": 209,
+    "pregunta": "En una excursión escolar se reparten uniformemente 48 botellas de agua entre 8 grupos de estudiantes. ¿Cuántas botellas recibirá cada grupo?",
+    "opciones": ["5", "6", "7", "8"],
+    "respuesta_correcta": "6"
+  },
+  {
+    "id": 210,
+    "pregunta": "Una escuela tiene 240 cuadernos que necesita repartir de forma equitativa entre sus 8 aulas. ¿Cuántos cuadernos le tocarán a cada aula?",
+    "opciones": ["25", "30", "35", "40"],
+    "respuesta_correcta": "30"
+  },
+  {
+    "id": 211,
+    "pregunta": "En una biblioteca escolar hay 40 libros y se quieren colocar en 5 estanterías de forma que cada estantería tenga la misma cantidad de libros. ¿Cuántos libros debe haber en cada estantería?",
+    "opciones": ["6", "7", "8", "9"],
+    "respuesta_correcta": "8"
+  },
+  {
+    "id": 212,
+    "pregunta": "Una docente necesita cuadernos para sus alumnos. Compra 3 paquetes con 12 cuadernos cada uno y, adicionalmente, adquiere 4 paquetes con 15 cuadernos cada uno. ¿Cuántos cuadernos tendrá en total?",
+    "opciones": ["84", "92", "96", "104"],
+    "respuesta_correcta": "96"
+  },
+  {
+    "id": 213,
+    "pregunta": "En una feria, cada puesto vende 8 manzanas. Si hay 5 puestos y se venden 30 manzanas, ¿cuántas manzanas quedan sin vender?",
+    "opciones": ["8", "10", "12", "15"],
+    "respuesta_correcta": "10"
+  },
+  {
+    "id": 214,
+    "pregunta": "María tiene 15 bolivianos para comprar material escolar. Cada cuaderno cuesta 2 bolivianos y cada lápiz cuesta 0,5 bolivianos. Si decide comprar 4 cuadernos, ¿cuántos lápices podrá adquirir con el dinero que le queda?",
+    "opciones": ["12", "14", "16", "18"],
+    "respuesta_correcta": "14"
+  },
+  {
+    "id": 215,
+    "pregunta": "En una escuela se organizan equipos de fútbol. Cada equipo debe estar compuesto por 2 defensas y 3 delanteros. Si se forman 4 equipos y se utilizan todos los estudiantes, ¿cuántos delanteros participan en total?",
+    "opciones": ["8", "10", "12", "14"],
+    "respuesta_correcta": "12"
+  },
+  {
+    "id": 216,
+    "pregunta": "Una profesora compra tres paquetes idénticos de marcadores. En total adquiere 84 marcadores. ¿Cuántos marcadores contiene cada paquete?",
+    "opciones": ["24", "26", "28", "30"],
+    "respuesta_correcta": "28"
+  },
+  {
+    "id": 217,
+    "pregunta": "En una feria, Jorge compra 3 paquetes idénticos de semillas. Después de repartir 45 semillas a cada uno de sus 4 amigos, le quedan 15 semillas. ¿Cuántas semillas contenía cada paquete?",
+    "opciones": ["60", "65", "70", "75"],
+    "respuesta_correcta": "65"
+  },
+  {
+    "id": 218,
+    "pregunta": "Una biblioteca escolar dispone de 84 libros y quiere repartirlos en 3 estanterías de forma que cada una tenga la misma cantidad de libros. ¿Cuántos libros debe colocar en cada estantería?",
+    "opciones": ["26", "28", "30", "32"],
+    "respuesta_correcta": "28"
+  },
+  {
+    "id": 219,
+    "pregunta": "En una escuela se decide repartir uniformemente los libros donados entre sus 5 aulas. Si en total se recibieron 360 libros, ¿cuántos libros le corresponden a cada aula?",
+    "opciones": ["70", "72", "75", "78"],
+    "respuesta_correcta": "72"
+  },
+  {
+    "id": 220,
+    "pregunta": "Una excursión escolar tiene 48 estudiantes. Cada autobús disponible tiene capacidad para 8 pasajeros. ¿Cuántos autobuses se necesitan para transportar a todos los estudiantes sin que sobrecargue ningún vehículo?",
+    "opciones": ["5", "6", "7", "8"],
+    "respuesta_correcta": "6"
+  },
+  {
+    "id": 221,
+    "pregunta": "En una feria escolar, cada estudiante compra una pulsera de acceso a talleres que cuesta $12. Si un grupo de 5 estudiantes decide comprar las pulseras en conjunto y el organizador les ofrece un descuento del 10% sobre el total, ¿cuál es el monto que deberán pagar en total?",
+    "opciones": ["$50", "$54", "$58", "$60"],
+    "respuesta_correcta": "$54"
+  },
+  {
+    "id": 222,
+    "pregunta": "Una escuela desea comprar cuadernos. Cada paquete contiene 12 cuadernos y cuesta 18 dólares. La escuela necesita exactamente 48 cuadernos. ¿Cuál es el gasto mínimo que debe realizar?",
+    "opciones": ["$60", "$72", "$84", "$90"],
+    "respuesta_correcta": "$72"
+  },
+  {
+    "id": 223,
+    "pregunta": "Una biblioteca cuenta con 180 libros y cada estantería puede albergar exactamente 15 libros. ¿Cuántas estanterías completas son necesarias para colocar todos los libros?",
+    "opciones": ["10", "12", "14", "16"],
+    "respuesta_correcta": "12"
+  },
+  {
+    "id": 224,
+    "pregunta": "Una escuela adquirió 48 cuadernos y decide repartirlos de manera equitativa entre sus 6 clases. ¿Cuántos cuadernos le corresponderán a cada clase?",
+    "opciones": ["6", "7", "8", "9"],
+    "respuesta_correcta": "8"
+  },
+  {
+    "id": 225,
+    "pregunta": "En una clase de 20 estudiantes, la suma total de las calificaciones obtenidas en el último examen fue 1560 puntos. ¿Cuál es el promedio de notas que obtuvo la clase?",
+    "opciones": ["76", "78", "80", "82"],
+    "respuesta_correcta": "78"
+  },
+  {
+    "id": 226,
+    "pregunta": "Una tienda vende paquetes de lápices. Cada paquete contiene entre 8 y 12 lápices. Si una clase necesita exactamente 86 lápices y solo puede comprar paquetes completos, ¿cuál es el número mínimo de paquetes que debe adquirir?",
+    "opciones": ["7", "8", "9", "10"],
+    "respuesta_correcta": "8"
+  },
+  {
+    "id": 227,
+    "pregunta": "Una escuela organizó una venta de boletos durante cinco días consecutivos. Cada día se vendieron al menos 80 boletos y, además, cada día posterior se vendieron 10 boletos más que el día anterior. Si al final de la semana se vendieron en total 480 boletos, ¿cuántos boletos se vendieron en el tercer día?",
+    "opciones": ["90", "92", "96", "100"],
+    "respuesta_correcta": "96"
+  },
+  {
+    "id": 228,
+    "pregunta": "En una clase de matemática, los estudiantes obtuvieron las siguientes calificaciones en la tarea: 85, 78, 90, 72 y 73. El profesor anuncia que el promedio de la clase es 78. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "El promedio es 78, lo cual coincide con el cálculo mostrado.",
+      "El promedio debería ser 80.",
+      "El promedio real es 79.",
+      "El promedio fue calculado incorrectamente."
+    ],
+    "respuesta_correcta": "El promedio es 78, lo cual coincide con el cálculo mostrado."
+  },
+  {
+    "id": 229,
+    "pregunta": "Una maestra compra 100 lápices para repartir entre sus 30 estudiantes, entregando exactamente 3 lápices a cada uno. ¿Cuál de las siguientes afirmaciones es coherente con la cantidad de lápices que quedarían sin repartir?",
+    "opciones": ["Quedan 5 lápices.", "Quedan 10 lápices.", "Quedan 15 lápices.", "No quedan lápices."],
+    "respuesta_correcta": "Quedan 10 lápices."
+  },
+  {
+    "id": 230,
+    "pregunta": "En una actividad escolar, Luis compra 3 paquetes de bolígrafos. Cada paquete contiene 8 bolígrafos. Después registra que ha comprado un total de 24 bolígrafos. ¿Es coherente la información proporcionada?",
+    "opciones": [
+      "Sí, porque 3 × 8 = 24.",
+      "No, porque deberían ser 28.",
+      "No, porque deberían ser 32.",
+      "No se puede saber con la información dada."
+    ],
+    "respuesta_correcta": "Sí, porque 3 × 8 = 24."
+  },
+  {
+    "id": 231,
+    "pregunta": "En una clase de 5 estudiantes, las notas obtenidas son 70, 85, 90, 75 y 80. El docente afirma que el promedio de la clase es 84. ¿Es coherente este resultado?",
+    "opciones": [
+      "Sí, porque la suma es 400 y 400 ÷ 5 = 80.",
+      "No, porque el promedio real es 80.",
+      "Sí, porque el promedio es 84.",
+      "No, porque el promedio real es 82."
+    ],
+    "respuesta_correcta": "No, porque el promedio real es 80."
+  },
+  {
+    "id": 232,
+    "pregunta": "En una feria escolar, el stand de experimentos de física vendió 48 boletos y el stand de arte vendió 30 boletos. Se sabe que el número de boletos vendidos por el stand de física es 1,5 veces el número de boletos vendidos por el stand de arte. ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los boletos vendidos en ambos stands?",
+    "opciones": [
+      "El stand de arte vendió 18 boletos menos que el de física.",
+      "El stand de física vendió el doble que el de arte.",
+      "El stand de arte vendió la mitad que el de física.",
+      "Ambos vendieron la misma cantidad."
+    ],
+    "respuesta_correcta": "El stand de arte vendió 18 boletos menos que el de física."
+  },
+  {
+    "id": 233,
+    "pregunta": "Un estudiante desea comprar la cantidad de cerca necesaria para rodear un jardín rectangular cuya longitud es 8 metros y su ancho 5 metros. ¿Cuál de las siguientes afirmaciones describe correctamente el razonamiento para hallar la longitud total de la cerca?",
+    "opciones": [
+      "Se suman los cuatro lados: 8 + 5 + 8 + 5 = 26 m.",
+      "Se multiplica largo por ancho: 8 × 5 = 40 m.",
+      "Se suman largo y ancho y se multiplica por 2: (8+5)×2 = 26 m.",
+      "Se asume que todos los lados son iguales."
+    ],
+    "respuesta_correcta": "Se suman los cuatro lados: 8 + 5 + 8 + 5 = 26 m."
+  },
+  {
+    "id": 234,
+    "pregunta": "En una escuela secundaria de la zona andina, cada aula tiene 26 estudiantes. El docente planea organizarlos en equipos de 4 integrantes para una actividad de matemática. ¿Cuál es la conclusión lógica correcta respecto al número de equipos completos que se pueden formar y la cantidad de estudiantes que quedarán sin equipo?",
+    "opciones": [
+      "6 equipos completos, 2 estudiantes sin equipo.",
+      "5 equipos completos, 6 estudiantes sin equipo.",
+      "6 equipos completos, 0 estudiantes sin equipo.",
+      "7 equipos completos, 2 estudiantes sin equipo."
+    ],
+    "respuesta_correcta": "6 equipos completos, 2 estudiantes sin equipo."
+  },
+  {
+    "id": 235,
+    "pregunta": "En una clase hay 24 estudiantes. El docente desea organizarlos en filas de igual números, de modo que todas las filas tengan la misma cantidad de estudiantes y no quede ninguno fuera. Si el número de filas posible es mayor que 3 y menor que 6, ¿cuántas filas debe formar?",
+    "opciones": ["3", "4", "5", "6"],
+    "respuesta_correcta": "4"
+  },
+  {
+    "id": 236,
+    "pregunta": "En una escuela se registró que 30 estudiantes practican fútbol, 20 practican baloncesto y 10 practican ambos deportes. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "Hay al menos 40 estudiantes que practican fútbol o baloncesto.",
+      "Exactamente 40 estudiantes practican solo uno de los dos deportes.",
+      "Hay 50 estudiantes en total.",
+      "Todos practican al menos un deporte."
+    ],
+    "respuesta_correcta": "Hay al menos 40 estudiantes que practican fútbol o baloncesto."
+  },
+  {
+    "id": 237,
+    "pregunta": "En la feria de ciencias de la escuela se establecieron las siguientes condiciones: 1) Si un proyecto utiliza energía solar, entonces recibe una bonificación de 5 puntos. 2) El proyecto de Nicolas no recibió ninguna bonificación. 3) El proyecto de Carlos utilizó energía solar. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "Carlos recibió la bonificación.",
+      "Nicolas no usó energía solar.",
+      "Nicolas usó energía solar.",
+      "Carlos no recibió la bonificación."
+    ],
+    "respuesta_correcta": "Carlos recibió la bonificación."
+  },
+  {
+    "id": 238,
+    "pregunta": "Una tienda vende paquetes de lápices. Cada paquete contiene entre 8 y 12 lápices. Si una clase necesita exactamente 86 lápices y solo puede comprar paquetes completos, ¿cuál es el número mínimo de paquetes que debe adquirir?",
+    "opciones": ["7", "8", "9", "10"],
+    "respuesta_correcta": "8"
+  },
+  {
+    "id": 239,
+    "pregunta": "Una Unidad Educativa organizó una venta de boletos durante cinco días consecutivos. Cada día se vendieron al menos 80 boletos y, además, cada día posterior se vendieron 10 boletos más que el día anterior. Si al final de la semana se vendieron en total 480 boletos, ¿cuántos boletos se vendieron en el tercer día?",
+    "opciones": ["90", "92", "96", "100"],
+    "respuesta_correcta": "96"
+  },
+  {
+    "id": 240,
+    "pregunta": "En una clase de matemática, los estudiantes obtuvieron las siguientes calificaciones en la tarea: 85, 78, 90, 72 y 73. El profesor anuncia que el promedio de la clase es 78. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "El promedio es 78, lo cual coincide con el cálculo mostrado.",
+      "El promedio debería ser 80.",
+      "El promedio real es 79.",
+      "El promedio fue calculado incorrectamente."
+    ],
+    "respuesta_correcta": "El promedio es 78, lo cual coincide con el cálculo mostrado."
+  },
+  {
+    "id": 241,
+    "pregunta": "En una institución educativa hay tres aulas de primaria. En la primera aula hay 24 lápices, en la segunda aula hay el doble de lápices que en la primera, y en la tercera aula hay 10 lápices menos que la suma de los lápices de las dos primeras aulas. ¿Cuántos lápices hay en total en las tres aulas?",
+    "opciones": ["124", "134", "144", "154"],
+    "respuesta_correcta": "134"
+  },
+  {
+    "id": 242,
+    "pregunta": "En una clase de quinto de primaria se van a repartir lápices de colores entre los estudiantes. Hay tres colores: rojo, azul y verde, y el total de lápices es 98. La cantidad de lápices rojos es el doble de la cantidad de lápices azules, y la cantidad de lápices verdes es 12 unidades menor que la cantidad de lápices rojos. ¿Cuántos lápices azules se repartirán?",
+    "opciones": ["18", "20", "22", "24"],
+    "respuesta_correcta": "22"
+  },
+  {
+    "id": 243,
+    "pregunta": "En una granja hay gallinas y vacas. En total cuentan 54 animales y 140 patas. ¿Cuántas vacas hay en la granja?",
+    "opciones": ["14", "16", "18", "20"],
+    "respuesta_correcta": "16"
+  },
+  {
+    "id": 244,
+    "pregunta": "Una maestra compra 100 lápices para repartir entre sus 30 estudiantes, entregando exactamente 3 lápices a cada uno. ¿Cuál de las siguientes afirmaciones es coherente con la cantidad de lápices que quedarían sin repartir?",
+    "opciones": ["Quedan 5 lápices.", "Quedan 10 lápices.", "Quedan 15 lápices.", "No quedan lápices."],
+    "respuesta_correcta": "Quedan 10 lápices."
+  },
+  {
+    "id": 245,
+    "pregunta": "En una actividad escolar, Ana compra 3 paquetes de bolígrafos. Cada paquete contiene 8 bolígrafos. Después registra que ha comprado un total de 24 bolígrafos. ¿Es coherente la información proporcionada?",
+    "opciones": [
+      "Sí, porque 3 × 8 = 24.",
+      "No, porque deberían ser 28.",
+      "No, porque deberían ser 32.",
+      "No se puede saber con la información dada."
+    ],
+    "respuesta_correcta": "Sí, porque 3 × 8 = 24."
+  },
+  {
+    "id": 246,
+    "pregunta": "Una librería vende un paquete que contiene 3 cuadernos y 2 libros por un total de $56. Si cada libro tiene el mismo precio y cuesta el doble que un cuaderno, ¿cuál es el precio de un cuaderno?",
+    "opciones": ["$6", "$8", "$10", "$12"],
+    "respuesta_correcta": "$8"
+  },
+  {
+    "id": 247,
+    "pregunta": "Una Unidad Educativa cuenta con 120 estudiantes que deben organizarse en grupos para un proyecto de ciencia. Cada grupo debe estar formado por un número de estudiantes no menor a 8 y no mayor a 12. ¿Cuál es el número mínimo de grupos que se pueden formar?",
+    "opciones": ["10", "11", "12", "13"],
+    "respuesta_correcta": "10"
+  },
+  {
+    "id": 248,
+    "pregunta": "En una clase de 5 estudiantes, las notas obtenidas son 70, 85, 90, 75 y 80. El maestro afirma que el promedio de la clase es 84. ¿Es coherente este resultado?",
+    "opciones": [
+      "Sí, porque la suma es 400 y 400 ÷ 5 = 80.",
+      "No, porque el promedio real es 80.",
+      "Sí, porque el promedio es 84.",
+      "No, porque el promedio real es 82."
+    ],
+    "respuesta_correcta": "No, porque el promedio real es 80."
+  },
+  {
+    "id": 249,
+    "pregunta": "En una feria escolar, el stand de experimentos de física vendió 48 boletos y el stand de arte vendió 30 boletos. Se sabe que el número de boletos vendidos por el stand de física es 1,5 veces el número de boletos vendidos por el stand de arte. ¿Cuál de las siguientes afirmaciones describe correctamente la relación entre los boletos vendidos en ambos stands?",
+    "opciones": [
+      "El stand de arte vendió 18 boletos menos que el de física.",
+      "El stand de física vendió el doble que el de arte.",
+      "El stand de arte vendió la mitad que el de física.",
+      "Ambos vendieron la misma cantidad."
+    ],
+    "respuesta_correcta": "El stand de arte vendió 18 boletos menos que el de física."
+  },
+  {
+    "id": 250,
+    "pregunta": "Dos válvulas llenan un tanque de agua a velocidad constante. La válvula A, sola, lo llena en 6 horas; la válvula B, sola, lo llena en 9 horas. Si ambas válvulas se abren al mismo tiempo, ¿cuánto tiempo tardarán en llenar el tanque?",
+    "opciones": ["3 horas 30 minutos", "3 horas 36 minutos", "4 horas", "4 horas 30 minutos"],
+    "respuesta_correcta": "3 horas 36 minutos"
+  },
+  {
+    "id": 251,
+    "pregunta": "En una institución educativa, el jardín tiene tres patios: en el patio A hay 24 plantas, en el B 30 plantas y en el C 18 plantas. El jardinero riega 6 plantas por minuto en el patio A, 5 plantas por minuto en el B y 4 plantas por minuto en el C, trabajando los patios de forma secuencial comenzando por el A. ¿Cuánto tiempo, en minutos y segundos, le tomará regar todas las plantas?",
+    "opciones": ["13 min 30 s", "14 min 30 s", "15 min", "16 min"],
+    "respuesta_correcta": "14 min 30 s"
+  },
+  {
+    "id": 252,
+    "pregunta": "Una Unidad Educativa organizó una excursión y pagó $720 por el servicio de transporte. Cada autobús podía llevar a 48 estudiantes y el costo total se dividió equitativamente entre todos los estudiantes que asistieron. Si participaron 240 estudiantes, ¿cuánto debe pagar cada uno?",
+    "opciones": ["$2", "$3", "$4", "$5"],
+    "respuesta_correcta": "$3"
+  },
+  {
+    "id": 253,
+    "pregunta": "En una granja hay gallinas y conejos. En total hay 48 animales y 140 patas. ¿Cuántos conejos hay en la granja?",
+    "opciones": ["20", "22", "24", "26"],
+    "respuesta_correcta": "22"
+  },
+  {
+    "id": 254,
+    "pregunta": "En una feria escolar se venden paquetes de lápices. Cada paquete contiene 12 lápices y cuesta Bs. 15. Un grupo de 5 maestros desea que cada uno cuente con al menos 48 lápices. ¿Cuál es el gasto total mínimo que deberán efectuar?",
+    "opciones": ["Bs. 240", "Bs. 300", "Bs. 360", "Bs. 420"],
+    "respuesta_correcta": "Bs. 300"
+  },
+  {
+    "id": 255,
+    "pregunta": "Un estudiante desea comprar la cantidad de cerca necesaria para rodear un jardín rectangular cuya longitud es 8 metros y su ancho 5 metros. ¿Cuál de las siguientes afirmaciones describe correctamente el razonamiento para hallar la longitud total de la cerca?",
+    "opciones": [
+      "Se suman los cuatro lados: 8 + 5 + 8 + 5 = 26 m.",
+      "Se multiplica largo por ancho: 8 × 5 = 40 m.",
+      "Se suman largo y ancho y se multiplica por 2: (8+5)×2 = 26 m.",
+      "Se asume que todos los lados son iguales."
+    ],
+    "respuesta_correcta": "Se suman los cuatro lados: 8 + 5 + 8 + 5 = 26 m."
+  },
+  {
+    "id": 256,
+    "pregunta": "En una clase de 30 estudiantes, 18 aprueban la asignatura de Matemática, 15 aprueban la asignatura de Ciencias Naturales y 5 aprueban ambas materias. Según estos datos, ¿cuántos estudiantes aprueban al menos una de las dos asignaturas?",
+    "opciones": ["25", "28", "30", "33"],
+    "respuesta_correcta": "28"
+  },
+  {
+    "id": 257,
+    "pregunta": "Una biblioteca escolar hay 324 libros que deben colocarse en estanterías. Cada estantería debe contener el mismo número de libros y no puede alojar más de 30 libros. ¿Cuál de los siguientes números de estanterías permite cumplir con estas condiciones?",
+    "opciones": ["12", "18", "24", "30"],
+    "respuesta_correcta": "12"
+  },
+  {
+    "id": 258,
+    "pregunta": "En una Unidad Educativa del Nivel de Educación Secundaria de la zona andina, cada aula tiene 26 estudiantes. El maestro planea organizar a los estudiantes en equipos de 4 integrantes para una actividad de matemática. ¿Cuál es la conclusión lógica correcta respecto al número de equipos completos que se pueden formar y la cantidad de estudiantes que quedarán sin equipo?",
+    "opciones": [
+      "6 equipos completos, 2 estudiantes sin equipo.",
+      "5 equipos completos, 6 estudiantes sin equipo.",
+      "6 equipos completos, 0 estudiantes sin equipo.",
+      "7 equipos completos, 2 estudiantes sin equipo."
+    ],
+    "respuesta_correcta": "6 equipos completos, 2 estudiantes sin equipo."
+  },
+  {
+    "id": 259,
+    "pregunta": "En una clase hay 24 estudiantes. El maestro desea organizarlos en filas de igual número de estudiantes, de modo que todas las filas tengan la misma cantidad de estudiantes y no quede ninguno fuera. Si el número de filas posible es mayor que 3 y menor que 6, ¿cuántas filas debe formar?",
+    "opciones": ["3", "4", "5", "6"],
+    "respuesta_correcta": "4"
+  },
+  {
+    "id": 260,
+    "pregunta": "Un rectángulo tiene un perímetro de 68 cm y su longitud supera al ancho en 4 cm. ¿Cuál es el área del rectángulo (en cm²)?",
+    "opciones": ["240", "285", "320", "340"],
+    "respuesta_correcta": "285"
+  },
+  {
+    "id": 261,
+    "pregunta": "Una biblioteca tiene 84 libros y desea distribuirlos en estanterías de forma que cada estantería contenga el mismo número de libros, sin que quede ninguno fuera y sin dejar una estantería vacía. ¿Cuál es el mayor número de libros que puede colocar en cada estantería?",
+    "opciones": ["28", "42", "56", "84"],
+    "respuesta_correcta": "42"
+  },
+  {
+    "id": 262,
+    "pregunta": "En una institución educativa se registró que 30 estudiantes practican fútbol, 20 practican baloncesto y 10 practican ambos deportes. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "Hay al menos 40 estudiantes que practican fútbol o baloncesto.",
+      "Exactamente 40 estudiantes practican solo uno de los dos deportes.",
+      "Hay 50 estudiantes en total.",
+      "Todos practican al menos un deporte."
+    ],
+    "respuesta_correcta": "Hay al menos 40 estudiantes que practican fútbol o baloncesto."
+  },
+  {
+    "id": 263,
+    "pregunta": "Un agricultor dispone de 48 metros de alambre para delimitar un jardín rectangular. ¿Qué dimensiones debe escoger para que el área del jardín sea máxima?",
+    "opciones": ["10 m × 14 m", "12 m × 12 m", "8 m × 16 m", "6 m × 18 m"],
+    "respuesta_correcta": "12 m × 12 m"
+  },
+  {
+    "id": 264,
+    "pregunta": "Una Unidad Educativa debe repartir 240 cuadernos de forma equitativa entre 8 aulas. ¿Qué operación matemática es la más adecuada para determinar cuántos cuadernos recibirá cada aula?",
+    "opciones": ["Multiplicación", "División", "Suma", "Resta"],
+    "respuesta_correcta": "División"
+  },
+  {
+    "id": 265,
+    "pregunta": "Un agricultor cuenta con 48 metros de alambre para delimitar un terreno rectangular. ¿Cuál de las siguientes dimensiones permite obtener la mayor superficie posible para el terreno?",
+    "opciones": ["8 m × 16 m", "10 m × 14 m", "12 m × 12 m", "6 m × 18 m"],
+    "respuesta_correcta": "12 m × 12 m"
+  },
+  {
+    "id": 266,
+    "pregunta": "En una institución educativa se organizaron grupos de estudiantes para recolectar agua de lluvia. Cada grupo está formado por 5 estudiantes y cada uno coloca una cubeta que recoge 12 litros por hora. Si la institución educativa necesita obtener al menos 360 litros de agua en un período de 3 horas, ¿cuántos grupos deben formarse como mínimo?",
+    "opciones": ["8", "9", "10", "11"],
+    "respuesta_correcta": "10"
+  },
+  {
+    "id": 267,
+    "pregunta": "Una Unidad Educativa organizará una visita a un museo para 274 estudiantes. Cada autobús disponible tiene capacidad para 48 estudiantes. ¿Cuál es el número mínimo de autobuses que la Unidad Educativa debe contratar para que todos los estudiantes viajen juntos?",
+    "opciones": ["5", "6", "7", "8"],
+    "respuesta_correcta": "6"
+  },
+  {
+    "id": 268,
+    "pregunta": "En un jardín se plantan flores de tres colores: rojas, blancas y amarillas. El número de flores rojas es el doble del número de flores blancas. El número de flores amarillas es 5 unidades menos que la suma de flores rojas y blancas. Si en total hay 31 flores, ¿cuántas flores blancas se plantaron?",
+    "opciones": ["4", "5", "6", "7"],
+    "respuesta_correcta": "6"
+  },
+  {
+    "id": 269,
+    "pregunta": "En la biblioteca de un colegio se deben colocar 120 libros nuevos en estanterías. Cada estantería tiene capacidad para 4 libros exactamente. ¿Cuántas estanterías serán necesarias para acomodar todos los libros?",
+    "opciones": ["25", "30", "35", "40"],
+    "respuesta_correcta": "30"
+  },
+  {
+    "id": 270,
+    "pregunta": "Una maestra tiene 48 lápices y desea agruparlos en paquetes idénticos de modo que no sobre ningún lápiz y que cada paquete contenga la mayor cantidad posible de lápices. ¿Cuántos lápices habrá en cada paquete?",
+    "opciones": ["10", "12", "16", "24"],
+    "respuesta_correcta": "12"
+  },
+  {
+    "id": 271,
+    "pregunta": "En la feria de Ciencias Naturales de la institución educativa se establecieron las siguientes condiciones: 1) Si un proyecto utiliza energía solar, entonces recibe una bonificación de 5 puntos. 2) El proyecto de Carlos no recibió ninguna bonificación. 3) El proyecto de Carlos utilizó energía solar. ¿Cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      "Carlos recibió la bonificación.",
+      "Nicolas no usó energía solar.",
+      "Nicolas usó energía solar.",
+      "Carlos no recibió la bonificación."
+    ],
+    "respuesta_correcta": "Carlos recibió la bonificación."
+  },
+  {
+    "id": 272,
+    "pregunta": "Un agricultor desea cercar un terreno rectangular cuya cerca tiene una longitud total de 60 metros. Para que el área cultivada sea la mayor posible, ¿qué dimensiones debe elegir para el rectángulo?",
+    "opciones": ["10 m × 20 m", "15 m × 15 m", "12 m × 18 m", "20 m × 10 m"],
+    "respuesta_correcta": "15 m × 15 m"
+  },
+  {
+    "id": 273,
+    "pregunta": "Un agricultor dispone de 120 metros de alambre para cercar un jardín rectangular. Desea que el área del jardín sea la mayor posible. ¿Cuál de los siguientes procedimientos es el más apropiado para determinar las dimensiones que maximicen el área?",
+    "opciones": [
+      "Probar varias combinaciones de largo y ancho.",
+      "Usar la fórmula del perímetro y expresar el área como función cuadrática.",
+      "Asumir que el largo es el doble del ancho.",
+      "Calcular el área máxima dividiendo el perímetro entre 4 y elevando al cuadrado."
+    ],
+    "respuesta_correcta": "Usar la fórmula del perímetro y expresar el área como función cuadrática."
+  },
+  {
+    "id": 274,
+    "pregunta": "En la Unidad Educativa se organizará una competencia de relevos donde cada equipo está formado por 5 corredores. Si 84 estudiantes se anotan para participar, ¿cuántos equipos completos pueden formarse sin dejar a ningún estudiante sin equipo?",
+    "opciones": ["16", "17", "18", "20"],
+    "respuesta_correcta": "16"
+  },
+  {
+    "id": 275,
+    "pregunta": "En la institución educativa se desea construir un huerto rectangular cuya superficie mide 8 metros de ancho por 12 metros de largo. Para que el huerto quede formado por parcelas cuadradas idénticas y sin que sobre espacio, ¿cuál debe ser la longitud del lado de cada parcela?",
+    "opciones": ["2 m", "3 m", "4 m", "6 m"],
+    "respuesta_correcta": "4 m"
+  },
+  {
+    "id": 276,
+    "pregunta": "Una organización benéfica prepara una cena para 54 personas y cada mesa tiene capacidad para 8 comensales. ¿Cuál es el número mínimo de mesas que deben disponer para que todos los invitados tengan asiento?",
+    "opciones": ["6", "7", "8", "9"],
+    "respuesta_correcta": "7"
+  },
+  {
+    "id": 277,
+    "pregunta": "En una clase de geometría básica, el maestro quiere que sus estudiantes determinen cuántas baldosas de 30 cm × 30 cm son necesarias para cubrir completamente un patio rectangular de 6 m de largo por 4,5 m de ancho, sin que quede espacio vacío ni sobreposición. ¿Cuál es el procedimiento más adecuado para obtener la cantidad requerida?",
+    "opciones": [
+      "Dividir el perímetro entre el perímetro de una baldosa.",
+      "Calcular el área del patio y dividir entre el área de una baldosa.",
+      "Dividir el largo y el ancho del patio entre el lado de la baldosa y multiplicar.",
+      "Sumar el largo y el ancho y dividir entre 0,3."
+    ],
+    "respuesta_correcta": "Calcular el área del patio y dividir entre el área de una baldosa."
+  },
+  {
+    "id": 278,
+    "pregunta": "En una Unidad Educativa se organizó un concurso de elaboración de pulseras con cuentas de colores. Cada pulsera debe contener exactamente 12 cuentas y se pueden usar 3 colores (rojo, verde y azul) en cualquier orden, pero se requiere que haya al menos una cuenta de cada color. ¿Cuántas pulseras diferentes se pueden formar si se consideran distintas las disposiciones de colores?",
+    "opciones": ["519 156", "531 441", "524 288", "512 000"],
+    "respuesta_correcta": "519 156"
+  },
+  {
+    "id": 279,
+    "pregunta": "En una clase de 27 estudiantes la maestra quiere organizar grupos de 4 estudiantes para una actividad. ¿Cuál es el número máximo de grupos completos que puede formar?",
+    "opciones": ["5", "6", "7", "8"],
+    "respuesta_correcta": "6"
+  },
+  {
+    "id": 280,
+    "pregunta": "En una clase de 30 estudiantes, el maestro registra las siguientes calificaciones del examen: 5 estudiantes obtuvieron 90 puntos, 10 estudiantes obtuvieron 70 puntos, 8 estudiantes obtuvieron 50 puntos y el resto de los estudiantes obtuvo 30 puntos. El maestro afirma que la suma total de todas las notas es 2100 puntos. ¿Cuál de las siguientes afirmaciones es correcta respecto a la coherencia de los datos?",
+    "opciones": [
+      "Los datos son coherentes.",
+      "La suma real es 1760, no 2100.",
+      "La suma real es 1800.",
+      "La suma real es 2000."
+    ],
+    "respuesta_correcta": "La suma real es 1760, no 2100."
+  },
+  {
+    "id": 281,
+    "pregunta": "En una clase de matemática, el maestro suma las notas de cinco estudiantes: 78, 85, 92, 67 y 88, y anuncia que el total es 415. Después divide ese total entre 5 y dice que el promedio es 84. ¿Cuál de las siguientes afirmaciones es correcta respecto a la coherencia de los cálculos?",
+    "opciones": [
+      "El total y el promedio son correctos.",
+      "El total correcto es 410, el promedio real es 82.",
+      "El total correcto es 410, el promedio real es 84.",
+      "El total correcto es 420, el promedio real es 84."
+    ],
+    "respuesta_correcta": "El total correcto es 410, el promedio real es 82."
+  },
+  {
+    "id": 282,
+    "pregunta": "En una institución educativa, la clase A obtuvo las siguientes calificaciones en Matemática: 78, 85, 92, 88. La clase B obtuvo: 81, 79, 84, 90. El director calcula el promedio de cada clase y luego el promedio total de los ocho estudiantes. Si el promedio de la clase A es 85,5 y el de la clase B es 83,5, ¿cuál de las siguientes afirmaciones es coherente con estos resultados?",
+    "opciones": ["El promedio total es 84,0.", "El promedio total es 84,5.", "El promedio total es 85,0.", "El promedio total es 85,5."],
+    "respuesta_correcta": "El promedio total es 84,5."
+  },
+  {
+    "id": 283,
+    "pregunta": "En una clase de 30 estudiantes se registró la cantidad de libros leídos durante el mes de abril. La suma total de libros leídos es 126. El maestro indica que el promedio de libros leídos por estudiante es 4,2. ¿Cuál de las siguientes aseveraciones es la más coherente con este resultado?",
+    "opciones": [
+      "El promedio es correcto: 126 ÷ 30 = 4,2.",
+      "El promedio debería ser 4,0.",
+      "El promedio debería ser 4,5.",
+      "El promedio es incorrecto porque 126 ÷ 30 = 4,0."
+    ],
+    "respuesta_correcta": "El promedio es correcto: 126 ÷ 30 = 4,2."
+  },
+  {
+    "id": 284,
+    "pregunta": "Una Unidad Educativa compra cuadernos para sus estudiantes. El director indica que se adquirieron 12 paquetes de 20 cuadernos cada uno y 5 paquetes de 15 cuadernos cada uno. Cada cuaderno tiene un costo de 0,80 USD. ¿Cuál de los siguientes valores representa correctamente el gasto total en la compra de los cuadernos?",
+    "opciones": ["$252,00", "$240,00", "$260,00", "$280,00"],
+    "respuesta_correcta": "$252,00"
+  },
+  {
+    "id": 285,
+    "pregunta": "Una institución educativa dispone de 120 cuadernos y desea repartirlos en partes iguales entre sus 8 clases. Un estudiante indica diferentes cantidades de cuadernos por clase. ¿Cuál de las siguientes opciones representa un resultado coherente con la información dada?",
+    "opciones": ["14 cuadernos por clase.", "15 cuadernos por clase.", "12 cuadernos por clase.", "20 cuadernos por clase."],
+    "respuesta_correcta": "15 cuadernos por clase."
+  },
+  {
+    "id": 286,
+    "pregunta": "En una fábrica se producen tres tipos de componentes: X, Y y Z. En un día se fabrican 1 200 unidades en total. Cada unidad de X requiere 2 horas de trabajo, cada unidad de Y requiere 3 horas y cada unidad de Z requiere 5 horas. El total de horas trabajadas ese día es 4 500 horas. Además, el número de unidades de Y equivale al 25% del total de unidades fabricadas. ¿Cuántas unidades de Z se produjeron ese día?",
+    "opciones": ["400", "500", "600", "700"],
+    "respuesta_correcta": "600"
+  },
+  {
+    "id": 287,
+    "pregunta": "En una competencia de lanzamiento de pelota, los participantes A, B y C obtuvieron respectivamente 48, 56 y 64 puntos. El organizador asegura que la suma total de los puntos es 168. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "La suma es correcta: 48 + 56 + 64 = 168.",
+      "La suma debería ser 160.",
+      "La suma debería ser 170.",
+      "La suma debería ser 180."
+    ],
+    "respuesta_correcta": "La suma es correcta: 48 + 56 + 64 = 168."
+  },
+  {
+    "id": 288,
+    "pregunta": "En una jornada escolar se entregaron cuadernos para realizar actividades. Cada maestro llevó 3 cuadernos y cada estudiante llevó 1 cuaderno. El número total de cuadernos entregados fue 200 y la suma de maestros y estudiantes participantes fue 150. ¿Cuántos maestros participaron en la jornada?",
+    "opciones": ["20", "25", "30", "35"],
+    "respuesta_correcta": "25"
+  },
+  {
+    "id": 289,
+    "pregunta": "En una institución educativa se organizan tres jornadas de clases. La primera jornada tiene una duración de 4 horas, la segunda de 5 horas y la tercera de 3 horas. Si se convierten todas las duraciones a minutos y se suman, ¿cuál de los siguientes valores representa correctamente el total de minutos de las tres jornadas?",
+    "opciones": ["700 minutos", "720 minutos", "740 minutos", "760 minutos"],
+    "respuesta_correcta": "720 minutos"
+  },
+  {
+    "id": 290,
+    "pregunta": "Una constructora debe edificar una pared rectangular de 7,30 m de largo por 2,40 m de alto. Cada bloque de cemento tiene dimensiones de 20 cm de largo, 10 cm de alto y 10 cm de profundidad, y se coloca con su cara de 20 cm × 10 cm visible en la pared. Los bloques se venden en paquetes de 50 unidades. El precio de lista de cada bloque es de 2,40 dólares. La tienda ofrece un descuento del 10% sobre el precio total cuando se compran al menos 4 paquetes; si se compran menos de 4 paquetes, el descuento es del 5%. La constructora debe adquirir la mínima cantidad de paquetes que le permita cubrir toda la superficie de la pared y aprovechar el mayor descuento posible. ¿Cuál es el costo total, en dólares, que le corresponde pagar después de aplicar el descuento?",
+    "opciones": ["$1 944,00", "$2 160,00", "$2 052,00", "$2 280,00"],
+    "respuesta_correcta": "$1 944,00"
+  },
+  {
+    "id": 291,
+    "pregunta": "En una cooperativa de productores de cacao los proveedores se organizan en tres grupos: X, Y y Z. Se sabe que: 1) el número total de proveedores es 50; 2) el grupo X representa el 40% del total; 3) el número de proveedores del grupo Y es 10 unidades menor que el del grupo Z; y 4) el grupo Z tiene el doble de miembros que el grupo Y. ¿Cuántos proveedores pertenecen al grupo Y?",
+    "opciones": ["8", "10", "12", "15"],
+    "respuesta_correcta": "10"
+  },
+  {
+    "id": 292,
+    "pregunta": "Una Unidad Educativa organizará una excursión y dispone de autobuses con capacidad de 48 asientos cada uno. Necesita transportar a 274 estudiantes y 23 maestros. Además, cada autobús debe llevar al menos un maestro. ¿Cuál es el número mínimo de autobuses que debe contratar la Unidad Educativa para cumplir con todas las condiciones?",
+    "opciones": ["6", "7", "8", "9"],
+    "respuesta_correcta": "7"
+  },
+  {
+    "id": 293,
+    "pregunta": "Se sabe que la suma de dos números es 25 y que su producto es 144. ¿Cuál de las siguientes afirmaciones es coherente con esos datos?",
+    "opciones": ["Los números son 10 y 15.", "Los números son 9 y 16.", "Los números son 8 y 17.", "Los números are 12 y 13."],
+    "respuesta_correcta": "Los números son 9 y 16."
+  },
+  {
+    "id": 294,
+    "pregunta": "En una institución educativa, la clase A obtuvo las siguientes calificaciones en Matemática: 78, 85, 92, 88. La clase B obtuvo: 81, 79, 84, 90. El director calcula el promedio de cada clase y luego el promedio total de los ocho estudiantes. Si el promedio de la clase A es 85,5 y el de la clase B es 83,5, ¿cuál de las siguientes afirmaciones es coherente con estos resultados?",
+    "opciones": ["El promedio total es 84,0.", "El promedio total es 84,5.", "El promedio total es 85,0.", "El promedio total es 85,5."],
+    "respuesta_correcta": "El promedio total es 84,5."
+  },
+  {
+    "id": 295,
+    "pregunta": "En el informe anual del Nivel de Educación Secundaria se indica que el número de estudiantes de los tres últimos años es: 4.º año: 122 estudiantes, 5.º año: 138 estudiantes y 6.º año: 149 estudiantes. El documento también señala que el total de estudiantes de esos tres años es 410. ¿Es coherente la información presentada?",
+    "opciones": [
+      "Sí, la suma es 410.",
+      "No, la suma es 409.",
+      "No, la suma es 408.",
+      "No, la suma es 411."
+    ],
+    "respuesta_correcta": "No, la suma es 409."
+  },
+  {
+    "id": 296,
+    "pregunta": "En una excursión escolar se van a llevar botellas de agua y de jugo. Se compran 12 paquetes de agua, cada uno con 6 botellas, y 8 paquetes de jugo, cada uno con 9 botellas. El estudiante calcula el total multiplicando la cantidad de paquetes por la cantidad de botellas de cada tipo y luego suma ambos resultados. ¿Cuál es el número total de botellas que se llevarán?",
+    "opciones": ["140", "144", "150", "160"],
+    "respuesta_correcta": "144"
+  },
+  {
+    "id": 297,
+    "pregunta": "En una granja hay vacas y gallinas. En total hay 30 animales y, sumando todas sus patas, se obtienen 74. ¿Cuántas vacas hay en la granja?",
+    "opciones": ["5", "7", "10", "12"],
+    "respuesta_correcta": "7"
+  },
+  {
+    "id": 298,
+    "pregunta": "En una institución educativa rural se presentan los siguientes datos: 1) Todos los estudiantes que participan en el concurso de matemática también asisten al club de robótica. 2) Ningún estudiante que pertenece al equipo de fútbol participa en el concurso de matemática. 3) María pertenece al equipo de fútbol. ¿Cuál de las siguientes afirmaciones se deduce lógicamente de la información anterior?",
+    "opciones": [
+      "María asiste al club de robótica.",
+      "María no participa en el concurso de matemática.",
+      "María participa en el concurso de matemática.",
+      "María no pertenece al equipo de fútbol."
+    ],
+    "respuesta_correcta": "María no participa en el concurso de matemática."
+  },
+  {
+    "id": 299,
+    "pregunta": "En una unidad educativa, 6 estudiantes pueden ordenar un archivo completo en 8 horas, trabajando todos al mismo ritmo y sin interrupciones. Si se incrementa el número de estudiantes a 12 y se mantiene el mismo tipo de trabajo, ¿cuántas horas se necesitarán para ordenar el mismo archivo?",
+    "opciones": ["2 horas", "3 horas", "4 horas", "5 horas"],
+    "respuesta_correcta": "4 horas"
+  },
+  {
+    "id": 300,
+    "pregunta": "Un número natural aumentado en su triple da como resultado 56. Este tipo de situación puede modelarse mediante una ecuación algebraica simple que permite encontrar el valor desconocido. ¿Cuál es el número natural que cumple esta condición?",
+    "opciones": ["12", "14", "16", "18"],
+    "respuesta_correcta": "14"
+  }
+]
