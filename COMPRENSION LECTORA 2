@@ -1,0 +1,1012 @@
+{
+  "textos": [
+    {
+      "titulo": "Historia y evolución del Internet en Bolivia",
+      "resumen": "El artículo revisa la trayectoria histórica del Internet en Bolivia, desde los primeros enlaces satelitales en 1995 hasta la llegada de la tecnología 5G. Se describen las fases de acceso dial-up, expansión de banda ancha mediante fibra óptica, redes 4G y la implementación de 5G, analizando sus impactos socioeconómicos en educación, salud y comercio electrónico. Se discuten los retos estructurales como la brecha digital urbano-rural y la sostenibilidad de la infraestructura.",
+      "preguntas": [
+        {
+          "numero": "P1",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿cómo define el concepto de acceso dial-up?",
+          "opciones": [
+            {"texto": "Conexión mediante fibra óptica de alta velocidad.", "correcta": false},
+            {"texto": "Conexión que usaba la línea telefónica convencional a velocidades de 56 kbps.", "correcta": true},
+            {"texto": "Enlace satelital permanente gestionado por universidades.", "correcta": false},
+            {"texto": "Red móvil de cuarta generación (4G LTE).", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P2",
+          "enunciado": "Considerando lo mencionado en el texto, ¿cuáles son los sectores que se indican como beneficiados por la expansión del Internet en Bolivia?",
+          "opciones": [
+            {"texto": "Educación, comercio electrónico y salud.", "correcta": true},
+            {"texto": "Agricultura, minería y construcción.", "correcta": false},
+            {"texto": "Industria textil, transporte y turismo.", "correcta": false},
+            {"texto": "Energía, defensa y medio ambiente.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P3",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿cuáles son las implicaciones económicas asociadas a la expansión de la banda ancha y la fibra óptica entre 2006 y 2015?",
+          "opciones": [
+            {"texto": "Aumento de la deuda externa y reducción del PIB.", "correcta": false},
+            {"texto": "Inversión de 350 millones de dólares, reducción de precios de planes a 15 USD mensuales y auge del comercio electrónico.", "correcta": true},
+            {"texto": "Disminución de la cobertura urbana y aumento de la brecha digital.", "correcta": false},
+            {"texto": "Eliminación completa de la telefonía fija.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P4",
+          "enunciado": "Basándose en la información proporcionada, ¿cuál es la tercera etapa de la conectividad descrita en la evolución del Internet en Bolivia?",
+          "opciones": [
+            {"texto": "Era dial-up (1995-2005).", "correcta": false},
+            {"texto": "Expansión de banda ancha y fibra óptica (2006-2015).", "correcta": false},
+            {"texto": "Convergencia móvil, 4G y la llegada de 5G (2016-presente).", "correcta": true},
+            {"texto": "Implementación de redes satelitales de baja latencia.", "correcta": false}
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "numero": "P5",
+          "enunciado": "La lectura del texto permite identificar que el orden cronológico de los principales actores que lideraron cada fase de la conectividad en Bolivia es:",
+          "opciones": [
+            {"texto": "UMSA (1995) → Gobierno boliviano (RIB, 2006) → Entel (4G, 2016) → Viva Bolivia (5G, 2022).", "correcta": true},
+            {"texto": "Gobierno boliviano → UMSA → Entel → Viva Bolivia.", "correcta": false},
+            {"texto": "Entel → UMSA → Gobierno boliviano → Viva Bolivia.", "correcta": false},
+            {"texto": "Viva Bolivia → Gobierno boliviano → UMSA → Entel.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P6",
+          "enunciado": "Según el artículo, ¿qué porcentaje de la población boliviana se espera que tenga acceso a redes 5G para finales de 2024?",
+          "opciones": [
+            {"texto": "15%", "correcta": false},
+            {"texto": "20%", "correcta": true},
+            {"texto": "25%", "correcta": false},
+            {"texto": "30%", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P7",
+          "enunciado": "El artículo señala que la expansión de la fibra óptica y la llegada de 5G han mejorado la conectividad, pero persiste una brecha digital entre zonas urbanas y rurales; ¿qué principio general se puede extraer sobre el rol de la infraestructura tecnológica en la inclusión digital?",
+          "opciones": [
+            {"texto": "La infraestructura por sí sola garantiza la inclusión universal.", "correcta": false},
+            {"texto": "La infraestructura es necesaria pero insuficiente; se requieren políticas de apoyo, subsidios y capacitación.", "correcta": true},
+            {"texto": "La infraestructura solo beneficia a las zonas urbanas y estratégicas.", "correcta": false},
+            {"texto": "La infraestructura no influye en la reducción de la brecha digital.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P8",
+          "enunciado": "El artículo señala que la diferencia porcentual en la penetración de Internet entre hogares urbanos y rurales cambió entre 2003 y 2015; ¿cuál de las siguientes afirmaciones describe mejor esa evolución?",
+          "opciones": [
+            {"texto": "La brecha se redujo de 26 a 4 puntos porcentuales.", "correcta": false},
+            {"texto": "La brecha aumentó de aproximadamente 4 a 26 puntos porcentuales.", "correcta": true},
+            {"texto": "La brecha se mantuvo constante en 20 puntos porcentuales.", "correcta": false},
+            {"texto": "La brecha desapareció completamente en 2015.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P9",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿qué efecto se puede deducir de la implementación del proyecto “Red de Información Boliviana” (2006-2015) sobre la penetración de Internet en los hogares urbanos?",
+          "opciones": [
+            {"texto": "Disminución del acceso por altos costos.", "correcta": false},
+            {"texto": "Aumento de la penetración del 5% (2003) al 38% (2015).", "correcta": true},
+            {"texto": "Estancamiento en la cobertura urbana.", "correcta": false},
+            {"texto": "Migración masiva a redes satelitales.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P10",
+          "enunciado": "Considerando lo mencionado en el texto, ¿cuál es el mensaje principal implícito del autor respecto a las soluciones para cerrar la brecha digital en Bolivia?",
+          "opciones": [
+            {"texto": "Solo el sector privado debe invertir en conectividad.", "correcta": false},
+            {"texto": "La tecnología 5G resolverá automáticamente la brecha.", "correcta": false},
+            {"texto": "Se necesita una combinación de subsidios, capacitación digital y fondos nacionales con cooperación multisectorial.", "correcta": true},
+            {"texto": "La brecha digital es irreversible y no requiere políticas públicas.", "correcta": false}
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "numero": "P11",
+          "enunciado": "Basándose en la información proporcionada, ¿qué principio general se desprende de las soluciones propuestas para cerrar la brecha digital en Bolivia?",
+          "opciones": [
+            {"texto": "La competencia entre empresas eliminará las desigualdades.", "correcta": false},
+            {"texto": "La colaboración entre gobierno, academia y sector privado es esencial.", "correcta": true},
+            {"texto": "La inversión extranjera directa es la única solución viable.", "correcta": false},
+            {"texto": "La desconexión voluntaria de zonas rurales es una opción.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P12",
+          "enunciado": "Considerando lo mencionado en el texto, ¿cuál es la idea principal implícita que el autor desea transmitir sobre la evolución del Internet en Bolivia?",
+          "opciones": [
+            {"texto": "Bolivia es líder tecnológico en Latinoamérica sin desafíos.", "correcta": false},
+            {"texto": "Ha habido avances tecnológicos, pero persiste una brecha digital significativa que requiere políticas integradas.", "correcta": true},
+            {"texto": "El Internet no ha tenido impacto social en Bolivia.", "correcta": false},
+            {"texto": "La conectividad rural supera a la urbana.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P13",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿cuál es la propuesta central del autor para reducir la brecha digital entre zonas urbanas y rurales en Bolivia?",
+          "opciones": [
+            {"texto": "Combinar subsidios a la inversión privada, capacitación digital y un fondo nacional para zonas rurales.", "correcta": true},
+            {"texto": "Limitar el acceso a Internet en zonas urbanas para equilibrar recursos.", "correcta": false},
+            {"texto": "Esperar a que el mercado autorregule la cobertura.", "correcta": false},
+            {"texto": "Priorizar solo la expansión de fibra óptica en ciudades.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P14",
+          "enunciado": "Basándose en la información proporcionada, ¿qué es probable que ocurra en los próximos cinco años respecto a la cobertura de internet en áreas rurales de Bolivia?",
+          "opciones": [
+            {"texto": "Se estancará debido a la falta de interés gubernamental.", "correcta": false},
+            {"texto": "Mejorará gradualmente con políticas de subsidio e inversión en fibra óptica.", "correcta": true},
+            {"texto": "Se reducirá por el agotamiento de recursos financieros.", "correcta": false},
+            {"texto": "Será reemplazada completamente por satélites.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P15",
+          "enunciado": "De acuerdo con el texto, ¿cuál de las siguientes consecuencias es la más probable como resultado de la instalación de fibra óptica en los principales corredores urbanos entre 2006 y 2015?",
+          "opciones": [
+            {"texto": "Disminución de la penetración de Internet en hogares urbanos.", "correcta": false},
+            {"texto": "Aumento de la penetración urbana del 5% al 38% y reducción de precios.", "correcta": true},
+            {"texto": "Aumento de la brecha digital urbano-rural.", "correcta": false},
+            {"texto": "Desaparición de las redes móviles.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P16",
+          "enunciado": "¿Qué puede deducirse del texto respecto a la estrategia de expansión implementada por la empresa estatal Entel a través de la red 4G LTE?",
+          "opciones": [
+            {"texto": "Fue un fracaso comercial sin impacto en la conectividad.", "correcta": false},
+            {"texto": "Facilitó la futura implementación de 5G al contar con infraestructura móvil robusta.", "correcta": true},
+            {"texto": "Reemplazó completamente la necesidad de fibra óptica.", "correcta": false},
+            {"texto": "Solo se implementó en zonas rurales.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P17",
+          "enunciado": "El artículo señala que, considerando los datos estadísticos presentados, ¿cuál es el mensaje implícito principal respecto al desarrollo de la conectividad en Bolivia?",
+          "opciones": [
+            {"texto": "Bolivia ha alcanzado la cobertura universal.", "correcta": false},
+            {"texto": "Persisten desigualdades significativas que requieren políticas dirigidas a la inclusión universal.", "correcta": true},
+            {"texto": "El desarrollo tecnológico ha sido uniforme en todo el territorio.", "correcta": false},
+            {"texto": "La inversión privada es innecesaria.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P18",
+          "enunciado": "El artículo señala que, a raíz de la expansión de la fibra óptica y la implementación de redes 4G/5G, se puede concluir que:",
+          "opciones": [
+            {"texto": "La brecha digital se ha cerrado completamente.", "correcta": false},
+            {"texto": "La brecha digital persiste a pesar de los avances tecnológicos.", "correcta": true},
+            {"texto": "Las zonas rurales tienen mayor conectividad que las urbanas.", "correcta": false},
+            {"texto": "La tecnología 5G está disponible para el 100% de la población.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P19",
+          "enunciado": "Considerando lo mencionado en el texto, ¿cuál es la idea principal implícita respecto a los resultados de la evolución del Internet en Bolivia?",
+          "opciones": [
+            {"texto": "Hay avances tecnológicos positivos, pero persisten brechas que exigen cooperación multisectorial.", "correcta": true},
+            {"texto": "El progreso ha sido nulo debido a la geografía boliviana.", "correcta": false},
+            {"texto": "Bolivia está a la vanguardia mundial en conectividad.", "correcta": false},
+            {"texto": "La población rural tiene mejor acceso que la urbana.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P20",
+          "enunciado": "¿Qué puede deducirse de la expansión de la red 5G en zonas estratégicas como Puerto Suárez?",
+          "opciones": [
+            {"texto": "Solo beneficiará a empresas multinacionales.", "correcta": false},
+            {"texto": "Favorecerá servicios de telemedicina avanzada y educación a distancia.", "correcta": true},
+            {"texto": "No tendrá impacto en servicios de salud ni educación.", "correcta": false},
+            {"texto": "Reemplazará completamente la necesidad de profesionales de la salud.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P21",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿qué principio general se puede inferir sobre el papel de los diferentes actores en la expansión de la conectividad en Bolivia?",
+          "opciones": [
+            {"texto": "Solo el gobierno debe liderar el proceso.", "correcta": false},
+            {"texto": "La cooperación entre academia, gobierno y sector privado es esencial.", "correcta": true},
+            {"texto": "Las empresas privadas deben actuar sin regulación estatal.", "correcta": false},
+            {"texto": "La población no juega ningún rol.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P22",
+          "enunciado": "Según el artículo, la estimación de que el 20% de la población boliviana tendrá acceso a 5G para finales de 2024 debe evaluarse críticamente frente a la tendencia global de buscar una cobertura mayor del 50% en el mismo período; ¿cuál de las siguientes afirmaciones representa la valoración más adecuada de esta meta dentro del contexto boliviano?",
+          "opciones": [
+            {"texto": "Es un paso progresivo realista, dado que la cobertura se concentra en zonas estratégicas y persiste una brecha rural significativa.", "correcta": true},
+            {"texto": "Es una meta ambiciosa que superará a países desarrollados.", "correcta": false},
+            {"texto": "Es un fracaso absoluto comparado con la tendencia global.", "correcta": false},
+            {"texto": "No hay datos suficientes para evaluarla.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P23",
+          "enunciado": "El artículo señala que, según el INE, en 2023 el 68% de los hogares rurales carecen de acceso fijo a Internet. ¿Cuál de los siguientes posibles sesgos podría afectar la interpretación de este dato en el análisis del autor?",
+          "opciones": [
+            {"texto": "Subestimar la cobertura satelital.", "correcta": false},
+            {"texto": "Ignorar que muchos hogares rurales usan Internet móvil (3G/4G) sin acceso fijo.", "correcta": true},
+            {"texto": "Sobrestimar la cobertura urbana.", "correcta": false},
+            {"texto": "No considerar la penetración de la televisión por cable.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P24",
+          "enunciado": "El artículo señala que la prueba piloto de 5G en Puerto Suárez conectó hospitales y universidades con aplicaciones de telemedicina y realidad aumentada. ¿Por qué es relevante esta información para la planificación de políticas públicas orientadas a reducir la brecha digital en zonas rurales?",
+          "opciones": [
+            {"texto": "Porque demuestra que la 5G es solo para entretenimiento.", "correcta": false},
+            {"texto": "Porque evidencia que la 5G puede ofrecer servicios críticos (salud, educación) justificando su expansión como herramienta clave.", "correcta": true},
+            {"texto": "Porque muestra que la 5G no es útil en áreas rurales.", "correcta": false},
+            {"texto": "Porque sugiere que la telemedicina puede reemplazar totalmente a los médicos.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P25",
+          "enunciado": "Del análisis presentado se desprende que la afirmación del autor de que la implementación del 5G eliminará la brecha digital entre áreas urbanas y rurales es válida.",
+          "opciones": [
+            {"texto": "Verdadero, porque la 5G cubrirá todo el territorio rápidamente.", "correcta": false},
+            {"texto": "Falso, porque la 5G se concentrará en zonas estratégicas y la brecha requiere políticas integrales.", "correcta": true},
+            {"texto": "Verdadero, porque la 5G es más barata que la fibra óptica.", "correcta": false},
+            {"texto": "Falso, porque la 5G no tiene aplicaciones sociales.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P26",
+          "enunciado": "A partir del análisis presentado respecto a las diferencias de acceso y uso del Internet entre distintos grupos de la población, ¿qué otro aspecto importante ha obviado el autor?",
+          "opciones": [
+            {"texto": "Diferencias de acceso o uso entre hombres y mujeres (brecha de género).", "correcta": true},
+            {"texto": "Diferencias por grupo etario.", "correcta": false},
+            {"texto": "Diferencias por nivel de ingreso.", "correcta": false},
+            {"texto": "Diferencias por idioma materno.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P27",
+          "enunciado": "Basándose en la información proporcionada, ¿cuál de las siguientes afirmaciones describe mejor la viabilidad de la meta boliviana de que el 20% de la población tenga acceso a 5G para finales de 2024, considerando la actual brecha digital entre áreas urbanas y rurales?",
+          "opciones": [
+            {"texto": "Es imposible de alcanzar por falta de infraestructura.", "correcta": false},
+            {"texto": "Es plausible porque se enfoca en zonas urbanas y estratégicas donde ya existe infraestructura.", "correcta": true},
+            {"texto": "Es demasiado modesta y debería ser del 80%.", "correcta": false},
+            {"texto": "Depende exclusivamente de financiamiento externo.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P28",
+          "enunciado": "Basándose en la información proporcionada, ¿cuál de las siguientes perspectivas futuras no es considerada por el autor al proponer políticas para cerrar la brecha digital en Bolivia?",
+          "opciones": [
+            {"texto": "Inversión en capacitación digital.", "correcta": false},
+            {"texto": "Inclusión explícita de la visión y necesidades de los pueblos indígenas.", "correcta": true},
+            {"texto": "Subsidios a la inversión privada.", "correcta": false},
+            {"texto": "Creación de un fondo nacional para expansión rural.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P29",
+          "enunciado": "Basándose en la información proporcionada, ¿qué combinación de medidas sería la más adecuada para reducir la brecha digital entre zonas rurales y urbanas en Bolivia en los próximos cinco años?",
+          "opciones": [
+            {"texto": "Incentivar inversión privada con subsidios, promover capacitación digital y crear un fondo nacional para conectividad rural.", "correcta": true},
+            {"texto": "Solo expandir la fibra óptica en ciudades principales.", "correcta": false},
+            {"texto": "Eliminar la regulación estatal del espectro radioeléctrico.", "correcta": false},
+            {"texto": "Priorizar únicamente la tecnología satelital.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P30",
+          "enunciado": "Según el artículo, la estimación de que el 20% de la población boliviana tendrá acceso a 5G para finales de 2024 debe evaluarse críticamente frente a la tendencia global de buscar una cobertura mayor del 50% en el mismo período; ¿cuál de las siguientes afirmaciones representa la valoración más adecuada de esta meta dentro del contexto boliviano?",
+          "opciones": [
+            {"texto": "Es un paso progresivo, no una cobertura total, dado el contexto de brecha digital persistente.", "correcta": true},
+            {"texto": "Es una meta sobredimensionada e inalcanzable.", "correcta": false},
+            {"texto": "Es una muestra del liderazgo tecnológico boliviano.", "correcta": false},
+            {"texto": "Debería ser del 100% para ser aceptable.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        }
+      ]
+    },
+    {
+      "titulo": "Impacto de la digitalización y redes sociales en la participación política de los jóvenes bolivianos",
+      "resumen": "El artículo examina cómo la digitalización y el uso de redes sociales transforman la participación política de jóvenes entre 17 y 19 años en Bolivia. Analiza el acceso a información política, la movilización digital, y nuevas formas de expresión simbólica, destacando casos como el hashtag #ReformaEducativa2022 y el podcast “Voces del Chaco”. Se discuten riesgos como la desinformación y se proponen medidas de alfabetización digital.",
+      "preguntas": [
+        {
+          "numero": "P1",
+          "enunciado": "Basándose en la información proporcionada, ¿cuál es la consecuencia social inmediata que tuvo la campaña del hashtag #ReformaEducativa2022 descrita en el artículo?",
+          "opciones": [
+            {"texto": "Creación de un partido político juvenil.", "correcta": false},
+            {"texto": "Organización de una marcha con más de 5,000 personas en la Plaza Murillo.", "correcta": true},
+            {"texto": "Aprobación de una ley educativa por el Congreso.", "correcta": false},
+            {"texto": "Reducción de la deserción universitaria.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P2",
+          "enunciado": "De acuerdo con el texto, ¿cuál es la diferencia porcentual entre el porcentaje de jóvenes que se sienten capaces de distinguir noticias reales en el Departamento de La Paz y el porcentaje de los jóvenes que lo hacen en Potosí?",
+          "opciones": [
+            {"texto": "12%", "correcta": false},
+            {"texto": "18%", "correcta": false},
+            {"texto": "22%", "correcta": true},
+            {"texto": "30%", "correcta": false}
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "numero": "P3",
+          "enunciado": "La lectura del texto permite identificar que, según la teoría del “Efecto de Red” citada en el apartado de movilización digital, ¿cuál es el segundo mecanismo que se menciona para explicar cómo las redes sociales favorecen la organización de protestas?",
+          "opciones": [
+            {"texto": "Creación de una identidad colectiva.", "correcta": false},
+            {"texto": "Retroalimentación instantánea (likes, retweets) que refuerza la percepción de apoyo social.", "correcta": true},
+            {"texto": "Bajo costo de participación.", "correcta": false},
+            {"texto": "Fragmentación de mensajes polarizadores.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P4",
+          "enunciado": "El artículo señala que, comparando el porcentaje nacional de jóvenes que poseen un smartphone con el porcentaje de jóvenes en Potosí que se declaran capaces de distinguir noticias reales de falsas, ¿cuál es la diferencia porcentual entre ambos valores?",
+          "opciones": [
+            {"texto": "33%", "correcta": false},
+            {"texto": "41%", "correcta": false},
+            {"texto": "35%", "correcta": true},
+            {"texto": "30%", "correcta": false}
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "numero": "P5",
+          "enunciado": "A consecuencia del análisis presentado, ¿cómo define el artículo el concepto de participación simbólica?",
+          "opciones": [
+            {"texto": "Movilización física masiva mediante redes sociales.", "correcta": false},
+            {"texto": "Afiliación a partidos políticos tradicionales.", "correcta": false},
+            {"texto": "Expresión de opiniones y valores sin traducirse en acción concreta.", "correcta": true},
+            {"texto": "Uso exclusivo de podcasts para debates académicos.", "correcta": false}
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "numero": "P6",
+          "enunciado": "Del análisis presentado se desprende que, según el artículo, ¿cómo se define el concepto de alfabetización digital?",
+          "opciones": [
+            {"texto": "Capacidad de buscar, evaluar y utilizar la información digital de forma responsable.", "correcta": true},
+            {"texto": "Habilidad para programar y diseñar páginas web.", "correcta": false},
+            {"texto": "Conocimiento avanzado de hardware y redes.", "correcta": false},
+            {"texto": "Uso exclusivo de redes sociales para activismo.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P7",
+          "enunciado": "Del análisis presentado se desprende que la efectividad de la participación política de los jóvenes bolivianos depende principalmente de:",
+          "opciones": [
+            {"texto": "La posesión de un smartphone.", "correcta": false},
+            {"texto": "La ubicación geográfica exclusivamente.", "correcta": false},
+            {"texto": "La alfabetización digital y la capacidad crítica para evaluar información.", "correcta": true},
+            {"texto": "La afiliación a partidos políticos tradicionales.", "correcta": false}
+          ],
+          "respuesta_correcta": "c"
+        },
+        {
+          "numero": "P8",
+          "enunciado": "La lectura del texto permite identificar que, al comparar el proyecto “Voces del Chaco” con la campaña Reforma Educativa 2022, ¿cuál es la diferencia principal en el uso de los medios digitales para la participación política de los jóvenes en temas ambientales?",
+          "opciones": [
+            {"texto": "“Voces del Chaco” es una participación simbólica mediante podcasts, mientras que #ReformaEducativa2022 fue una movilización digital que derivó en acción física.", "correcta": true},
+            {"texto": "Ambas usaron exclusivamente TikTok.", "correcta": false},
+            {"texto": "“Voces del Chaco” generó una protesta masiva, mientras que #ReformaEducativa2022 solo tuvo impacto en línea.", "correcta": false},
+            {"texto": "No hay diferencias significativas.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P9",
+          "enunciado": "Del análisis presentado se desprende que, en comparación con la movilización física derivada del hashtag #ReformaEducativa2022, la iniciativa “Voces del Chaco” se caracteriza principalmente por:",
+          "opciones": [
+            {"texto": "Ser una protesta masiva con impacto legislativo.", "correcta": false},
+            {"texto": "Ser una expresión simbólica que genera debates pero no necesariamente acción concreta.", "correcta": true},
+            {"texto": "Utilizar exclusivamente redes cerradas como WhatsApp.", "correcta": false},
+            {"texto": "No tener ningún impacto en la agenda pública.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P10",
+          "enunciado": "Del análisis presentado se desprende que, debido al bajo costo de la participación digital descrito en la movilización #ReformaEducativa2022, es probable que:",
+          "opciones": [
+            {"texto": "Los jóvenes pierdan interés en la política.", "correcta": false},
+            {"texto": "Aumente la presión para que el Estado invierta en infraestructura digital.", "correcta": true},
+            {"texto": "Desaparezcan las formas tradicionales de participación.", "correcta": false},
+            {"texto": "Se reduzca la necesidad de alfabetización digital.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P11",
+          "enunciado": "Considerando lo mencionado en el texto, ¿cómo se diferencian los efectos de la digitalización en la movilización política de los jóvenes en la Universidad Mayor de San Andrés (UMSA) y en la región del Beni?",
+          "opciones": [
+            {"texto": "En ambos casos se logró consenso y diálogo constructivo.", "correcta": false},
+            {"texto": "En la UMSA hubo movilización masiva y coordinada; en el Beni hubo fragmentación y polarización por mensajes en WhatsApp.", "correcta": true},
+            {"texto": "En el Beni se organizaron protestas masivas, mientras que en la UMSA solo hubo participación simbólica.", "correcta": false},
+            {"texto": "No hay diferencias, ambos usaron las mismas plataformas.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P12",
+          "enunciado": "El artículo señala que, al comparar la movilización a través de plataformas digitales con la expresión simbólica en redes sociales, la consecuencia social más distintiva para la participación política juvenil es que:",
+          "opciones": [
+            {"texto": "La movilización digital puede traducirse en acción colectiva concreta, mientras la expresión simbólica tiene un impacto principalmente discursivo.", "correcta": true},
+            {"texto": "Ambas producen siempre cambios legislativos inmediatos.", "correcta": false},
+            {"texto": "La expresión simbólica es más efectiva para cambiar políticas públicas.", "correcta": false},
+            {"texto": "La movilización digital solo funciona en áreas urbanas.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P13",
+          "enunciado": "Basándose en la información proporcionada, ¿cuál es la conclusión más probable sobre el efecto histórico de la expansión digital en la participación política de los jóvenes bolivianos entre 2013 y 2022?",
+          "opciones": [
+            {"texto": "La expansión digital garantizó un aumento uniforme de la participación en todo el país.", "correcta": false},
+            {"texto": "La expansión digital por sí sola no asegura mayor participación; esta mejora solo donde hay alfabetización digital reforzada.", "correcta": true},
+            {"texto": "La participación política disminuyó drásticamente por el uso de redes sociales.", "correcta": false},
+            {"texto": "Los jóvenes abandonaron completamente las formas tradicionales de participación.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P14",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿cuál es la perspectiva futura que el autor sugiere para potenciar la participación política de los jóvenes bolivianos?",
+          "opciones": [
+            {"texto": "Prohibir el uso de redes sociales para fines políticos.", "correcta": false},
+            {"texto": "Implementar programas de alfabetización digital, políticas de transparencia y apoyo a contenidos juveniles.", "correcta": true},
+            {"texto": "Limitar la participación digital solo a plataformas oficiales del gobierno.", "correcta": false},
+            {"texto": "Promover exclusivamente la afiliación partidaria tradicional.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P15",
+          "enunciado": "De acuerdo con el texto, ¿qué es probable que ocurra si la producción y difusión de contenidos juveniles sobre temas ambientales, como el proyecto “Voces del Chaco” se intensifica en las redes sociales?",
+          "opciones": [
+            {"texto": "Disminuirá el interés por la política ambiental.", "correcta": false},
+            {"texto": "Se fortalecerá la inserción de la perspectiva juvenil en la agenda pública y la presión por políticas de conservación.", "correcta": true},
+            {"texto": "Se reducirá la audiencia de los podcasts.", "correcta": false},
+            {"texto": "Los jóvenes migrarán a plataformas exclusivamente de entretenimiento.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P16",
+          "enunciado": "La lectura del texto permite identificar que, al comparar la campaña ReformaEducativa2022 conducida por la UMSA con el uso de WhatsApp en el Beni, la diferencia esencial radica en:",
+          "opciones": [
+            {"texto": "Ambas usaron las mismas estrategias con idénticos resultados.", "correcta": false},
+            {"texto": "La campaña de la UMSA generó identidad colectiva y acción; el uso en el Beni causó fragmentación y polarización.", "correcta": true},
+            {"texto": "Solo la campaña de la UMSA utilizó redes sociales.", "correcta": false},
+            {"texto": "El uso en el Beni logró mayor movilización física.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P17",
+          "enunciado": "De acuerdo con el texto, ¿qué principio general se puede extraer sobre la relación entre la digitalización y la participación política de los jóvenes bolivianos?",
+          "opciones": [
+            {"texto": "La digitalización garantiza automáticamente una participación política crítica.", "correcta": false},
+            {"texto": "La digitalización puede favorecer la participación, pero depende crucialmente de la alfabetización digital.", "correcta": true},
+            {"texto": "La digitalización reduce inevitablemente la participación política.", "correcta": false},
+            {"texto": "La participación política es independiente del acceso a tecnología.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P18",
+          "enunciado": "La lectura del texto permite identificar que, si se implementan a nivel nacional programas de alfabetización digital dirigidos a jóvenes de entre 17 y 19 años, es probable que…",
+          "opciones": [
+            {"texto": "Aumente la compra automática de antibióticos.", "correcta": false},
+            {"texto": "Mejore la capacidad de distinguir información falsa y se mitigue la caída en la intención de voto.", "correcta": true},
+            {"texto": "Disminuya el uso de redes sociales.", "correcta": false},
+            {"texto": "Se elimine completamente la desinformación.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P19",
+          "enunciado": "Según el artículo, ¿qué es probable que ocurra si se implementan programas de alfabetización digital extensivos en todas las escuelas de Bolivia?",
+          "opciones": [
+            {"texto": "Aumentará la exposición a fake news.", "correcta": false},
+            {"texto": "Mejorará la capacidad de evaluar información y aumentará la participación electoral.", "correcta": true},
+            {"texto": "Reducirá el acceso a dispositivos móviles.", "correcta": false},
+            {"texto": "No tendrá ningún impacto en la participación política.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P20",
+          "enunciado": "Basándose en la información proporcionada, ¿qué principio general puede inferirse sobre el papel de los jóvenes bolivianos como actores en la participación política digital?",
+          "opciones": [
+            {"texto": "Los jóvenes actúan como catalizadores que coordinan acciones colectivas y crean discursos digitales.", "correcta": true},
+            {"texto": "Los jóvenes son meros receptores pasivos de información política.", "correcta": false},
+            {"texto": "Los jóvenes solo participan a través de canales tradicionales.", "correcta": false},
+            {"texto": "Los jóvenes evitan completamente la política digital.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P21",
+          "enunciado": "Basándose en la información proporcionada, ¿qué diferencia económica se puede inferir entre la movilización digital de los jóvenes mediante hashtags y la exposición a noticias falsas en relación con su potencial efecto sobre la participación electoral?",
+          "opciones": [
+            {"texto": "Ambas aumentan el gasto público en salud.", "correcta": false},
+            {"texto": "La movilización digital puede aumentar la influencia económica de los jóvenes en políticas públicas; la exposición a fake news reduce su capacidad de influir electoralmente.", "correcta": true},
+            {"texto": "La movilización digital reduce el PIB, mientras que las fake news lo aumentan.", "correcta": false},
+            {"texto": "No hay diferencias económicas relevantes.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P22",
+          "enunciado": "Del análisis presentado se desprende que la principal fortaleza del enfoque metodológico del artículo radica en:",
+          "opciones": [
+            {"texto": "Basarse exclusivamente en datos cualitativos de redes sociales.", "correcta": false},
+            {"texto": "Combinar estadísticas cuantitativas (INE, encuestas) con casos de estudio concretos (UMSA, Voces del Chaco).", "correcta": true},
+            {"texto": "Ignorar el contexto regional del Beni.", "correcta": false},
+            {"texto": "No considerar la alfabetización digital como variable.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P23",
+          "enunciado": "El artículo señala que la digitalización puede revitalizar la democracia boliviana siempre que se acompañe de políticas de alfabetización digital; ¿qué tan válido es este argumento según la información presentada?",
+          "opciones": [
+            {"texto": "Débil, porque no hay evidencia de correlación entre alfabetización y participación.", "correcta": false},
+            {"texto": "Sólido, porque se muestra que la capacidad de distinguir noticias reales está vinculada a mayor intención de participar.", "correcta": true},
+            {"texto": "Invalido, porque la digitalización siempre debilita la democracia.", "correcta": false},
+            {"texto": "No se presenta suficiente evidencia para evaluarlo.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P24",
+          "enunciado": "De acuerdo con el texto, ¿cuál de las siguientes limitaciones o sesgos no está contemplado en las soluciones propuestas por los autores?",
+          "opciones": [
+            {"texto": "Desigualdades geográficas en acceso a internet.", "correcta": false},
+            {"texto": "Falta de medidas concretas para ampliar infraestructura de conectividad en zonas rurales.", "correcta": true},
+            {"texto": "Necesidad de alfabetización digital.", "correcta": false},
+            {"texto": "Importancia de la transparencia institucional.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P25",
+          "enunciado": "De acuerdo con el texto, ¿qué tipo de evidencia sería más pertinente para reforzar la afirmación de que los programas de alfabetización digital aumentan la intención de voto entre los jóvenes bolivianos?",
+          "opciones": [
+            {"texto": "Estudios experimentales que midan intención de voto antes y después de intervenciones de alfabetización.", "correcta": true},
+            {"texto": "Encuestas de opinión sin control de variables.", "correcta": false},
+            {"texto": "Datos de venta de smartphones.", "correcta": false},
+            {"texto": "Casos anecdóticos de redes sociales.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P26",
+          "enunciado": "De acuerdo con el texto, ¿por qué es relevante implementar programas de alfabetización digital en las escuelas bolivianas para mejorar la participación política de los jóvenes?",
+          "opciones": [
+            {"texto": "Porque así dejarán de usar redes sociales.", "correcta": false},
+            {"texto": "Porque mejoran la capacidad de evaluar información, mitigan la desinformación y favorecen una participación más informada.", "correcta": true},
+            {"texto": "Porque aumentarán las compras en línea.", "correcta": false},
+            {"texto": "Porque reducirán la necesidad de docentes.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P27",
+          "enunciado": "Considerando lo mencionado en el texto, ¿qué sesgo económico está presente en el enfoque del autor al analizar la digitalización y la participación política de los jóvenes bolivianos?",
+          "opciones": [
+            {"texto": "No aborda cómo la situación socioeconómica (ingresos, capacidad de pago de datos) afecta el acceso y calidad de la participación digital.", "correcta": true},
+            {"texto": "Ignora completamente el costo de los dispositivos móviles.", "correcta": false},
+            {"texto": "Sobrestima el poder adquisitivo de los jóvenes rurales.", "correcta": false},
+            {"texto": "No menciona el precio de las conexiones de internet.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P28",
+          "enunciado": "Del análisis presentado se desprende que, en contraste con la concepción tradicional de que la defensa ambiental depende principalmente de acciones de campo, ¿qué afirma el artículo sobre el papel de iniciativas digitales como los podcasts ‘Voces del Chaco’ en la influencia de políticas medioambientales?",
+          "opciones": [
+            {"texto": "Facilitan la inserción de la perspectiva juvenil en la agenda pública, aunque su traducción en cambios políticos concretos aún se investiga.", "correcta": true},
+            {"texto": "Reemplazan completamente las acciones de campo.", "correcta": false},
+            {"texto": "No tienen ningún impacto en políticas públicas.", "correcta": false},
+            {"texto": "Solo sirven para entretenimiento.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P29",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿cuáles son las principales implicaciones éticas y sociales que deben considerarse al diseñar programas de alfabetización digital dirigidos a los jóvenes bolivianos para fortalecer su participación política?",
+          "opciones": [
+            {"texto": "Inclusión digital, pensamiento crítico, reducción de brechas regionales y protección contra la manipulación informativa.", "correcta": true},
+            {"texto": "Solo aumentar el acceso a dispositivos sin considerar contenidos.", "correcta": false},
+            {"texto": "Promover el uso exclusivo de redes oficiales del gobierno.", "correcta": false},
+            {"texto": "Evitar cualquier mención a la política partidaria.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P30",
+          "enunciado": "De acuerdo con el texto, ¿cuáles son las implicaciones éticas más relevantes de la desigualdad en alfabetización digital entre los jóvenes de La Paz y Potosí para la calidad de la participación política?",
+          "opciones": [
+            {"texto": "No hay implicaciones éticas significativas.", "correcta": false},
+            {"texto": "La falta de alfabetización digital expone a algunos jóvenes a desinformación, afecta su intención de participar y vulnera la igualdad democrática.", "correcta": true},
+            {"texto": "Favorece la participación de los más educados digitalmente.", "correcta": false},
+            {"texto": "Reduce la competitividad electoral.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        }
+      ]
+    },
+    {
+      "titulo": "Inteligencia artificial en la educación boliviana",
+      "resumen": "El artículo analiza cómo la IA puede transformar la enseñanza en Bolivia mediante tutores virtuales, analítica de aprendizaje y realidad aumentada. Examina fundamentos neurocientíficos como plasticidad sináptica y carga cognitiva, y discute desafíos éticos, técnicos y estructurales como la brecha digital, capacitación docente y privacidad de datos.",
+      "preguntas": [
+        {
+          "numero": "P1",
+          "enunciado": "Según el artículo, ¿qué actor es mencionado primero como iniciador de la implementación de herramientas de IA en la educación boliviana?",
+          "opciones": [
+            {"texto": "Universidad Católica Boliviana.", "correcta": false},
+            {"texto": "Ministerio de Educación (programa “Bolivia Aprende Digital”).", "correcta": true},
+            {"texto": "Universidad Mayor de San Andrés (UMSA).", "correcta": false},
+            {"texto": "Empresa Teknova.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P2",
+          "enunciado": "De acuerdo con el texto, ¿qué organismo proporciona la cifra del 38% de hogares rurales bolivianos con conexión a Internet de banda ancha?",
+          "opciones": [
+            {"texto": "UNESCO.", "correcta": false},
+            {"texto": "Instituto Nacional de Estadística (INE).", "correcta": true},
+            {"texto": "Ministerio de Educación.", "correcta": false},
+            {"texto": "Universidad Mayor de San Andrés (UMSA).", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P3",
+          "enunciado": "Basándose en la información proporcionada, ¿cuál es la segunda consecuencia social que se menciona respecto a la adopción de la IA en la educación boliviana?",
+          "opciones": [
+            {"texto": "Ampliación de la desigualdad educativa.", "correcta": false},
+            {"texto": "Dependencia excesiva del algoritmo sin capacidad docente de interpretación o intervención.", "correcta": true},
+            {"texto": "Reducción de la brecha digital automática.", "correcta": false},
+            {"texto": "Aumento de la deserción escolar.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P4",
+          "enunciado": "El artículo señala que los conceptos neurocientíficos clave para la personalización del aprendizaje son:",
+          "opciones": [
+            {"texto": "Plasticidad sináptica y carga cognitiva.", "correcta": true},
+            {"texto": "Memoria de trabajo y aprendizaje automático.", "correcta": false},
+            {"texto": "Neurotransmisores y redes neuronales.", "correcta": false},
+            {"texto": "Inteligencia emocional y zona de desarrollo próximo.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P5",
+          "enunciado": "De acuerdo con el texto, ¿cuáles son los principales desafíos que se identifican para la integración de la IA en la educación boliviana?",
+          "opciones": [
+            {"texto": "Falta de interés de los estudiantes.", "correcta": false},
+            {"texto": "Infraestructura y conectividad, capacitación docente, privacidad y sesgo algorítmico.", "correcta": true},
+            {"texto": "Exceso de oferta de dispositivos móviles.", "correcta": false},
+            {"texto": "Resistencia de los padres de familia.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P6",
+          "enunciado": "Según el artículo, ¿qué porcentaje de hogares rurales en Bolivia dispone de conexión a Internet de banda ancha?",
+          "opciones": [
+            {"texto": "22%", "correcta": false},
+            {"texto": "38%", "correcta": true},
+            {"texto": "71%", "correcta": false},
+            {"texto": "84%", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P7",
+          "enunciado": "El artículo señala que solo el 38% de los hogares rurales tiene conexión de banda ancha, mientras que el 71% de los urbanos sí la posee. ¿Qué consecuencia se puede deducir si esta diferencia de conectividad no se corrige al introducir herramientas de IA en la educación?",
+          "opciones": [
+            {"texto": "Se reducirá la deserción escolar en zonas rurales.", "correcta": false},
+            {"texto": "Se incrementará la desigualdad educativa entre áreas rurales y urbanas.", "correcta": true},
+            {"texto": "Aumentará la capacitación docente automáticamente.", "correcta": false},
+            {"texto": "Disminuirá la necesidad de infraestructura tecnológica.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P8",
+          "enunciado": "Según el artículo, ¿cuál es la principal fortaleza del enfoque de tutores virtuales basados en IA en la educación secundaria boliviana?",
+          "opciones": [
+            {"texto": "Reducen la necesidad de docentes humanos.", "correcta": false},
+            {"texto": "Mejoran el rendimiento académico y reducen la deserción en asignaturas como matemática.", "correcta": true},
+            {"texto": "Eliminan por completo la brecha digital.", "correcta": false},
+            {"texto": "Son más baratos que los libros de texto tradicionales.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P9",
+          "enunciado": "Considerando lo mencionado en el texto, ¿qué tan válido es el argumento de que la inteligencia artificial reducirá automáticamente las brechas sociales en la educación boliviana?",
+          "opciones": [
+            {"texto": "Totalmente válido, porque la IA es accesible para todos.", "correcta": false},
+            {"texto": "Parcialmente válido, porque depende de mejoras en conectividad y capacitación docente.", "correcta": true},
+            {"texto": "Totalmente inválido, porque la IA solo beneficia a zonas urbanas.", "correcta": false},
+            {"texto": "No se puede determinar por falta de datos.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P10",
+          "enunciado": "Del análisis presentado se desprende que, respecto a los resultados del estudio piloto con tutor virtual basado en IA, la evidencia es:",
+          "opciones": [
+            {"texto": "Válida como indicio preliminar, pero no suficiente para afirmar mejoras a nivel nacional sin más investigación.", "correcta": true},
+            {"texto": "Totalmente concluyente y generalizable a todo el país.", "correcta": false},
+            {"texto": "Débil por falta de datos cuantitativos.", "correcta": false},
+            {"texto": "Solo aplicable a universidades privadas.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P11",
+          "enunciado": "De acuerdo con el texto, ¿cuál de los siguientes aspectos representa una posible limitación que podría sesgar los resultados del estudio piloto sobre tutores virtuales?",
+          "opciones": [
+            {"texto": "La muestra se limitó a una universidad urbana (UCB) y no incluyó contextos rurales diversos.", "correcta": true},
+            {"texto": "No se midió el rendimiento en matemática.", "correcta": false},
+            {"texto": "Los estudiantes no usaron dispositivos móviles.", "correcta": false},
+            {"texto": "No se consideró la carga cognitiva.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P12",
+          "enunciado": "De acuerdo con el texto, ¿cuál es la principal implicación económica de adoptar inteligencia artificial en la educación boliviana?",
+          "opciones": [
+            {"texto": "Reducción inmediata del presupuesto educativo.", "correcta": false},
+            {"texto": "Necesidad de invertir en infraestructura de banda ancha rural y formación docente.", "correcta": true},
+            {"texto": "Aumento de la deuda externa.", "correcta": false},
+            {"texto": "Eliminación de los salarios docentes.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P13",
+          "enunciado": "Considerando lo mencionado en el texto, ¿cuál de los siguientes sesgos potenciales no se discute explícitamente en el artículo?",
+          "opciones": [
+            {"texto": "Sesgo de género en el acceso y uso de IA.", "correcta": true},
+            {"texto": "Sesgo por datos mayormente urbanos en entrenamiento de algoritmos.", "correcta": false},
+            {"texto": "Brecha de conectividad entre zonas rurales y urbanas.", "correcta": false},
+            {"texto": "Falta de capacitación docente en tecnologías emergentes.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P14",
+          "enunciado": "El artículo señala que la IA puede modular la carga cognitiva y la plasticidad sináptica para optimizar el aprendizaje. Según una valoración crítica simple, ¿cuál de los siguientes enunciados representa la mayor fortaleza de este enfoque científico?",
+          "opciones": [
+            {"texto": "Favorece la retención a largo plazo al maximizar la plasticidad sináptica sin saturar la carga cognitiva.", "correcta": true},
+            {"texto": "Elimina la necesidad de docentes en el aula.", "correcta": false},
+            {"texto": "Reduce el tiempo de estudio a la mitad.", "correcta": false},
+            {"texto": "Funciona igual para todos los estudiantes sin personalización.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P15",
+          "enunciado": "Según el artículo, ¿cuál de los siguientes actores es el más determinante para garantizar una integración responsable de la IA en la educación boliviana?",
+          "opciones": [
+            {"texto": "Empresas tecnológicas privadas.", "correcta": false},
+            {"texto": "Ministerio de Educación (lidera políticas, inversión, capacitación y regulación).", "correcta": true},
+            {"texto": "Estudiantes de bachillerato.", "correcta": false},
+            {"texto": "Organizaciones internacionales como la UNESCO.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P16",
+          "enunciado": "La lectura del texto permite identificar que, para que la IA contribuya de forma efectiva a la educación en Bolivia, es necesario que las soluciones propuestas se orienten principalmente a:",
+          "opciones": [
+            {"texto": "Reemplazar a los docentes con algoritmos.", "correcta": false},
+            {"texto": "Invertir en conectividad rural, formar docentes y crear políticas de protección de datos.", "correcta": true},
+            {"texto": "Limitar el uso de IA a asignaturas de ciencias exactas.", "correcta": false},
+            {"texto": "Priorizar la compra de equipos sin considerar la capacitación.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P17",
+          "enunciado": "De acuerdo con el texto, ¿qué consecuencia se puede deducir si se invierte en redes de banda ancha en zonas rurales?",
+          "opciones": [
+            {"texto": "Se facilitará la implementación de plataformas de IA y se reducirá la brecha digital.", "correcta": true},
+            {"texto": "Aumentará automáticamente la capacitación docente.", "correcta": false},
+            {"texto": "Se eliminará la necesidad de políticas de privacidad de datos.", "correcta": false},
+            {"texto": "Los estudiantes rurales superarán a los urbanos en rendimiento.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P18",
+          "enunciado": "Basándose en la información proporcionada, ¿cuál es el propósito económico principal de mejorar la conectividad de banda ancha en zonas rurales de Bolivia?",
+          "opciones": [
+            {"texto": "Reducir el presupuesto en educación.", "correcta": false},
+            {"texto": "Fortalecer el capital humano y crear bases para el desarrollo económico a largo plazo.", "correcta": true},
+            {"texto": "Aumentar las ganancias de las empresas de telecomunicaciones.", "correcta": false},
+            {"texto": "Disminuir la migración campo-ciudad.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P19",
+          "enunciado": "De acuerdo con el texto, ¿qué efecto probable tendría la falta de capacitación docente en inteligencia artificial sobre el uso de los sistemas de IA en las aulas?",
+          "opciones": [
+            {"texto": "Mejoraría la interpretación de resultados por parte de los docentes.", "correcta": false},
+            {"texto": "Generaría dependencia excesiva del algoritmo sin capacidad de intervención pedagógica adecuada.", "correcta": true},
+            {"texto": "Aumentaría la autonomía de los estudiantes.", "correcta": false},
+            {"texto": "No tendría ningún impacto en el uso de la IA.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P20",
+          "enunciado": "De acuerdo con el texto, ¿cuál es el mensaje principal implícito que el autor comunica respecto a los datos estadísticos proporcionados?",
+          "opciones": [
+            {"texto": "Bolivia tiene una conectividad uniforme en todo el territorio.", "correcta": false},
+            {"texto": "La desigualdad de conectividad (38% rural vs. 71% urbana) limita la implementación equitativa de la IA y puede ampliar la brecha educativa.", "correcta": true},
+            {"texto": "La IA resolverá todos los problemas educativos sin necesidad de infraestructura.", "correcta": false},
+            {"texto": "Los datos son insuficientes para tomar decisiones.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P21",
+          "enunciado": "De acuerdo con el texto, ¿qué conclusión lógica se puede extraer sobre los procesos técnicos de IA que personalizan el aprendizaje?",
+          "opciones": [
+            {"texto": "Funcionan igual para todos los estudiantes.", "correcta": false},
+            {"texto": "Estiman la zona de desarrollo próximo y ajustan la complejidad para maximizar plasticidad sináptica sin saturar carga cognitiva.", "correcta": true},
+            {"texto": "Dependen exclusivamente de la velocidad de internet.", "correcta": false},
+            {"texto": "No consideran diferencias individuales.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P22",
+          "enunciado": "Según el artículo, ¿qué se puede concluir acerca del impacto de la personalización basada en IA en el desempeño académico de los estudiantes bolivianos?",
+          "opciones": [
+            {"texto": "No hay impacto significativo.", "correcta": false},
+            {"texto": "Mejora el rendimiento y reduce la deserción, según estudios piloto.", "correcta": true},
+            {"texto": "Solo beneficia a estudiantes urbanos.", "correcta": false},
+            {"texto": "Aumenta la carga de trabajo docente.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P23",
+          "enunciado": "La lectura del texto permite identificar que la principal diferencia entre los tutores virtuales y la analítica de aprendizaje es que:",
+          "opciones": [
+            {"texto": "Los tutores virtuales personalizan la enseñanza para mejorar calificaciones; la analítica de aprendizaje predice riesgos de deserción para intervenir tempranamente.", "correcta": true},
+            {"texto": "Ambos son lo mismo.", "correcta": false},
+            {"texto": "Los tutores virtuales solo se usan en matemática, la analítica en todas las asignaturas.", "correcta": false},
+            {"texto": "La analítica de aprendizaje no usa datos.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P24",
+          "enunciado": "La lectura del texto permite identificar que la perspectiva futura del autor para la integración responsable de la IA en la educación boliviana es que:",
+          "opciones": [
+            {"texto": "Requiere inversión en conectividad rural, formación docente y políticas de protección de datos de manera combinada.", "correcta": true},
+            {"texto": "Debe limitarse a universidades privadas.", "correcta": false},
+            {"texto": "Es responsabilidad exclusiva de las empresas tecnológicas.", "correcta": false},
+            {"texto": "No necesita regulación alguna.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P25",
+          "enunciado": "Del análisis presentado, se desprende que todas las metodologías basadas en IA descritas comparten como objetivo principal…",
+          "opciones": [
+            {"texto": "Personalizar el aprendizaje según las necesidades individuales del estudiante.", "correcta": true},
+            {"texto": "Reducir el número de docentes en el sistema educativo.", "correcta": false},
+            {"texto": "Reemplazar los libros de texto tradicionales.", "correcta": false},
+            {"texto": "Aumentar la carga cognitiva de los estudiantes.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P26",
+          "enunciado": "La lectura del texto permite identificar que, si se amplía el uso de la analítica de aprendizaje basada en IA en los colegios bolivianos, ¿qué es probable que ocurrirá?",
+          "opciones": [
+            {"texto": "Aumentará la deserción escolar.", "correcta": false},
+            {"texto": "Disminuirá la tasa de deserción al identificar y apoyar a estudiantes en riesgo.", "correcta": true},
+            {"texto": "No tendrá ningún efecto en la deserción.", "correcta": false},
+            {"texto": "Reducirá la necesidad de docentes.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        },
+        {
+          "numero": "P27",
+          "enunciado": "De acuerdo con el texto, ¿qué conclusión puede extraerse sobre el papel de la pandemia de COVID-19 en la incorporación de la inteligencia artificial en la educación boliviana?",
+          "opciones": [
+            {"texto": "Aceleró la digitalización educativa y facilitó la integración de IA siguiendo tendencias regionales.", "correcta": true},
+            {"texto": "Retrasó todos los proyectos de IA por falta de presupuesto.", "correcta": false},
+            {"texto": "No tuvo ningún impacto en la adopción de IA.", "correcta": false},
+            {"texto": "Hizo que la IA fuera innecesaria.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P28",
+          "enunciado": "Según el artículo, ¿qué es probable que ocurrirá si el gobierno de Bolivia implementa programas de capacitación docente en alfabetización digital avanzada y, al mismo tiempo, amplía la conectividad de banda ancha en áreas rurales?",
+          "opciones": [
+            {"texto": "Se reducirá la brecha de acceso a tecnologías basadas en IA y mejorará la equidad educativa.", "correcta": true},
+            {"texto": "Aumentará la dependencia de algoritmos sin supervisión docente.", "correcta": false},
+            {"texto": "Se eliminará completamente la necesidad de IA.", "correcta": false},
+            {"texto": "Solo beneficiará a las zonas urbanas.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P29",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿cuál sería la consecuencia probable si un sistema de IA no ajusta la complejidad de los ejercicios al nivel de desarrollo próximo del estudiante?",
+          "opciones": [
+            {"texto": "Aumentaría la carga cognitiva, disminuyendo el rendimiento y la transferencia de conocimientos.", "correcta": true},
+            {"texto": "Mejoraría automáticamente el aprendizaje.", "correcta": false},
+            {"texto": "No tendría ningún efecto en el estudiante.", "correcta": false},
+            {"texto": "Reduciría la necesidad de estudio.", "correcta": false}
+          ],
+          "respuesta_correcta": "a"
+        },
+        {
+          "numero": "P30",
+          "enunciado": "A partir de lo expuesto en el artículo, ¿qué tipo de evidencia adicional sería necesaria para reforzar la afirmación de que la IA reducirá las brechas sociales en la educación boliviana?",
+          "opciones": [
+            {"texto": "Datos de ventas de dispositivos móviles.", "correcta": false},
+            {"texto": "Estudios longitudinales que midan cambios en desempeño y deserción en poblaciones rurales y urbanas antes y después de la adopción de IA.", "correcta": true},
+            {"texto": "Encuestas de opinión a docentes.", "correcta": false},
+            {"texto": "Casos anecdóticos de escuelas privadas.", "correcta": false}
+          ],
+          "respuesta_correcta": "b"
+        }
+      ]
+    }
+  ]
+}
